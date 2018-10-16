@@ -1,0 +1,15 @@
+Hepsiburada.com Ürünü Testi
+=====================================
+
+Login Senaryosu
+-------------------------------------
+* Login Olunur
+
+
+Sepete Ürün Ekleme Senaryosu
+-------------------------------------
+* Login Olunur
+* "ANASAYFA_ARAMA_TEXTBOX" alanına "Macbook" yazılır
+* "ANASAYFA_ARAMA_TEXTBOX_BUTONU" butonuna tıklanır
+* "ARAMA_SONUCU_URUNLER_LISTESI" listesinden rastgele bir elemana tıklanır
+* "URUN_SAYFASI_SEPETE_EKLE_BUTONU" butonuna tıklanır

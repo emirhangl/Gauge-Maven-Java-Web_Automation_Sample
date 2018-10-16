@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"Hepsiburada.com Ürünü Testi":["specs/deneme.html"]}};

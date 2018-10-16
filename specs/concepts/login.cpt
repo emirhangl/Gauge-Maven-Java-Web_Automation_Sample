@@ -1,0 +1,9 @@
+
+# Login Olunur
+* "https://www.hepsiburada.com" Sayfasına gidilir
+* "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+* "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+* "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+* "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+* "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+* "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir

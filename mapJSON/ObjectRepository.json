@@ -1,0 +1,46 @@
+{
+  "DENEME_JSON": {
+    "id": "foo"
+  },
+
+  "HESABIM_BUTONU": {
+    "id": "myAccount"
+  },
+
+  "HESABIM_BUTONU_GIRIS_YAP": {
+    "id": "login"
+  },
+
+  "LOGIN_EKRANI_EPOSTA_TEXTBOX": {
+    "id": "email"
+  },
+
+  "LOGIN_EKRANI_SIFRE_TEXTBOX": {
+    "id": "password"
+  },
+
+  "UYE_GIRISI_GIRIS_YAP_BUTONU": {
+    "cssSelector": "div.form-actions > button[class='btn full btn-login-submit']"
+  },
+
+  "ANASAYFA_HEPSIBURADA_LOGOSU": {
+    "cssSelector": "div.header-global > a.logo-hepsiburada"
+  },
+
+  "ANASAYFA_ARAMA_TEXTBOX": {
+    "id": "productSearch"
+  },
+
+  "ANASAYFA_ARAMA_TEXTBOX_BUTONU": {
+    "id": "buttonProductSearch"
+  },
+
+  "ARAMA_SONUCU_URUNLER_LISTESI": {
+    "cssSelector": "ul > li > div > a"
+  },
+
+  "URUN_SAYFASI_SEPETE_EKLE_BUTONU": {
+    "id": "addToCart"
+  }
+
+}
