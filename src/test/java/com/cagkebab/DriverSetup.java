@@ -40,7 +40,7 @@ public class DriverSetup {
             case "REMOTECHROME":
                 DesiredCapabilities capability = DesiredCapabilities.chrome();
                 capability.setBrowserName("chrome");
-                capability.setPlatform(org.openqa.selenium.Platform.MAC);
+                capability.setPlatform(org.openqa.selenium.Platform.LINUX);
                 return new RemoteWebDriver(new URL("http://10.0.0.4:4447/wd/hub"),capability);
             default:
                 WebDriverManager.chromedriver().setup();
