@@ -20,7 +20,7 @@
   },
 
   "UYE_GIRISI_GIRIS_YAP_BUTONU": {
-    "cssSelector": "div.form-actions > button[class='btn full btn-login-submit']"
+    "cssselector": "div.form-actions > button[class='btn full btn-login-submit']"
   },
 
   "ANASAYFA_HEPSIBURADA_LOGOSU": {

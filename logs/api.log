@@ -1,0 +1,1063 @@
+11:32:11.271 Unable to send analytics data, timed out
+11:32:11.274 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+11:32:11.274 Found 3 files
+11:32:11.274 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+11:32:11.274 Found 1 files
+11:32:11.289 Initializing concepts cache with 1 concepts
+11:32:11.289 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+11:32:11.290 Initializing specs cache with 1 specs
+11:32:11.290 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+11:32:11.290 Initializing steps cache with 2 steps
+11:32:11.290 Gauge daemon initialized and listening on port: 57164
+11:32:22.465 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+11:32:22.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+11:32:22.698 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+11:32:22.699 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+11:32:22.797 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:32:22.797 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+11:32:22.832 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+11:32:22.833 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+11:32:22.843 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+11:32:22.843 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+11:32:22.844 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+11:32:22.845 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+11:32:22.847 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+11:32:22.848 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+11:32:22.859 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+11:32:22.863 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+11:32:22.879 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:32:22.880 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+11:32:22.951 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+11:32:22.952 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+11:32:22.959 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+11:32:22.960 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+11:32:22.963 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+11:32:22.963 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+11:32:22.965 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+11:32:22.965 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+11:32:22.966 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+11:32:22.966 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+11:32:30.147 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Olunur" > 
+11:32:30.149 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+11:32:30.190 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+11:32:30.190 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+11:32:30.191 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+11:32:30.192 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+11:32:30.192 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+11:32:30.192 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+11:32:30.193 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+11:32:30.193 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+11:32:30.847 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Login Olunur" > 
+11:32:30.848 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+11:32:30.890 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX\" alan\304\261na \"Macbook\" yaz\304\261l\304\261r" > 
+11:32:30.890 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX> alan\304\261na <Macbook> yaz\304\261l\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX" parameters:"Macbook" > > 
+11:32:30.932 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX_BUTONU\" butonuna t\304\261klan\304\261r" > 
+11:32:30.933 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX_BUTONU> butonuna t\304\261klan\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX_BUTONU" > > 
+11:32:31.019 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ARAMA_SONUCU_URUNLER_LISTESI\" listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+11:32:31.019 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<ARAMA_SONUCU_URUNLER_LISTESI> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"ARAMA_SONUCU_URUNLER_LISTESI" > > 
+11:32:31.035 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"URUN_SAYFASI_SEPETE_EKLE_BUTONU\" butonuna t\304\261klan\304\261r" > 
+11:32:31.035 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<URUN_SAYFASI_SEPETE_EKLE_BUTONU> butonuna t\304\261klan\304\261r" parameters:"URUN_SAYFASI_SEPETE_EKLE_BUTONU" > > 
+11:39:21.832 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+11:39:21.833 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} Sayfas\304\261na gidilir" parameterizedStepValue:"* <https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+11:39:21.846 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:39:21.847 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"* <HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+11:39:21.858 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+11:39:21.859 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+11:39:21.870 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+11:39:21.870 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+11:39:21.886 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+11:39:21.887 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+11:39:21.887 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+11:39:21.887 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"* <ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+11:39:21.888 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+11:39:21.889 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+19:19:43.461 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+19:19:43.461 Found 3 files
+19:19:43.462 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+19:19:43.462 Found 1 files
+19:19:43.486 Initializing concepts cache with 1 concepts
+19:19:43.486 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+19:19:43.488 Initializing specs cache with 1 specs
+19:19:43.488 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+19:19:43.488 Initializing steps cache with 2 steps
+19:19:43.488 Gauge daemon initialized and listening on port: 51500
+19:35:10.700 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+19:35:10.704 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+19:35:10.930 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+19:35:10.931 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+19:35:11.062 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+19:35:11.063 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+19:35:11.191 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+19:35:11.192 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+19:35:11.314 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+19:35:11.314 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+19:35:11.380 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+19:35:11.380 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+19:35:11.441 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+19:35:11.441 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+19:35:11.466 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+19:35:11.466 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+19:35:11.504 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+19:35:11.504 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+19:35:11.536 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+19:35:11.537 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+19:35:11.624 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+19:35:11.624 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+19:35:11.659 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX\" alan\304\261na \"Macbook\" yaz\304\261l\304\261r" > 
+19:35:11.659 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX> alan\304\261na <Macbook> yaz\304\261l\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX" parameters:"Macbook" > > 
+19:35:11.660 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Olunur" > 
+19:35:11.660 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+19:35:11.661 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"URUN_SAYFASI_SEPETE_EKLE_BUTONU\" butonuna t\304\261klan\304\261r" > 
+19:35:11.661 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<URUN_SAYFASI_SEPETE_EKLE_BUTONU> butonuna t\304\261klan\304\261r" parameters:"URUN_SAYFASI_SEPETE_EKLE_BUTONU" > > 
+19:35:11.662 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX_BUTONU\" butonuna t\304\261klan\304\261r" > 
+19:35:11.662 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX_BUTONU> butonuna t\304\261klan\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX_BUTONU" > > 
+19:35:11.663 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ARAMA_SONUCU_URUNLER_LISTESI\" listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+19:35:11.663 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<ARAMA_SONUCU_URUNLER_LISTESI> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"ARAMA_SONUCU_URUNLER_LISTESI" > > 
+19:35:11.666 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+19:35:11.666 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} Sayfas\304\261na gidilir" parameterizedStepValue:"* <https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+19:35:11.667 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+19:35:11.667 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"* <HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+19:35:11.668 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+19:35:11.668 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+19:35:11.668 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+19:35:11.668 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+19:35:11.669 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+19:35:11.669 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+19:35:11.670 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+19:35:11.670 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"* <ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+19:35:11.670 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+19:35:11.671 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+19:35:14.567 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Login Olunur" > 
+19:35:14.567 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+19:58:14.393 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+19:58:14.394 Found 3 files
+19:58:14.394 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+19:58:14.394 Found 1 files
+19:58:14.419 Initializing concepts cache with 1 concepts
+19:58:14.419 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+19:58:14.420 Initializing specs cache with 1 specs
+19:58:14.420 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+19:58:14.420 Initializing steps cache with 2 steps
+19:58:14.420 Gauge daemon initialized and listening on port: 52032
+22:37:48.654 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+22:37:48.657 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+22:37:48.988 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+22:37:48.989 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+22:37:49.139 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+22:37:49.140 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+22:37:49.266 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+22:37:49.267 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+22:37:49.390 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+22:37:49.391 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+22:37:49.442 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+22:37:49.442 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+22:37:49.562 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+22:37:49.562 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+22:37:49.644 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+22:37:49.645 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+22:37:49.712 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+22:37:49.712 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+22:37:49.759 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+22:37:49.759 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+22:37:49.911 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+22:37:49.912 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+22:37:49.938 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX\" alan\304\261na \"Macbook\" yaz\304\261l\304\261r" > 
+22:37:49.938 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX> alan\304\261na <Macbook> yaz\304\261l\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX" parameters:"Macbook" > > 
+22:37:49.939 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Olunur" > 
+22:37:49.940 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+22:37:49.941 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"URUN_SAYFASI_SEPETE_EKLE_BUTONU\" butonuna t\304\261klan\304\261r" > 
+22:37:49.942 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<URUN_SAYFASI_SEPETE_EKLE_BUTONU> butonuna t\304\261klan\304\261r" parameters:"URUN_SAYFASI_SEPETE_EKLE_BUTONU" > > 
+22:37:49.950 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX_BUTONU\" butonuna t\304\261klan\304\261r" > 
+22:37:49.950 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX_BUTONU> butonuna t\304\261klan\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX_BUTONU" > > 
+22:37:49.951 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ARAMA_SONUCU_URUNLER_LISTESI\" listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+22:37:49.951 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<ARAMA_SONUCU_URUNLER_LISTESI> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"ARAMA_SONUCU_URUNLER_LISTESI" > > 
+22:37:49.954 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+22:37:49.954 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} Sayfas\304\261na gidilir" parameterizedStepValue:"* <https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+22:37:49.969 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+22:37:49.969 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"* <HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+22:37:49.971 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+22:37:49.971 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+22:37:49.972 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+22:37:49.972 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+22:37:49.973 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+22:37:49.973 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+22:37:49.974 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+22:37:49.974 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"* <ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+22:37:49.975 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+22:37:49.975 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+23:09:34.673 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+23:09:34.673 Found 3 files
+23:09:34.674 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+23:09:34.674 Found 1 files
+23:09:34.711 Initializing concepts cache with 1 concepts
+23:09:34.711 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+23:09:34.713 Initializing specs cache with 1 specs
+23:09:34.713 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+23:09:34.713 Initializing steps cache with 2 steps
+23:09:34.713 Gauge daemon initialized and listening on port: 54707
+23:09:43.025 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+23:09:43.027 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+23:09:43.373 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+23:09:43.374 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+23:09:43.562 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+23:09:43.562 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+23:09:43.658 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+23:09:43.658 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+23:09:43.736 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+23:09:43.737 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+23:09:43.776 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+23:09:43.777 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+23:09:43.862 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+23:09:43.863 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+23:09:43.945 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+23:09:43.945 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+23:09:44.000 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+23:09:44.000 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+23:09:44.066 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+23:09:44.066 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+23:09:44.147 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+23:09:44.147 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+23:09:44.178 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX\" alan\304\261na \"Macbook\" yaz\304\261l\304\261r" > 
+23:09:44.179 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX> alan\304\261na <Macbook> yaz\304\261l\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX" parameters:"Macbook" > > 
+23:09:44.179 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Olunur" > 
+23:09:44.179 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+23:09:44.180 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"URUN_SAYFASI_SEPETE_EKLE_BUTONU\" butonuna t\304\261klan\304\261r" > 
+23:09:44.180 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<URUN_SAYFASI_SEPETE_EKLE_BUTONU> butonuna t\304\261klan\304\261r" parameters:"URUN_SAYFASI_SEPETE_EKLE_BUTONU" > > 
+23:09:44.181 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX_BUTONU\" butonuna t\304\261klan\304\261r" > 
+23:09:44.181 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX_BUTONU> butonuna t\304\261klan\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX_BUTONU" > > 
+23:09:44.181 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ARAMA_SONUCU_URUNLER_LISTESI\" listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+23:09:44.182 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<ARAMA_SONUCU_URUNLER_LISTESI> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"ARAMA_SONUCU_URUNLER_LISTESI" > > 
+23:09:44.184 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+23:09:44.185 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} Sayfas\304\261na gidilir" parameterizedStepValue:"* <https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+23:09:44.185 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+23:09:44.185 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"* <HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+23:09:44.186 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+23:09:44.186 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+23:09:44.187 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+23:09:44.187 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+23:09:44.195 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+23:09:44.195 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+23:09:44.196 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+23:09:44.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"* <ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+23:09:44.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+23:09:44.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+03:24:22.355 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+03:24:22.358 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+03:24:22.392 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+03:24:22.393 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+03:24:22.411 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+03:24:22.411 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+03:24:22.417 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+03:24:22.418 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+03:24:22.445 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+03:24:22.446 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+03:24:22.462 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+03:24:22.462 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+03:24:22.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+03:24:22.469 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+03:24:25.001 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Login Olunur" > 
+03:24:25.002 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+03:25:11.289 Spec file added / modified: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+03:25:43.004 Spec file removed: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+03:25:43.004 Spec file added / modified: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+08:36:40.954 Unable to send analytics data, timed out
+08:36:40.956 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+08:36:40.957 Found 4 files
+08:36:40.957 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+08:36:40.957 Found 1 files
+08:36:40.980 Initializing concepts cache with 1 concepts
+08:36:40.980 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+08:36:40.984 Initializing specs cache with 2 specs
+08:36:40.984 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+08:36:40.984 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+08:36:40.984 Initializing steps cache with 3 steps
+08:36:40.984 Gauge daemon initialized and listening on port: 61813
+08:37:00.613 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+08:37:00.616 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+08:37:01.401 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+08:37:01.401 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+08:37:01.429 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+08:37:01.429 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+08:37:01.436 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+08:37:01.437 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+08:37:01.437 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+08:37:01.437 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+08:37:01.438 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+08:37:01.438 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+08:37:01.439 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+08:37:01.439 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+08:37:01.440 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+08:37:01.440 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+08:37:01.441 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+08:37:01.441 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+08:37:01.443 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+08:37:01.443 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+08:37:01.448 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+08:37:01.448 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+08:37:01.452 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+08:37:01.452 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+08:37:01.454 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+08:37:01.454 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+08:37:01.456 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+08:37:01.457 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+16:17:35.850 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Olunur" > 
+16:17:35.857 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+16:17:35.978 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+16:17:35.979 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+16:17:35.997 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+16:17:35.997 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+16:17:35.998 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+16:17:35.998 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+16:17:36.002 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+16:17:36.003 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+16:17:36.281 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Login Olunur" > 
+16:17:36.281 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+16:17:36.283 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX\" alan\304\261na \"Macbook\" yaz\304\261l\304\261r" > 
+16:17:36.283 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX> alan\304\261na <Macbook> yaz\304\261l\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX" parameters:"Macbook" > > 
+16:17:36.284 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX_BUTONU\" butonuna t\304\261klan\304\261r" > 
+16:17:36.284 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX_BUTONU> butonuna t\304\261klan\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX_BUTONU" > > 
+16:17:36.285 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ARAMA_SONUCU_URUNLER_LISTESI\" listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+16:17:36.285 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<ARAMA_SONUCU_URUNLER_LISTESI> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"ARAMA_SONUCU_URUNLER_LISTESI" > > 
+16:17:36.286 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"URUN_SAYFASI_SEPETE_EKLE_BUTONU\" butonuna t\304\261klan\304\261r" > 
+16:17:36.286 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<URUN_SAYFASI_SEPETE_EKLE_BUTONU> butonuna t\304\261klan\304\261r" parameters:"URUN_SAYFASI_SEPETE_EKLE_BUTONU" > > 
+08:23:12.552 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+08:23:12.553 Found 4 files
+08:23:12.553 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+08:23:12.553 Found 1 files
+08:23:12.584 Initializing concepts cache with 1 concepts
+08:23:12.584 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+08:23:12.587 Initializing specs cache with 2 specs
+08:23:12.587 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+08:23:12.587 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+08:23:12.587 Initializing steps cache with 3 steps
+08:23:12.587 Gauge daemon initialized and listening on port: 54409
+08:23:29.545 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Olunur" > 
+08:23:29.548 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+08:23:30.522 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+08:23:30.522 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+08:23:30.526 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+08:23:30.526 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+08:23:30.527 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+08:23:30.527 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+08:23:30.527 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+08:23:30.528 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+08:23:30.528 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+08:23:30.528 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+08:23:30.529 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+08:23:30.529 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+08:23:30.530 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+08:23:30.530 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+08:23:30.531 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+08:23:30.531 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+08:23:30.532 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+08:23:30.532 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+08:23:30.533 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+08:23:30.533 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+08:23:30.533 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+08:23:30.533 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+08:23:30.896 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Login Olunur" > 
+08:23:30.896 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+08:23:30.902 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX\" alan\304\261na \"Macbook\" yaz\304\261l\304\261r" > 
+08:23:30.902 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX> alan\304\261na <Macbook> yaz\304\261l\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX" parameters:"Macbook" > > 
+08:23:30.945 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX_BUTONU\" butonuna t\304\261klan\304\261r" > 
+08:23:30.946 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX_BUTONU> butonuna t\304\261klan\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX_BUTONU" > > 
+08:23:30.982 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ARAMA_SONUCU_URUNLER_LISTESI\" listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+08:23:30.982 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<ARAMA_SONUCU_URUNLER_LISTESI> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"ARAMA_SONUCU_URUNLER_LISTESI" > > 
+08:23:30.986 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"URUN_SAYFASI_SEPETE_EKLE_BUTONU\" butonuna t\304\261klan\304\261r" > 
+08:23:30.987 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<URUN_SAYFASI_SEPETE_EKLE_BUTONU> butonuna t\304\261klan\304\261r" parameters:"URUN_SAYFASI_SEPETE_EKLE_BUTONU" > > 
+08:33:26.041 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+08:33:26.043 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+08:33:26.200 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+08:33:26.200 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+08:33:26.205 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+08:33:26.206 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+08:33:26.210 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+08:33:26.211 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+08:33:26.213 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+08:33:26.213 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+08:33:26.219 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+08:33:26.220 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+08:33:26.224 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+08:33:26.225 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+09:26:47.001 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" > 
+09:26:47.003 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameterizedStepValue:"<by> popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameters:"by" > > 
+09:36:13.236 Spec file added / modified: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+09:36:14.403 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:14.403 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:14.405 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:14.407 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:14.416 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:14.417 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:14.479 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:14.480 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:14.484 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:14.485 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:14.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:14.582 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:14.588 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:14.588 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:15.073 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09:36:15.073 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX> alan\304\261na <Macbook> yaz\304\261l\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX" parameters:"Macbook" > allSteps:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > allSteps:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<ARAMA_SONUCU_URUNLER_LISTESI> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"ARAMA_SONUCU_URUNLER_LISTESI" > allSteps:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > allSteps:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > allSteps:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<URUN_SAYFASI_SEPETE_EKLE_BUTONU> butonuna t\304\261klan\304\261r" parameters:"URUN_SAYFASI_SEPETE_EKLE_BUTONU" > > 
+09:36:15.081 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09:36:15.081 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > filepath:"/Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt" lineNumber:2 > > 
+09:36:17.196 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:17.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:17.214 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:17.215 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:17.218 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:17.219 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:17.222 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:17.223 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:17.224 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09:36:17.224 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09:36:20.216 Spec file removed: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+09:36:20.216 Spec file added / modified: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+11:07:38.980 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+11:07:39.000 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+11:07:39.063 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+11:07:39.064 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+11:07:39.066 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word \"gauge\" has \"3\" vowels." > 
+11:07:39.067 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > > 
+11:07:39.074 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+11:07:39.076 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+11:07:39.113 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels" hasInlineTable:true > 
+11:07:39.113 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > > 
+11:07:39.114 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+11:07:39.115 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+11:07:53.839 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:53.842 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:53.873 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:53.874 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:53.883 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:53.883 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:53.888 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:53.893 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:53.905 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:53.906 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:53.920 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:53.921 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:53.928 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:53.928 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.307 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Concept Heading" > 
+11:07:54.308 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > > 
+11:07:54.312 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.312 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.314 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Concept Heading" > 
+11:07:54.315 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > > 
+11:07:54.316 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.316 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.317 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.319 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.323 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.323 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.324 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.325 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.327 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.327 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.329 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.329 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.330 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.330 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.330 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.330 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.530 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.531 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.535 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.535 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.539 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.539 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:54.541 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:54.541 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:56.687 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:56.688 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:56.697 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:56.697 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:56.701 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:56.702 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:56.705 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:56.706 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:56.718 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:56.718 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:56.737 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:56.738 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:56.748 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:56.748 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:56.753 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:56.756 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:07:56.761 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:07:56.762 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:12:06.682 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step1" > 
+11:12:06.684 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+11:12:07.059 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step2" > 
+11:12:07.060 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+11:12:29.465 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_POPUP_CLOSE\" butonuna t\304\261klan\304\261r" > 
+11:12:29.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<HESABIM_POPUP_CLOSE> butonuna t\304\261klan\304\261r" parameters:"HESABIM_POPUP_CLOSE" > > 
+11:16:18.785 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:18.786 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:18.786 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:18.788 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:18.793 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:18.795 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:18.796 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:18.797 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:18.824 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:18.825 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:18.828 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:18.832 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:18.834 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:18.835 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.193 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.193 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.194 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.194 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.194 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.194 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.195 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.195 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.196 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.562 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.563 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.579 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.579 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.580 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.580 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.647 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.648 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.651 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.652 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.654 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.654 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:19.655 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:19.656 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:42.355 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:42.355 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:42.367 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:42.367 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:16:42.377 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:16:42.377 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:22.553 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_POPUP_CLOSE\" popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" > 
+11:17:22.554 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameterizedStepValue:"<LOGIN_POPUP_CLOSE> popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameters:"LOGIN_POPUP_CLOSE" > > 
+11:17:22.576 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"URUN_KATEGORISI_POPUP_CLOSE\" popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" > 
+11:17:22.576 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameterizedStepValue:"<URUN_KATEGORISI_POPUP_CLOSE> popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameters:"URUN_KATEGORISI_POPUP_CLOSE" > > 
+11:17:22.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_POPUP_CLOSE\" popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" > 
+11:17:22.582 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameterizedStepValue:"<HESABIM_POPUP_CLOSE> popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameters:"HESABIM_POPUP_CLOSE" > > 
+11:17:22.584 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_LOGIN_BUTONU\" butonuna t\304\261klan\304\261r" > 
+11:17:22.585 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<LOGIN_LOGIN_BUTONU> butonuna t\304\261klan\304\261r" parameters:"LOGIN_LOGIN_BUTONU" > > 
+11:17:22.587 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"SEPET_POPUP_CLOSE\" popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" > 
+11:17:22.588 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameterizedStepValue:"<SEPET_POPUP_CLOSE> popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameters:"SEPET_POPUP_CLOSE" > > 
+11:17:22.590 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"USER_ACCOUNT_MENU\" butonuna t\304\261klan\304\261r" > 
+11:17:22.590 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<USER_ACCOUNT_MENU> butonuna t\304\261klan\304\261r" parameters:"USER_ACCOUNT_MENU" > > 
+11:17:22.591 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"USER_ACCOUNT_LOGIN\" butonuna t\304\261klan\304\261r" > 
+11:17:22.591 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<USER_ACCOUNT_LOGIN> butonuna t\304\261klan\304\261r" parameters:"USER_ACCOUNT_LOGIN" > > 
+11:17:22.593 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EMAIL\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+11:17:22.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EMAIL> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EMAIL" parameters:"emirhan558@gmail.com" > > 
+11:17:22.601 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_PASSWORD\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+11:17:22.602 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_PASSWORD> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_PASSWORD" parameters:"emir123456" > > 
+11:17:27.529 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:27.529 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:27.535 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:27.535 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:27.536 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:27.536 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:27.539 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:27.539 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:27.562 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:27.563 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:27.564 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:27.564 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:27.565 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:27.565 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:27.565 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:27.566 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:27.571 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:27.573 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:33.126 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:33.127 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:33.127 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:33.127 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:33.128 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:33.128 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:33.131 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:33.131 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:33.162 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:33.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:33.165 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:33.165 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:17:33.167 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:17:33.168 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.449 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.451 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.459 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.459 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.494 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.494 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.549 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.550 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.569 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.572 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.788 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.788 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.788 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.788 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.788 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.789 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.789 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.789 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.789 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.789 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.789 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.790 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.898 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.898 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.902 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.903 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.903 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.903 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.904 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.904 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.904 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.904 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:41.905 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:41.905 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.039 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.039 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.039 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.039 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.040 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.041 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.090 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.090 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.091 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.091 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.092 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.092 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.180 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.180 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.190 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.191 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.557 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.559 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.574 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.575 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.577 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.578 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.582 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.583 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.620 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.623 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.626 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.627 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:42.631 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:42.633 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:49.887 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login" > 
+11:22:49.889 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login" parameterizedStepValue:"Login" > > 
+11:22:50.372 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login o" > 
+11:22:50.372 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login o" parameterizedStepValue:"Login o" > > 
+11:22:51.000 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login O" > 
+11:22:51.000 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login O" parameterizedStepValue:"Login O" > > 
+11:22:51.553 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Olu" > 
+11:22:51.553 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olu" parameterizedStepValue:"Login Olu" > > 
+11:23:18.016 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:18.017 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:18.049 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:18.049 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:18.055 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:18.056 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:18.068 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:18.070 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:18.163 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:18.164 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:18.174 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:18.176 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:18.180 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:18.180 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:25.799 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Lo" > 
+11:23:25.799 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Lo" parameterizedStepValue:"Lo" > > 
+11:23:26.130 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:26.130 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:26.132 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:26.133 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:26.162 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:26.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:26.647 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:26.647 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:23:26.655 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:23:26.655 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:20.983 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:20.985 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:20.995 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:20.995 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:20.998 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:20.999 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.041 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.042 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.045 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.046 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.083 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.083 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.087 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.087 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.093 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.093 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.095 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.097 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.619 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.620 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.627 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.627 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.661 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.662 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.666 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.666 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.676 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.677 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.681 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.682 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.969 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.969 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.970 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.971 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:21.974 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:21.974 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.046 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.047 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.047 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.047 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.047 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.048 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.048 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.048 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.048 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.049 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.049 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.049 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.180 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.180 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.192 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.192 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.193 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.193 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.196 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.196 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.203 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.203 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.203 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.203 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.204 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.204 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.204 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.204 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.384 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.385 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.385 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.385 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.386 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.386 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.436 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.436 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.436 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.437 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.437 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.437 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.485 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.485 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.485 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.486 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.486 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.486 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:22.584 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:22.584 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:27.876 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:27.879 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:28.195 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:28.195 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:28.624 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:38:28.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:38:29.154 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Saniyesi kadar bekle" > 
+11:38:29.154 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Saniyesi kadar bekle" parameterizedStepValue:"Saniyesi kadar bekle" > > 
+11:38:29.483 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:38:29.484 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:38:29.486 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:38:29.486 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:38:29.499 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:38:29.500 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:38:29.514 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:38:29.514 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:38:29.516 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:38:29.517 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:38:29.525 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:38:29.526 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:38:29.530 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:38:29.530 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:38:30.070 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"\" Saniyesi kadar bekle" > 
+11:38:30.071 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<> Saniyesi kadar bekle" parameters:"" > > 
+11:38:36.746 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"5\" Saniyesi kadar bekle" > 
+11:38:36.746 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<5> Saniyesi kadar bekle" parameters:"5" > > 
+11:50:10.278 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EMAIL\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+11:50:10.279 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EMAIL> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EMAIL" parameters:"emirhan558@gmail.com" > > 
+11:50:10.280 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_LOGIN_BUTONU\" butonuna t\304\261klan\304\261r" > 
+11:50:10.281 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <LOGIN_LOGIN_BUTONU> butonuna t\304\261klan\304\261r" parameters:"LOGIN_LOGIN_BUTONU" > > 
+11:50:10.281 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"USER_ACCOUNT_MENU\" butonuna t\304\261klan\304\261r" > 
+11:50:10.281 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <USER_ACCOUNT_MENU> butonuna t\304\261klan\304\261r" parameters:"USER_ACCOUNT_MENU" > > 
+11:50:10.281 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"USER_ACCOUNT_LOGIN\" butonuna t\304\261klan\304\261r" > 
+11:50:10.281 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <USER_ACCOUNT_LOGIN> butonuna t\304\261klan\304\261r" parameters:"USER_ACCOUNT_LOGIN" > > 
+11:50:10.282 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_POPUP_CLOSE\" popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" > 
+11:50:10.282 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_POPUP_CLOSE> popup\304\261 ekranda g\303\266r\303\274l\303\274rse kapat\304\261l\304\261r" parameters:"LOGIN_POPUP_CLOSE" > > 
+11:50:10.282 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_PASSWORD\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+11:50:10.282 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_PASSWORD> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_PASSWORD" parameters:"emir123456" > > 
+11:50:10.283 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"5\" Saniyesi kadar bekle" > 
+11:50:10.283 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} Saniyesi kadar bekle" parameterizedStepValue:"* <5> Saniyesi kadar bekle" parameters:"5" > > 
+11:50:24.968 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:50:24.969 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:24.979 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:50:24.979 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:25.047 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" Saniyesi kadar bekle" > 
+11:50:25.047 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:25.490 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniyesi kadar bekle" > 
+11:50:25.491 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniyesi kadar bekle" parameterizedStepValue:"5 Saniyesi kadar bekle" > > 
+11:50:27.231 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.231 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.236 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.236 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.243 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.244 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.402 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.403 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.403 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.403 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.405 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.406 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.731 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.731 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.733 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.733 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.736 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.737 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.737 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.737 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.741 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.741 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:27.742 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5\" Saniyesi kadar bekle" > 
+11:50:27.742 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:48.641 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:50:48.642 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:50:48.644 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:50:48.644 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:50:48.658 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:50:48.659 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:50:48.676 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:50:48.677 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:50:48.678 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:50:48.679 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:50:48.680 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:50:48.681 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:50:48.681 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:50:48.681 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:50:54.455 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:50:54.455 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:50:55.084 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" butonuna t\304\261klan\304\261r" > 
+11:50:55.084 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:55.086 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" butonuna t\304\261klan\304\261r" > 
+11:50:55.086 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:55.087 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" butonuna t\304\261klan\304\261r" > 
+11:50:55.087 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:55.088 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" butonuna t\304\261klan\304\261r" > 
+11:50:55.088 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:55.088 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" butonuna t\304\261klan\304\261r" > 
+11:50:55.088 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:55.090 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" butonuna t\304\261klan\304\261r" > 
+11:50:55.091 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:55.094 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\" butonuna t\304\261klan\304\261r" > 
+11:50:55.094 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+11:50:55.505 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"\" butonuna t\304\261klan\304\261r" > 
+11:50:55.506 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<> butonuna t\304\261klan\304\261r" parameters:"" > > 
+11:50:57.327 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_POPUP_CLOSE\" butonuna t\304\261klan\304\261r" > 
+11:50:57.327 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<LOGIN_POPUP_CLOSE> butonuna t\304\261klan\304\261r" parameters:"LOGIN_POPUP_CLOSE" > > 
+11:50:57.328 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_POPUP_CLOSE\" butonuna t\304\261klan\304\261r" > 
+11:50:57.329 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<LOGIN_POPUP_CLOSE> butonuna t\304\261klan\304\261r" parameters:"LOGIN_POPUP_CLOSE" > > 
+15:27:15.389 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+15:27:15.390 Found 4 files
+15:27:15.391 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+15:27:15.391 Found 1 files
+15:27:15.417 Initializing concepts cache with 1 concepts
+15:27:15.417 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+15:27:15.419 Initializing specs cache with 2 specs
+15:27:15.419 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+15:27:15.419 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+15:27:15.419 Initializing steps cache with 3 steps
+15:27:15.419 Gauge daemon initialized and listening on port: 60917
+15:27:20.767 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Olunur" > 
+15:27:20.769 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+15:27:20.943 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+15:27:20.943 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+15:27:20.945 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+15:27:20.945 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+15:27:20.946 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+15:27:20.946 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+15:27:20.947 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+15:27:20.947 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+15:27:20.948 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+15:27:20.948 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+15:27:20.949 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+15:27:20.949 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+15:27:20.950 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+15:27:20.950 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+15:27:20.951 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+15:27:20.951 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+15:27:20.952 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+15:27:20.952 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+15:27:20.952 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+15:27:20.953 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+15:27:20.953 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+15:27:20.953 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+15:27:21.167 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Login Olunur" > 
+15:27:21.167 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+15:27:21.169 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX\" alan\304\261na \"Macbook\" yaz\304\261l\304\261r" > 
+15:27:21.169 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX> alan\304\261na <Macbook> yaz\304\261l\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX" parameters:"Macbook" > > 
+15:27:21.178 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX_BUTONU\" butonuna t\304\261klan\304\261r" > 
+15:27:21.178 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX_BUTONU> butonuna t\304\261klan\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX_BUTONU" > > 
+15:27:21.183 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ARAMA_SONUCU_URUNLER_LISTESI\" listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+15:27:21.183 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<ARAMA_SONUCU_URUNLER_LISTESI> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"ARAMA_SONUCU_URUNLER_LISTESI" > > 
+15:27:21.186 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"URUN_SAYFASI_SEPETE_EKLE_BUTONU\" butonuna t\304\261klan\304\261r" > 
+15:27:21.186 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<URUN_SAYFASI_SEPETE_EKLE_BUTONU> butonuna t\304\261klan\304\261r" parameters:"URUN_SAYFASI_SEPETE_EKLE_BUTONU" > > 
+21:04:46.112 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+21:04:46.112 Found 4 files
+21:04:46.113 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+21:04:46.113 Found 1 files
+21:04:46.134 Initializing concepts cache with 1 concepts
+21:04:46.134 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+21:04:46.137 Initializing specs cache with 2 specs
+21:04:46.138 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+21:04:46.138 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+21:04:46.138 Initializing steps cache with 3 steps
+21:04:46.138 Gauge daemon initialized and listening on port: 54631
+21:06:58.042 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+21:06:58.048 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} Sayfas\304\261na gidilir" parameterizedStepValue:"* <https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+21:06:58.050 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+21:06:58.050 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"* <HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+21:06:58.050 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+21:06:58.051 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+21:06:58.051 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+21:06:58.051 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+21:06:58.053 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+21:06:58.053 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} butonuna t\304\261klan\304\261r" parameterizedStepValue:"* <UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+21:06:58.054 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+21:06:58.054 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"* <ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+21:06:58.056 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+21:06:58.057 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"* <LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+21:08:30.273 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+21:08:30.276 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+21:08:30.305 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+21:08:30.307 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
+21:08:30.336 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+21:08:30.339 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+21:08:30.345 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+21:08:30.354 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+21:08:30.380 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+21:08:30.386 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+21:08:30.395 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+21:08:30.395 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+21:08:30.409 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+21:08:30.409 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+08:43:40.519 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+08:43:40.520 Found 4 files
+08:43:40.520 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+08:43:40.520 Found 1 files
+08:43:40.546 Initializing concepts cache with 1 concepts
+08:43:40.546 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+08:43:40.548 Initializing specs cache with 2 specs
+08:43:40.548 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+08:43:40.548 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+08:43:40.548 Initializing steps cache with 3 steps
+08:43:40.548 Gauge daemon initialized and listening on port: 50847
+08:44:04.743 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Olunur" > 
+08:44:04.747 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+08:44:06.060 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+08:44:06.060 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+08:44:06.062 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+08:44:06.063 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+08:44:06.064 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+08:44:06.064 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+08:44:06.065 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+08:44:06.065 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+08:44:06.066 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+08:44:06.066 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+08:44:06.067 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+08:44:06.067 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+08:44:06.068 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+08:44:06.068 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+08:44:06.069 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+08:44:06.069 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+08:44:06.071 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+08:44:06.071 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+08:44:06.072 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+08:44:06.072 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+08:44:06.072 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+08:44:06.073 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+08:44:06.756 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Login Olunur" > 
+08:44:06.756 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Olunur" parameterizedStepValue:"Login Olunur" > > 
+08:44:06.762 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX\" alan\304\261na \"Macbook\" yaz\304\261l\304\261r" > 
+08:44:06.762 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX> alan\304\261na <Macbook> yaz\304\261l\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX" parameters:"Macbook" > > 
+08:44:06.917 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_ARAMA_TEXTBOX_BUTONU\" butonuna t\304\261klan\304\261r" > 
+08:44:06.918 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<ANASAYFA_ARAMA_TEXTBOX_BUTONU> butonuna t\304\261klan\304\261r" parameters:"ANASAYFA_ARAMA_TEXTBOX_BUTONU" > > 
+08:44:06.930 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ARAMA_SONUCU_URUNLER_LISTESI\" listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+08:44:06.930 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<ARAMA_SONUCU_URUNLER_LISTESI> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"ARAMA_SONUCU_URUNLER_LISTESI" > > 
+08:44:07.013 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"URUN_SAYFASI_SEPETE_EKLE_BUTONU\" butonuna t\304\261klan\304\261r" > 
+08:44:07.013 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<URUN_SAYFASI_SEPETE_EKLE_BUTONU> butonuna t\304\261klan\304\261r" parameters:"URUN_SAYFASI_SEPETE_EKLE_BUTONU" > > 
+15:23:12.227 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+15:23:12.228 Found 4 files
+15:23:12.228 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+15:23:12.228 Found 1 files
+15:23:12.369 Initializing concepts cache with 1 concepts
+15:23:12.369 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+15:23:12.374 Initializing specs cache with 2 specs
+15:23:12.375 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+15:23:12.375 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+15:23:12.375 Initializing steps cache with 3 steps
+15:23:12.375 Gauge daemon initialized and listening on port: 55449
+17:27:34.272 Unable to send analytics data, timed out
+17:27:34.280 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+17:27:34.280 Found 4 files
+17:27:34.280 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+17:27:34.280 Found 1 files
+17:27:34.312 Initializing concepts cache with 1 concepts
+17:27:34.312 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+17:27:34.313 Initializing specs cache with 2 specs
+17:27:34.314 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+17:27:34.314 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+17:27:34.314 Initializing steps cache with 3 steps
+17:27:34.314 Gauge daemon initialized and listening on port: 59106
+14:25:55.930 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs
+14:25:55.931 Found 4 files
+14:25:55.931 Watching directory: /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts
+14:25:55.931 Found 1 files
+14:25:55.962 Initializing concepts cache with 1 concepts
+14:25:55.962 Adding concepts from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt
+14:25:55.964 Initializing specs cache with 2 specs
+14:25:55.964 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme2.spec
+14:25:55.964 Adding specs from /Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec
+14:25:55.964 Initializing steps cache with 3 steps
+14:25:55.964 Gauge daemon initialized and listening on port: 61180
+14:26:46.438 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"https://www.hepsiburada.com\" Sayfas\304\261na gidilir" > 
+14:26:46.440 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<https://www.hepsiburada.com> Sayfas\304\261na gidilir" parameters:"https://www.hepsiburada.com" > > 
+14:26:46.442 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"UYE_GIRISI_GIRIS_YAP_BUTONU\" butonuna t\304\261klan\304\261r" > 
+14:26:46.443 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<UYE_GIRISI_GIRIS_YAP_BUTONU> butonuna t\304\261klan\304\261r" parameters:"UYE_GIRISI_GIRIS_YAP_BUTONU" > > 
+14:26:46.476 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU\" alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+14:26:46.477 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<HESABIM_BUTONU> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"HESABIM_BUTONU" > > 
+14:26:46.486 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"HESABIM_BUTONU_GIRIS_YAP\" butonuna t\304\261klan\304\261r" > 
+14:26:46.486 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<HESABIM_BUTONU_GIRIS_YAP> butonuna t\304\261klan\304\261r" parameters:"HESABIM_BUTONU_GIRIS_YAP" > > 
+14:26:46.493 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_EPOSTA_TEXTBOX\" alan\304\261na \"emirhan558@gmail.com\" yaz\304\261l\304\261r" > 
+14:26:46.493 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_EPOSTA_TEXTBOX> alan\304\261na <emirhan558@gmail.com> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_EPOSTA_TEXTBOX" parameters:"emirhan558@gmail.com" > > 
+14:26:46.509 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"LOGIN_EKRANI_SIFRE_TEXTBOX\" alan\304\261na \"emir123456\" yaz\304\261l\304\261r" > 
+14:26:46.509 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<LOGIN_EKRANI_SIFRE_TEXTBOX> alan\304\261na <emir123456> yaz\304\261l\304\261r" parameters:"LOGIN_EKRANI_SIFRE_TEXTBOX" parameters:"emir123456" > > 
+14:26:46.516 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ANASAYFA_HEPSIBURADA_LOGOSU\" elementinin g\303\266r\303\274lmesi beklenir" > 
+14:26:46.516 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 

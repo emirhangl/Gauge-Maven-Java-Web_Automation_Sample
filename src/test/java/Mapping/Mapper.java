@@ -43,29 +43,29 @@ public class Mapper {
         System.out.println(element+" Key "+key);
         System.out.println(element+" Value "+value);
 
-        elementFound =  generateByElement(key,value);
+        //elementFound =  generateByElement(key,value);
         System.out.println("elementFound "+elementFound);
         return elementFound;
     }
 
-    public By generateByElement(String byType, String byValue)
-    {
-        switch (byType)
-        {
-            case "id":
-                return By.id(byValue);
-            case  "cssselector":
-                return By.cssSelector(byValue);
-            case "xpath":
-                return By.xpath(byValue);
-            case "classname":
-                return By.className(byValue);
-            case "linktext":
-                return  By.linkText(byValue);
-            case "name":
-                return By.name(byValue);
-            default:
-                return null;
-        }
-    }
+//    public By generateByElement(String byType, String byValue)
+//    {
+//        switch (byType)
+//        {
+//            case "id":
+//                return By.id(byValue);
+//            case  "cssselector":
+//                return By.cssSelector(byValue);
+//            case "xpath":
+//                return By.xpath(byValue);
+//            case "classname":
+//                return By.className(byValue);
+//            case "linktext":
+//                return  By.linkText(byValue);
+//            case "name":
+//                return By.name(byValue);
+//            default:
+//                return null;
+//        }
+//    }
 }

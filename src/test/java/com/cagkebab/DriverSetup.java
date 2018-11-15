@@ -17,14 +17,14 @@ public class DriverSetup {
     public static WebDriver driver;
 
     @BeforeSuite
-    public void initializeDriver() {
+    public void initializeDriver() throws MalformedURLException {
         System.setProperty("webdriver.chrome.driver", "/Users/sahabt/webDrivers/chromedriver");
         driver = getDriver();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.manage().window().fullscreen();
+        //driver.manage().window().fullscreen();
     }
 
-    public static WebDriver getDriver() {
+    public static WebDriver getDriver() throws MalformedURLException {
         String browser = System.getenv("BROWSER");
         if (browser == null) {
             WebDriverManager.chromedriver().setup();
@@ -37,14 +37,11 @@ public class DriverSetup {
             case "FIREFOX":
                 WebDriverManager.firefoxdriver().setup();
                 return new FirefoxDriver();
-            case "RemoteChromeDriver":
+            case "REMOTECHROME":
                 DesiredCapabilities capability = DesiredCapabilities.chrome();
                 capability.setBrowserName("chrome");
-                capability.setCapability("key", System.getProperty("key"));
                 capability.setPlatform(org.openqa.selenium.Platform.MAC);
-                try {
-                     return new RemoteWebDriver(new URL("http://172.16.1.183:4444/wd/hub"),capability);
-                } catch (MalformedURLException e) { e.printStackTrace(); }
+                return new RemoteWebDriver(new URL("http://10.0.0.4:4447/wd/hub"),capability);
             default:
                 WebDriverManager.chromedriver().setup();
                 return new ChromeDriver();

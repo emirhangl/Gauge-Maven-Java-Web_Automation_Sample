@@ -1,0 +1,8 @@
+{
+	"Command": [
+		"gauge",
+		"run",
+		"--dir=/Users/sahabt/Documents/MavenDev/gaugebasics",
+		"/Users/sahabt/Documents/MavenDev/gaugebasics/specs/deneme.spec:9"
+	]
+}

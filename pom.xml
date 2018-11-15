@@ -61,9 +61,9 @@
                 <executions>
                     <execution>
                         <phase>test</phase>
-                        <configuration>
-                            <specsDir>specs</specsDir>
-                        </configuration>
+                        <!--<configuration>-->
+                            <!--<specsDir>specs</specsDir>-->
+                        <!--</configuration>-->
                         <goals>
                             <goal>execute</goal>
                         </goals>
