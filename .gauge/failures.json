@@ -1,7 +1,9 @@
 {
 	"Args": [
 		"run",
-		"--dir=/Users/sahabt/Documents/MavenDev/gaugebasics"
+		"--tags",
+		"loginol",
+		"--dir=/Users/sahabt/Documents/MavenDev/Gauge-Maven-Java-Web_Automation_Sample"
 	],
 	"FailedItems": []
 }

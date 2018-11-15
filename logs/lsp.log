@@ -1,0 +1,13 @@
+14:39:35.286 Watching directory: /Users/sahabt/Documents/MavenDev/Gauge-Maven-Java-Web_Automation_Sample/specs
+14:39:35.287 Found 4 files
+14:39:35.287 Watching directory: /Users/sahabt/Documents/MavenDev/Gauge-Maven-Java-Web_Automation_Sample/specs/concepts
+14:39:35.287 Found 1 files
+14:39:35.301 Initializing concepts cache with 1 concepts
+14:39:35.301 Adding concepts from /Users/sahabt/Documents/MavenDev/Gauge-Maven-Java-Web_Automation_Sample/specs/concepts/login.cpt
+14:39:35.304 Initializing specs cache with 2 specs
+14:39:35.304 Adding specs from /Users/sahabt/Documents/MavenDev/Gauge-Maven-Java-Web_Automation_Sample/specs/deneme2.spec
+14:39:35.304 Adding specs from /Users/sahabt/Documents/MavenDev/Gauge-Maven-Java-Web_Automation_Sample/specs/deneme.spec
+14:39:35.304 Initializing steps cache with 3 steps
+14:39:35.307 Current runner is not compatible with gauge LSP.
+14:39:35.307 LangServer: reading on stdin, writing on stdout
+14:39:35.546 notif #0: initialized: current runner is not compatible with gauge LSP
