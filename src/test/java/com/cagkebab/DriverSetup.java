@@ -1,6 +1,6 @@
 package com.cagkebab;
-import com.thoughtworks.gauge.AfterSuite;
-import com.thoughtworks.gauge.BeforeSuite;
+import com.thoughtworks.gauge.AfterScenario;
+import com.thoughtworks.gauge.BeforeScenario;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 public class DriverSetup {
     public static WebDriver driver;
 
-    @BeforeSuite
+    @BeforeScenario
     public void initializeDriver() throws MalformedURLException {
         System.setProperty("webdriver.chrome.driver", "/Users/sahabt/webDrivers/chromedriver");
         driver = getDriver();
@@ -49,7 +49,7 @@ public class DriverSetup {
         }
     }
 
-    @AfterSuite
+    @AfterScenario
     public void closeDriver() {
         if (driver != null) {
             driver.quit();
