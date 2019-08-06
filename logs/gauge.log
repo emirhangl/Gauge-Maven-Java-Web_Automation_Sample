@@ -2489,3 +2489,543 @@ Total time taken: 20.419s
 15:03:28.630 
 Total time taken: 37.523s
 15:03:28.631 Updates are available. Run `gauge update -c` for more info.
+11:39:59.823 Plugin html-report is already installed.
+11:39:59.825 Plugin java is already installed.
+11:40:01.483 Checking updates...
+11:40:03.098 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+11:40:03.099 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+11:40:03.111 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+11:40:03.111 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+11:40:03.112 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+11:40:03.112 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+11:40:03.113 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+11:40:03.113 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+11:40:03.114 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:40:03.115 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+11:40:03.115 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+11:40:03.115 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+11:40:03.116 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+11:40:03.116 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+11:40:03.117 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+11:40:03.117 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+11:40:03.117 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+11:40:03.118 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+11:40:03.118 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+11:40:03.118 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+11:40:03.119 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+11:40:03.119 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+11:40:04.460 # Hepsiburada.com Ürünü Testi
+11:40:04.464 ## Login Senaryosu
+11:40:15.452 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x000000010787a129 chromedriver + 3649833
+1   chromedriver                        0x000000010780a133 chromedriver + 3191091
+2   chromedriver                        0x00000001075aacef chromedriver + 703727
+3   chromedriver                        0x00000001075165fb chromedriver + 95739
+4   chromedriver                        0x00000001075126a8 chromedriver + 79528
+5   chromedriver                        0x000000010753f179 chromedriver + 262521
+6   chromedriver                        0x000000010753c793 chromedriver + 251795
+7   chromedriver                        0x00000001075187e2 chromedriver + 104418
+8   chromedriver                        0x00000001075198a5 chromedriver + 108709
+9   chromedriver                        0x0000000107837c1f chromedriver + 3378207
+10  chromedriver                        0x0000000107843940 chromedriver + 3426624
+11  chromedriver                        0x00000001078436d8 chromedriver + 3426008
+12  chromedriver                        0x0000000107818069 chromedriver + 3248233
+13  chromedriver                        0x00000001078441b8 chromedriver + 3428792
+14  chromedriver                        0x000000010782bf07 chromedriver + 3329799
+15  chromedriver                        0x0000000107861014 chromedriver + 3547156
+16  chromedriver                        0x000000010787fe67 chromedriver + 3673703
+17  libsystem_pthread.dylib             0x00007fff5e7f92eb _pthread_body + 126
+18  libsystem_pthread.dylib             0x00007fff5e7fc249 _pthread_start + 66
+19  libsystem_pthread.dylib             0x00007fff5e7f840d thread_start + 13
+11:40:15.452 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:122)
+java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:125)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:212)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
+com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+11:40:15.453 ## Sepete Ürün Ekleme Senaryosu
+11:40:18.487 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000107d50129 chromedriver + 3649833
+1   chromedriver                        0x0000000107ce0133 chromedriver + 3191091
+2   chromedriver                        0x0000000107a80cef chromedriver + 703727
+3   chromedriver                        0x00000001079ec5fb chromedriver + 95739
+4   chromedriver                        0x00000001079e86a8 chromedriver + 79528
+5   chromedriver                        0x0000000107a15179 chromedriver + 262521
+6   chromedriver                        0x0000000107a12793 chromedriver + 251795
+7   chromedriver                        0x00000001079ee7e2 chromedriver + 104418
+8   chromedriver                        0x00000001079ef8a5 chromedriver + 108709
+9   chromedriver                        0x0000000107d0dc1f chromedriver + 3378207
+10  chromedriver                        0x0000000107d19940 chromedriver + 3426624
+11  chromedriver                        0x0000000107d196d8 chromedriver + 3426008
+12  chromedriver                        0x0000000107cee069 chromedriver + 3248233
+13  chromedriver                        0x0000000107d1a1b8 chromedriver + 3428792
+14  chromedriver                        0x0000000107d01f07 chromedriver + 3329799
+15  chromedriver                        0x0000000107d37014 chromedriver + 3547156
+16  chromedriver                        0x0000000107d55e67 chromedriver + 3673703
+17  libsystem_pthread.dylib             0x00007fff5e7f92eb _pthread_body + 126
+18  libsystem_pthread.dylib             0x00007fff5e7fc249 _pthread_start + 66
+19  libsystem_pthread.dylib             0x00007fff5e7f840d thread_start + 13
+11:40:18.488 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:122)
+java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:125)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:212)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
+com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+11:40:18.798 Plugin [Html Report] with pid [74898] has exited
+11:40:19.222 Closing connection [127.0.0.1:52241] cause: EOF
+11:40:19.319 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:40:19.319 Scenarios:	2 executed	0 passed	2 failed	0 skipped
+11:40:19.319 
+Total time taken: 14.114s
+11:40:19.320 Updates are available. Run `gauge update -c` for more info.
+11:41:20.656 Plugin java is already installed.
+11:41:20.657 Plugin html-report is already installed.
+11:41:22.297 Checking updates...
+11:41:24.563 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+11:41:24.564 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+11:41:24.582 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+11:41:24.582 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+11:41:24.590 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+11:41:24.590 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+11:41:24.591 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+11:41:24.591 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+11:41:24.598 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:41:24.598 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+11:41:24.600 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+11:41:24.600 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+11:41:24.603 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+11:41:24.603 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+11:41:24.603 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+11:41:24.603 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+11:41:24.604 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+11:41:24.604 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+11:41:24.605 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+11:41:24.605 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+11:41:24.606 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+11:41:24.606 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+11:41:25.817 # Hepsiburada.com Ürünü Testi
+11:41:25.821 ## Login Senaryosu
+11:41:31.941 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x000000010ba20129 chromedriver + 3649833
+1   chromedriver                        0x000000010b9b0133 chromedriver + 3191091
+2   chromedriver                        0x000000010b750cef chromedriver + 703727
+3   chromedriver                        0x000000010b6bc5fb chromedriver + 95739
+4   chromedriver                        0x000000010b6b86a8 chromedriver + 79528
+5   chromedriver                        0x000000010b6e5179 chromedriver + 262521
+6   chromedriver                        0x000000010b6e2793 chromedriver + 251795
+7   chromedriver                        0x000000010b6be7e2 chromedriver + 104418
+8   chromedriver                        0x000000010b6bf8a5 chromedriver + 108709
+9   chromedriver                        0x000000010b9ddc1f chromedriver + 3378207
+10  chromedriver                        0x000000010b9e9940 chromedriver + 3426624
+11  chromedriver                        0x000000010b9e96d8 chromedriver + 3426008
+12  chromedriver                        0x000000010b9be069 chromedriver + 3248233
+13  chromedriver                        0x000000010b9ea1b8 chromedriver + 3428792
+14  chromedriver                        0x000000010b9d1f07 chromedriver + 3329799
+15  chromedriver                        0x000000010ba07014 chromedriver + 3547156
+16  chromedriver                        0x000000010ba25e67 chromedriver + 3673703
+17  libsystem_pthread.dylib             0x00007fff5e7f92eb _pthread_body + 126
+18  libsystem_pthread.dylib             0x00007fff5e7fc249 _pthread_start + 66
+19  libsystem_pthread.dylib             0x00007fff5e7f840d thread_start + 13
+11:41:31.941 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:122)
+java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:125)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:212)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
+com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+11:41:31.942 ## Sepete Ürün Ekleme Senaryosu
+11:41:35.660 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000108c5f129 chromedriver + 3649833
+1   chromedriver                        0x0000000108bef133 chromedriver + 3191091
+2   chromedriver                        0x000000010898fcef chromedriver + 703727
+3   chromedriver                        0x00000001088fb5fb chromedriver + 95739
+4   chromedriver                        0x00000001088f76a8 chromedriver + 79528
+5   chromedriver                        0x0000000108924179 chromedriver + 262521
+6   chromedriver                        0x0000000108921793 chromedriver + 251795
+7   chromedriver                        0x00000001088fd7e2 chromedriver + 104418
+8   chromedriver                        0x00000001088fe8a5 chromedriver + 108709
+9   chromedriver                        0x0000000108c1cc1f chromedriver + 3378207
+10  chromedriver                        0x0000000108c28940 chromedriver + 3426624
+11  chromedriver                        0x0000000108c286d8 chromedriver + 3426008
+12  chromedriver                        0x0000000108bfd069 chromedriver + 3248233
+13  chromedriver                        0x0000000108c291b8 chromedriver + 3428792
+14  chromedriver                        0x0000000108c10f07 chromedriver + 3329799
+15  chromedriver                        0x0000000108c46014 chromedriver + 3547156
+16  chromedriver                        0x0000000108c64e67 chromedriver + 3673703
+17  libsystem_pthread.dylib             0x00007fff5e7f92eb _pthread_body + 126
+18  libsystem_pthread.dylib             0x00007fff5e7fc249 _pthread_start + 66
+19  libsystem_pthread.dylib             0x00007fff5e7f840d thread_start + 13
+11:41:35.660 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:122)
+java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:125)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:212)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
+com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+11:41:35.998 Plugin [Html Report] with pid [75086] has exited
+11:41:36.452 Closing connection [127.0.0.1:52283] cause: EOF
+11:41:36.516 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:41:36.516 Scenarios:	2 executed	0 passed	2 failed	0 skipped
+11:41:36.516 
+Total time taken: 10.087s
+11:41:36.516 Updates are available. Run `gauge update -c` for more info.
+11:45:53.670 Plugin java is already installed.
+11:45:53.671 Plugin html-report is already installed.
+11:45:53.680 The following specifications satisfy filter criteria:
+11:45:53.680 specs/deneme.spec
+11:45:55.524 Checking updates...
+11:45:57.028 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+11:45:57.029 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+11:45:57.042 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+11:45:57.042 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+11:45:57.045 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+11:45:57.045 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+11:45:57.045 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+11:45:57.046 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+11:45:57.046 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:45:57.046 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+11:45:57.047 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+11:45:57.047 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+11:45:57.048 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+11:45:57.048 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+11:45:57.049 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+11:45:57.049 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+11:45:57.050 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+11:45:57.050 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+11:45:57.051 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+11:45:57.051 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+11:45:57.053 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+11:45:57.053 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+11:45:58.446 # Hepsiburada.com Ürünü Testi
+11:45:58.450 ## Sepete Ürün Ekleme Senaryosu
+11:46:05.398 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x000000010ecf5129 chromedriver + 3649833
+1   chromedriver                        0x000000010ec85133 chromedriver + 3191091
+2   chromedriver                        0x000000010ea25cef chromedriver + 703727
+3   chromedriver                        0x000000010e9915fb chromedriver + 95739
+4   chromedriver                        0x000000010e98d6a8 chromedriver + 79528
+5   chromedriver                        0x000000010e9ba179 chromedriver + 262521
+6   chromedriver                        0x000000010e9b7793 chromedriver + 251795
+7   chromedriver                        0x000000010e9937e2 chromedriver + 104418
+8   chromedriver                        0x000000010e9948a5 chromedriver + 108709
+9   chromedriver                        0x000000010ecb2c1f chromedriver + 3378207
+10  chromedriver                        0x000000010ecbe940 chromedriver + 3426624
+11  chromedriver                        0x000000010ecbe6d8 chromedriver + 3426008
+12  chromedriver                        0x000000010ec93069 chromedriver + 3248233
+13  chromedriver                        0x000000010ecbf1b8 chromedriver + 3428792
+14  chromedriver                        0x000000010eca6f07 chromedriver + 3329799
+15  chromedriver                        0x000000010ecdc014 chromedriver + 3547156
+16  chromedriver                        0x000000010ecfae67 chromedriver + 3673703
+17  libsystem_pthread.dylib             0x00007fff5e7f92eb _pthread_body + 126
+18  libsystem_pthread.dylib             0x00007fff5e7fc249 _pthread_start + 66
+19  libsystem_pthread.dylib             0x00007fff5e7f840d thread_start + 13
+11:46:05.398 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:122)
+java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:125)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:212)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
+com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+11:46:05.532 Plugin [Html Report] with pid [75571] has exited
+11:46:06.010 Closing connection [127.0.0.1:52382] cause: EOF
+11:46:06.054 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:46:06.055 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:46:06.055 
+Total time taken: 7.045s
+11:46:06.055 Updates are available. Run `gauge update -c` for more info.
+11:47:18.465 Plugin java is already installed.
+11:47:18.466 Plugin html-report is already installed.
+11:47:20.244 Checking updates...
+11:47:27.697 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+11:47:27.699 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+11:47:27.707 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+11:47:27.707 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+11:47:27.710 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+11:47:27.710 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+11:47:27.711 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+11:47:27.711 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+11:47:27.711 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:47:27.712 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+11:47:27.712 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+11:47:27.712 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+11:47:27.713 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+11:47:27.713 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+11:47:27.713 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+11:47:27.713 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+11:47:27.714 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+11:47:27.714 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+11:47:27.715 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+11:47:27.715 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+11:47:27.715 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+11:47:27.715 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+11:47:43.558 Plugin [Html Report] with pid [75740] has exited
+11:47:44.053 Closing connection [127.0.0.1:52419] cause: EOF
+11:47:44.079 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:47:44.079 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:47:44.079 
+Total time taken: 12.271s
+11:47:44.079 Updates are available. Run `gauge update -c` for more info.
+11:52:49.795 Plugin java is already installed.
+11:52:49.796 Plugin html-report is already installed.
+11:52:49.802 The following specifications satisfy filter criteria:
+11:52:49.802 specs/deneme.spec
+11:52:52.014 Checking updates...
+11:52:52.536 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+11:52:52.537 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+11:52:52.549 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+11:52:52.549 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+11:52:52.551 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+11:52:52.551 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+11:52:52.551 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+11:52:52.551 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+11:52:52.552 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:52:52.552 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+11:52:52.553 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+11:52:52.553 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+11:52:52.553 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+11:52:52.554 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+11:52:52.554 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+11:52:52.554 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+11:52:52.555 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+11:52:52.555 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+11:52:52.555 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+11:52:52.555 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+11:52:52.556 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+11:52:52.556 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+11:52:53.830 # Hepsiburada.com Ürünü Testi
+11:52:53.833 ## Sepete Ürün Ekleme Senaryosu
+11:53:01.721 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x00000001006ed129 chromedriver + 3649833
+1   chromedriver                        0x000000010067d133 chromedriver + 3191091
+2   chromedriver                        0x000000010041dcef chromedriver + 703727
+3   chromedriver                        0x00000001003895fb chromedriver + 95739
+4   chromedriver                        0x00000001003856a8 chromedriver + 79528
+5   chromedriver                        0x00000001003b2179 chromedriver + 262521
+6   chromedriver                        0x00000001003af793 chromedriver + 251795
+7   chromedriver                        0x000000010038b7e2 chromedriver + 104418
+8   chromedriver                        0x000000010038c8a5 chromedriver + 108709
+9   chromedriver                        0x00000001006aac1f chromedriver + 3378207
+10  chromedriver                        0x00000001006b6940 chromedriver + 3426624
+11  chromedriver                        0x00000001006b66d8 chromedriver + 3426008
+12  chromedriver                        0x000000010068b069 chromedriver + 3248233
+13  chromedriver                        0x00000001006b71b8 chromedriver + 3428792
+14  chromedriver                        0x000000010069ef07 chromedriver + 3329799
+15  chromedriver                        0x00000001006d4014 chromedriver + 3547156
+16  chromedriver                        0x00000001006f2e67 chromedriver + 3673703
+17  libsystem_pthread.dylib             0x00007fff5e7f92eb _pthread_body + 126
+18  libsystem_pthread.dylib             0x00007fff5e7fc249 _pthread_start + 66
+19  libsystem_pthread.dylib             0x00007fff5e7f840d thread_start + 13
+11:53:01.721 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:122)
+java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:125)
+org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:212)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
+com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+11:53:01.866 Plugin [Html Report] with pid [76275] has exited
+11:53:02.307 Closing connection [127.0.0.1:52603] cause: EOF
+11:53:02.388 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:53:02.388 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:53:02.388 
+Total time taken: 7.993s
+11:53:02.388 Updates are available. Run `gauge update -c` for more info.
+11:58:39.461 Plugin java is already installed.
+11:58:39.462 Plugin html-report is already installed.
+11:58:39.469 The following specifications satisfy filter criteria:
+11:58:39.469 specs/deneme.spec
+11:58:41.097 Checking updates...
+11:58:42.110 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+11:58:42.112 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+11:58:42.126 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+11:58:42.126 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+11:58:42.128 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+11:58:42.128 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+11:58:42.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+11:58:42.129 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+11:58:42.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:58:42.130 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+11:58:42.130 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+11:58:42.130 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+11:58:42.131 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+11:58:42.131 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+11:58:42.132 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+11:58:42.132 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+11:58:42.132 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+11:58:42.132 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+11:58:42.133 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+11:58:42.133 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+11:58:42.134 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+11:58:42.134 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+11:58:43.558 # Hepsiburada.com Ürünü Testi
+11:58:43.562 ## Sepete Ürün Ekleme Senaryosu
+11:58:55.640 * Login Olunur
+11:58:55.642 * "https://www.hepsiburada.com" Sayfasına gidilir
+11:59:03.030 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+11:59:08.721 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+11:59:12.572 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+11:59:12.939 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+11:59:13.324 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+11:59:13.485 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+11:59:19.280 * "ANASAYFA_ARAMA_TEXTBOX" alanına "Macbook" yazılır
+11:59:19.546 * "ANASAYFA_ARAMA_TEXTBOX_BUTONU" butonuna tıklanır
+11:59:25.134 * "ARAMA_SONUCU_URUNLER_LISTESI" listesinden rastgele bir elemana tıklanır
+11:59:30.076 * "URUN_SAYFASI_SEPETE_EKLE_BUTONU" butonuna tıklanır
+11:59:30.799 Plugin [Html Report] with pid [76864] has exited
+11:59:30.862 Closing connection [127.0.0.1:52730] cause: EOF
+11:59:30.905 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:59:30.905 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:59:30.905 
+Total time taken: 47.19s
+11:59:30.906 Updates are available. Run `gauge update -c` for more info.

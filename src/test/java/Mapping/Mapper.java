@@ -1,71 +1,79 @@
 package Mapping;
 
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import org.junit.Assert;
 import org.openqa.selenium.By;
 
+import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
+import java.util.Map;
+import java.util.Set;
 
 public class Mapper {
-    public By getElementFromJson (String element){
+    private static JsonObject readJSON(String elementFound) {
+        Gson gson= new Gson();
+        JsonElement jsonObject = null;
+        FileReader reader = null;
+        JsonObject jsonElement = null;
+        JsonArray jsonArray=null;
+        JsonObject jp = null;
+        JsonObject foundElement = null;
+        try{
+            reader = new FileReader("./mapJSON/ObjectRepository.json");
+            jsonObject = gson.fromJson(reader, JsonElement.class);
+            jsonElement= jsonObject.getAsJsonObject();
+            jp = jsonElement.getAsJsonObject(elementFound);
+            foundElement = jp;
 
-        By elementFound = null;
-        JSONParser parser = new JSONParser();
-        Object object = null;
-
-
-        try {
-            object = parser.parse(new FileReader("./mapJSON/ObjectRepository.json"));
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (ParseException e) {
-            e.printStackTrace();
+        }catch(FileNotFoundException e){
+            Assert.fail(e.getMessage());
         }
-        //System.out.println("Object: "+object);
-
-        JSONObject jsonObject = (JSONObject) object;
-        //System.out.println("JSON Object: "+jsonObject);
-
-        String obj = jsonObject.get(element).toString();
-        System.out.println(element+" locator: "+obj);
-
-        String key = obj.split(":")[0];
-        key = key.replaceAll("\"","");
-        key = key.replaceAll("\\{","");
-        key = key.toLowerCase();
-
-        String value = obj.split(":")[1];
-        value = value.replaceAll("\"","");
-        value = value.replaceAll("}","");
-
-        System.out.println(element+" Key "+key);
-        System.out.println(element+" Value "+value);
-
-        //elementFound =  generateByElement(key,value);
-        System.out.println("elementFound "+elementFound);
-        return elementFound;
+        return foundElement;
     }
 
-//    public By generateByElement(String byType, String byValue)
-//    {
-//        switch (byType)
-//        {
-//            case "id":
-//                return By.id(byValue);
-//            case  "cssselector":
-//                return By.cssSelector(byValue);
-//            case "xpath":
-//                return By.xpath(byValue);
-//            case "classname":
-//                return By.className(byValue);
-//            case "linktext":
-//                return  By.linkText(byValue);
-//            case "name":
-//                return By.name(byValue);
-//            default:
-//                return null;
-//        }
-//    }
+    public static By getElementFromJSON(String elementFound) {
+        Set<Map.Entry<String, JsonElement>> entries = null;
+        try {
+            entries = readJSON(elementFound).entrySet();
+            System.out.println("Entries: "+entries);
+        } catch (NullPointerException e) {
+            e.printStackTrace();
+            Assert.fail(elementFound + " is not found in ObjectRepository.json file.");
+        }
+        By by = null;
+        String value = null;
+        for (Map.Entry<String, JsonElement> entry : entries) {
+            if(!(entry.getKey().equals("X")) & !(entry.getKey().equals("Y"))) {
+                by = generateByElement(entry.getKey().toLowerCase(), entry.getValue().getAsString());
+                System.out.println("Element Key:"+entry.getKey());
+                System.out.println("Element Value:"+entry.getValue().getAsString());
+                System.out.println("by: "+by);
+            }
+        }
+        return by;
+    }
+
+    public static By generateByElement(String byType, String byValue)
+    {
+        switch (byType)
+        {
+            case "id":
+                return By.id(byValue);
+            case  "cssselector":
+                return By.cssSelector(byValue);
+            case "xpath":
+                return By.xpath(byValue);
+            case "classname":
+                return By.className(byValue);
+            case "linktext":
+                return  By.linkText(byValue);
+            case "name":
+                return By.name(byValue);
+            default:
+                return null;
+        }
+    }
 }

@@ -1,10 +1,8 @@
-{
-	"Command": [
-		"gauge",
-		"run",
-		"--tags",
-		"loginol",
-		"--dir=/Users/sahabt/Documents/MavenDev/Gauge-Maven-Java-Web_Automation_Sample",
-		"specs"
-	]
-}
+[
+	"gauge",
+	"run",
+	"--tags",
+	"sepeteurunekle",
+	"--dir=/Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample",
+	"/Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample/specs"
+]

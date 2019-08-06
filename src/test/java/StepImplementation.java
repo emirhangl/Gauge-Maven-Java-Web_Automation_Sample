@@ -1,9 +1,7 @@
 import Mapping.Mapper;
-import Mapping.Mapper2;
 import com.cagkebab.DriverSetup;
 import com.thoughtworks.gauge.Step;
 import org.junit.Assert;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
@@ -16,7 +14,6 @@ import java.util.Random;
 
 public class StepImplementation extends DriverSetup {
     Mapper mapper = new Mapper();
-    Mapper2 mapper2 = new Mapper2();
     WebDriverWait wait = new WebDriverWait(driver, 10);
 
     @Step("<url> Sayfasına gidilir")
@@ -35,28 +32,28 @@ public class StepImplementation extends DriverSetup {
 
     @Step("<by> butonuna tıklanır")
     public void clickElement(String by) {
-        wait.until(ExpectedConditions.presenceOfElementLocated(mapper2.getElementFromJSON(by))).click();
+        wait.until(ExpectedConditions.presenceOfElementLocated(mapper.getElementFromJSON(by))).click();
     }
 
     @Step("<by> alanına <text> yazılır")
     public void sendKeys(String by, String text) {
-        wait.until(ExpectedConditions.presenceOfElementLocated(mapper2.getElementFromJSON(by))).sendKeys(text);
+        wait.until(ExpectedConditions.presenceOfElementLocated(mapper.getElementFromJSON(by))).sendKeys(text);
     }
 
     @Step("<by> alanı silinir")
     public void deleteTextbox(String by) {
-        wait.until(ExpectedConditions.presenceOfElementLocated(mapper2.getElementFromJSON(by))).clear();
+        wait.until(ExpectedConditions.presenceOfElementLocated(mapper.getElementFromJSON(by))).clear();
     }
 
     @Step("<by> elementinin görülmesi beklenir")
     public void waitForTheElement(String by) {
         Assert.assertTrue(by + " elemanı sayfada görülemedi!",
-                wait.until(ExpectedConditions.presenceOfElementLocated(mapper2.getElementFromJSON(by))).isDisplayed());
+                wait.until(ExpectedConditions.presenceOfElementLocated(mapper.getElementFromJSON(by))).isDisplayed());
     }
 
     @Step("<by> alanının üzerine mouse ile gelinir")
     public void hoverOnTheElement(String by) {
-        WebElement element = driver.findElement(mapper2.getElementFromJSON(by));
+        WebElement element = driver.findElement(mapper.getElementFromJSON(by));
         element.click();
         Actions actions = new Actions(driver);
         actions.moveToElement(element).build().perform();
@@ -82,7 +79,7 @@ public class StepImplementation extends DriverSetup {
 
     @Step("<byList> listesinden rastgele bir elemana tıklanır")
     public void clickRandomElementFromByList(String byList) {
-        List<WebElement> elements = driver.findElements(mapper2.getElementFromJSON(byList));
+        List<WebElement> elements = driver.findElements(mapper.getElementFromJSON(byList));
         Random rnd = new Random();
         int randomNumber = rnd.nextInt(elements.size() + 1);
         WebElement element = elements.get(randomNumber);
