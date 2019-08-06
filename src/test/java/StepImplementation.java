@@ -1,9 +1,11 @@
 import Mapping.Mapper;
+import com.cagkebab.Driver;
 import com.cagkebab.DriverSetup;
 import com.thoughtworks.gauge.Step;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -14,6 +16,7 @@ import java.util.Random;
 
 public class StepImplementation extends DriverSetup {
     Mapper mapper = new Mapper();
+    public WebDriver driver = Driver.getInstance().webDriver;
     WebDriverWait wait = new WebDriverWait(driver, 10);
 
     @Step("<url> Sayfasına gidilir")

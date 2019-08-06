@@ -14,13 +14,17 @@ import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 public class DriverSetup {
-    public static WebDriver driver;
+
+    //public static WebDriver driver;
+
+
 
     @BeforeScenario
     public void initializeDriver() throws MalformedURLException {
         System.setProperty("webdriver.chrome.driver", "/Users/sahabt/webDrivers/chromedriver");
-        driver = getDriver();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        //driver = getDriver();
+        Driver.getInstance().webDriver = getDriver();
+        Driver.getInstance().webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         //driver.manage().window().fullscreen();
     }
 
@@ -51,8 +55,8 @@ public class DriverSetup {
 
     @AfterScenario
     public void closeDriver() {
-        if (driver != null) {
-            driver.quit();
+        if (Driver.getInstance().webDriver != null) {
+            Driver.getInstance().webDriver.quit();
         }
     }
 }

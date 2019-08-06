@@ -2,7 +2,7 @@
 	"gauge",
 	"run",
 	"--tags",
-	"sepeteurunekle",
+	"loginol",
 	"--dir=/Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample",
 	"/Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample/specs"
 ]
