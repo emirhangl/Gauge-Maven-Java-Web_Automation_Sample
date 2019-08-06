@@ -20,7 +20,7 @@ public class StepImplementation extends DriverSetup {
     WebDriverWait wait = new WebDriverWait(driver, 10);
 
     @Step("<url> Sayfasına gidilir")
-    public void navigateTo(String url) throws InterruptedException {
+    public void navigateTo(String url) {
         driver.get(url);
     }
 
