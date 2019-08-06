@@ -1,4 +1,4 @@
-package com.cagkebab;
+package Driver;
 import com.thoughtworks.gauge.AfterScenario;
 import com.thoughtworks.gauge.BeforeScenario;
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -18,10 +18,13 @@ public class DriverSetup {
     @BeforeScenario
     public void initializeDriver() throws MalformedURLException {
         Driver.getInstance().webDriver = getDriver();
-        Driver.getInstance().webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        Driver.getInstance().webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS)
+                .setScriptTimeout(10, TimeUnit.SECONDS)
+                .pageLoadTimeout(10, TimeUnit.SECONDS);
         Driver.getInstance().webDriver.manage().window().fullscreen();
     }
 
+    // Bonigarcia library is used to keep WebDriver binaries up to date.
     public static WebDriver getDriver() throws MalformedURLException {
         String browser = System.getenv("BROWSER");
         if (browser == null) {

@@ -1,4 +1,4 @@
-StepImplementation.class
+Driver/DriverSetup.class
 Mapping/Mapper.class
-com/cagkebab/Driver.class
-com/cagkebab/DriverSetup.class
+Driver/Driver.class
+Step/StepImplementation.class

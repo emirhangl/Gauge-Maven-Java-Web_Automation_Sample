@@ -129,7 +129,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-StepImplementation.hoverOnTheElement(StepImplementation.java:57)
+Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
 22:14:17.402 Plugin [Html Report] with pid [10562] has exited
 22:14:17.924 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:14:17.924 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -350,7 +350,7 @@ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
 org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 22:20:58.530 Plugin [Html Report] with pid [10764] has exited
 22:20:59.051 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:20:59.051 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -419,7 +419,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-StepImplementation.hoverOnTheElement(StepImplementation.java:57)
+Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
 22:21:58.590 Plugin [Html Report] with pid [10806] has exited
 22:21:59.112 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:21:59.112 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -466,7 +466,7 @@ Total time taken: 13.056s
 22:24:52.465 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 22:24:52.744 Plugin [Html Report] with pid [10852] has exited
 22:24:52.948 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:24:52.948 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -536,7 +536,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-StepImplementation.hoverOnTheElement(StepImplementation.java:57)
+Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
 22:25:38.762 Plugin [Html Report] with pid [10895] has exited
 22:25:38.972 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:25:38.972 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -620,7 +620,7 @@ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
 org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 22:29:39.171 ## Sepete Ürün Ekleme Senaryosu
 22:29:39.176 * Login Olunur
 22:29:39.177 * "https://www.hepsiburada.com" Sayfasına gidilir
@@ -648,7 +648,7 @@ org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpRes
 org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
-StepImplementation.navigateTo(StepImplementation.java:22)
+Step.StepImplementation.navigateTo(Step.StepImplementation.java:22)
 22:29:40.602 Plugin [Html Report] with pid [11049] has exited
 22:29:41.124 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:29:41.124 Scenarios:	2 executed	0 passed	2 failed	0 skipped
@@ -838,7 +838,7 @@ Total time taken: 38.623s
 22:50:37.849 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 22:50:38.077 Plugin [Html Report] with pid [11260] has exited
 22:50:38.600 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:50:38.600 Scenarios:	2 executed	1 passed	1 failed	0 skipped
@@ -998,7 +998,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-StepImplementation.hoverOnTheElement(StepImplementation.java:57)
+Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
 11:43:11.365 ## Sepete Ürün Ekleme Senaryosu
 11:43:11.367 * Login Olunur
 11:43:11.367 * "https://www.hepsiburada.com" Sayfasına gidilir
@@ -1028,7 +1028,7 @@ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:
 org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
-StepImplementation.navigateTo(StepImplementation.java:22)
+Step.StepImplementation.navigateTo(Step.StepImplementation.java:22)
 11:43:11.970 Plugin [Html Report] with pid [12117] has exited
 11:43:12.072 Specifications:	1 executed	0 passed	1 failed	0 skipped
 11:43:12.072 Scenarios:	2 executed	0 passed	2 failed	0 skipped
@@ -1098,7 +1098,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-StepImplementation.hoverOnTheElement(StepImplementation.java:57)
+Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
 11:47:01.363 ## Sepete Ürün Ekleme Senaryosu
 11:47:01.367 * Login Olunur
 11:47:01.367 * "https://www.hepsiburada.com" Sayfasına gidilir
@@ -1128,7 +1128,7 @@ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:
 org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
-StepImplementation.navigateTo(StepImplementation.java:22)
+Step.StepImplementation.navigateTo(Step.StepImplementation.java:22)
 11:47:02.115 Plugin [Html Report] with pid [12176] has exited
 11:47:02.695 Specifications:	1 executed	0 passed	1 failed	0 skipped
 11:47:02.696 Scenarios:	2 executed	0 passed	2 failed	0 skipped
@@ -1186,7 +1186,7 @@ Total time taken: 43.773s
 13:56:16.685 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 13:56:17.137 Plugin [Html Report] with pid [12376] has exited
 13:56:17.239 Specifications:	1 executed	0 passed	1 failed	0 skipped
 13:56:17.239 Scenarios:	2 executed	1 passed	1 failed	0 skipped
@@ -1250,7 +1250,7 @@ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandEx
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
 org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 14:10:08.568 Plugin [Html Report] with pid [12482] has exited
 14:10:08.673 Specifications:	1 executed	0 passed	1 failed	0 skipped
 14:10:08.673 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -1421,7 +1421,7 @@ Total time taken: 28.736s
 20:05:20.937 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 20:05:20.937 ## Sepete Ürün Ekleme Senaryosuu
 20:05:20.938 * Login Olunur
 20:05:20.938 * "https://www.hepsiburada.com" Sayfasına gidilir
@@ -1433,7 +1433,7 @@ StepImplementation.clickElement(StepImplementation.java:36)
 20:05:43.848 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 20:05:44.098 Plugin [Html Report] with pid [17087] has exited
 20:05:44.620 Specifications:	2 executed	1 passed	1 failed	0 skipped
 20:05:44.620 Scenarios:	4 executed	2 passed	2 failed	0 skipped
@@ -1524,7 +1524,7 @@ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandEx
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
 org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 20:09:01.170 ## Sepete Ürün Ekleme Senaryosuu
 20:09:01.171 * Login Olunur
 20:09:01.171 * "https://www.hepsiburada.com" Sayfasına gidilir
@@ -1536,7 +1536,7 @@ StepImplementation.clickElement(StepImplementation.java:36)
 20:09:28.459 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-StepImplementation.clickElement(StepImplementation.java:36)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
 20:09:28.725 Plugin [Html Report] with pid [17134] has exited
 20:09:29.246 Specifications:	2 executed	1 passed	1 failed	0 skipped
 20:09:29.246 Scenarios:	4 executed	2 passed	2 failed	0 skipped
@@ -1678,7 +1678,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-StepImplementation.clickElement(StepImplementation.java:38)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
 21:10:41.922 Plugin [Html Report] with pid [5831] has exited
 21:10:42.443 Specifications:	1 executed	0 passed	1 failed	0 skipped
 21:10:42.443 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -1731,7 +1731,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-StepImplementation.clickElement(StepImplementation.java:38)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
 21:17:36.656 Plugin [Html Report] with pid [5888] has exited
 21:17:37.176 Specifications:	1 executed	0 passed	1 failed	0 skipped
 21:17:37.176 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -1906,7 +1906,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-StepImplementation.clickElement(StepImplementation.java:38)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
 21:36:14.209 Plugin [Html Report] with pid [6066] has exited
 21:36:14.731 Specifications:	1 executed	0 passed	1 failed	0 skipped
 21:36:14.731 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -1959,7 +1959,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-StepImplementation.clickElement(StepImplementation.java:38)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
 21:38:34.278 Plugin [Html Report] with pid [6119] has exited
 21:38:34.801 Specifications:	1 executed	0 passed	1 failed	0 skipped
 21:38:34.801 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -2038,7 +2038,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-StepImplementation.clickElement(StepImplementation.java:38)
+Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
 22:24:48.038 Plugin [Html Report] with pid [6293] has exited
 22:24:48.559 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:24:48.559 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -2107,7 +2107,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-StepImplementation.hoverOnTheElement(StepImplementation.java:59)
+Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:59)
 22:27:11.604 Plugin [Html Report] with pid [6341] has exited
 22:27:12.127 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:27:12.127 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -2283,7 +2283,7 @@ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandEx
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
 org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:833)
-com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:24)
+DriverSetup.initializeDriver(DriverSetup.java:24)
 08:49:55.664 Plugin [Html Report] with pid [2767] has exited
 08:49:56.187 Specifications:	0 executed	0 passed	0 failed	0 skipped
 08:49:56.187 Scenarios:	0 executed	0 passed	0 failed	0 skipped
@@ -2338,7 +2338,7 @@ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandEx
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
 org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:833)
-com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:24)
+DriverSetup.initializeDriver(DriverSetup.java:24)
 08:50:57.162 Plugin [Html Report] with pid [2816] has exited
 08:50:57.685 Specifications:	0 executed	0 passed	0 failed	0 skipped
 08:50:57.685 Scenarios:	0 executed	0 passed	0 failed	0 skipped
@@ -2567,8 +2567,8 @@ org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
-com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
-com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+DriverSetup.getDriver(DriverSetup.java:47)
+DriverSetup.initializeDriver(DriverSetup.java:22)
 11:40:15.453 ## Sepete Ürün Ekleme Senaryosu
 11:40:18.487 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
@@ -2621,8 +2621,8 @@ org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
-com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
-com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+DriverSetup.getDriver(DriverSetup.java:47)
+DriverSetup.initializeDriver(DriverSetup.java:22)
 11:40:18.798 Plugin [Html Report] with pid [74898] has exited
 11:40:19.222 Closing connection [127.0.0.1:52241] cause: EOF
 11:40:19.319 Specifications:	1 executed	0 passed	1 failed	0 skipped
@@ -2708,8 +2708,8 @@ org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
-com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
-com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+DriverSetup.getDriver(DriverSetup.java:47)
+DriverSetup.initializeDriver(DriverSetup.java:22)
 11:41:31.942 ## Sepete Ürün Ekleme Senaryosu
 11:41:35.660 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
@@ -2762,8 +2762,8 @@ org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
-com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
-com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+DriverSetup.getDriver(DriverSetup.java:47)
+DriverSetup.initializeDriver(DriverSetup.java:22)
 11:41:35.998 Plugin [Html Report] with pid [75086] has exited
 11:41:36.452 Closing connection [127.0.0.1:52283] cause: EOF
 11:41:36.516 Specifications:	1 executed	0 passed	1 failed	0 skipped
@@ -2851,8 +2851,8 @@ org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
-com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
-com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+DriverSetup.getDriver(DriverSetup.java:47)
+DriverSetup.initializeDriver(DriverSetup.java:22)
 11:46:05.532 Plugin [Html Report] with pid [75571] has exited
 11:46:06.010 Closing connection [127.0.0.1:52382] cause: EOF
 11:46:06.054 Specifications:	1 executed	0 passed	1 failed	0 skipped
@@ -2972,8 +2972,8 @@ org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
 org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
-com.cagkebab.DriverSetup.getDriver(DriverSetup.java:47)
-com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:22)
+DriverSetup.getDriver(DriverSetup.java:47)
+DriverSetup.initializeDriver(DriverSetup.java:22)
 11:53:01.866 Plugin [Html Report] with pid [76275] has exited
 11:53:02.307 Closing connection [127.0.0.1:52603] cause: EOF
 11:53:02.388 Specifications:	1 executed	0 passed	1 failed	0 skipped
@@ -3060,7 +3060,7 @@ Total time taken: 47.19s
 14:35:11.303 ## Login Senaryosu
 14:35:16.656 Error Message: java.lang.NullPointerException
 14:35:16.657 Stacktrace: 
-com.cagkebab.DriverSetup.initializeDriver(DriverSetup.java:27)
+DriverSetup.initializeDriver(DriverSetup.java:27)
 14:35:16.764 Plugin [Html Report] with pid [90620] has exited
 14:35:17.212 Closing connection [127.0.0.1:54210] cause: EOF
 14:35:17.285 Specifications:	1 executed	0 passed	1 failed	0 skipped
@@ -3108,7 +3108,7 @@ java.util.Objects.requireNonNull(Objects.java:203)
 org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:115)
 org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:102)
 org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:45)
-StepImplementation.<init>(StepImplementation.java:17)
+Step.StepImplementation.<init>(Step.StepImplementation.java:17)
 sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -3175,7 +3175,7 @@ java.util.Objects.requireNonNull(Objects.java:203)
 org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:115)
 org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:102)
 org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:45)
-StepImplementation.<init>(StepImplementation.java:17)
+Step.StepImplementation.<init>(Step.StepImplementation.java:17)
 sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -3292,3 +3292,93 @@ Total time taken: 20.495s
 14:56:54.155 
 Total time taken: 24.631s
 14:56:54.156 Updates are available. Run `gauge update -c` for more info.
+15:25:03.904 Plugin html-report is already installed.
+15:25:03.905 Plugin java is already installed.
+15:25:03.913 The following specifications satisfy filter criteria:
+15:25:03.913 specs/deneme.spec
+15:25:05.320 Checking updates...
+15:25:06.577 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+15:25:06.578 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+15:25:06.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+15:25:06.592 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+15:25:06.594 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+15:25:06.594 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+15:25:06.596 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+15:25:06.596 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+15:25:06.596 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+15:25:06.597 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+15:25:06.597 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+15:25:06.597 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+15:25:06.598 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+15:25:06.598 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+15:25:06.599 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+15:25:06.599 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+15:25:06.600 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+15:25:06.600 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+15:25:06.601 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+15:25:06.601 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+15:25:06.601 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+15:25:06.602 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+15:25:08.044 # Hepsiburada.com Ürünü Testi
+15:25:08.052 ## Login Senaryosu
+15:25:12.765 * Login Olunur
+
+15:25:12.775 * "https://www.hepsiburada.com" Sayfasına gidilir
+15:25:21.053 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+15:25:34.484 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+15:25:36.915 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+15:25:37.257 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+15:25:37.589 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+15:25:37.724 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+15:25:44.252 Plugin [Html Report] with pid [95551] has exited
+15:25:44.354 Closing connection [127.0.0.1:55017] cause: EOF
+15:25:44.461 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:25:44.462 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:25:44.462 
+Total time taken: 36.158s
+15:25:44.463 Updates are available. Run `gauge update -c` for more info.
+15:34:54.423 Plugin java is already installed.
+15:34:54.425 Plugin html-report is already installed.
+15:34:54.431 The following specifications satisfy filter criteria:
+15:34:54.431 specs/deneme.spec
+15:34:55.677 Checking updates...
+15:34:56.974 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+15:34:56.975 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+15:34:56.989 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+15:34:56.989 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+15:34:56.989 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+15:34:56.989 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+15:34:56.990 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+15:34:56.990 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+15:34:56.991 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+15:34:56.991 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+15:34:56.992 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+15:34:56.993 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+15:34:56.993 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+15:34:56.994 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+15:34:56.994 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+15:34:56.994 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+15:34:56.995 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+15:34:56.995 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+15:34:56.997 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+15:34:56.997 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+15:34:56.997 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+15:34:56.997 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+15:34:58.349 # Hepsiburada.com Ürünü Testi
+15:34:58.353 ## Login Senaryosu
+15:35:03.997 * Login Olunur
+
+15:35:03.997 * "https://www.hepsiburada.com" Sayfasına gidilir
+15:35:11.260 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+15:35:15.169 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+15:35:16.634 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+15:35:16.926 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+15:35:17.239 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+15:35:17.394 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+15:35:24.135 Plugin [Html Report] with pid [96469] has exited
+15:35:24.235 Closing connection [127.0.0.1:55196] cause: EOF
+15:35:24.240 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:35:24.240 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:35:24.241 
+Total time taken: 25.735s
+15:35:24.241 Updates are available. Run `gauge update -c` for more info.

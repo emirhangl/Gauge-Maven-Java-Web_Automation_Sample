@@ -1,6 +1,8 @@
+package Step;
+
 import Mapping.Mapper;
-import com.cagkebab.Driver;
-import com.cagkebab.DriverSetup;
+import Driver.Driver;
+import Pages.BasePage;
 import com.thoughtworks.gauge.Step;
 import org.junit.Assert;
 import org.openqa.selenium.By;
@@ -14,60 +16,50 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.util.List;
 import java.util.Random;
 
-public class StepImplementation extends DriverSetup {
+public class StepImplementation {
     Mapper mapper = new Mapper();
     public WebDriver driver = Driver.getInstance().webDriver;
     WebDriverWait wait = new WebDriverWait(driver, 10);
+    BasePage basePage=new BasePage(driver);
 
     @Step("<url> Sayfasına gidilir")
     public void navigateTo(String url) {
-        driver.get(url);
+        basePage.navigateTo(url);
     }
 
-    @Step("<Saniye> Saniyesi kadar bekle")
+    @Step("<Saniye> Saniyesi kadar beklenir")
     public void waitSeconds(int seconds) {
-        try {
-            Thread.sleep(1000 * seconds);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+        basePage.waitSeconds(seconds);
     }
 
     @Step("<by> butonuna tıklanır")
     public void clickElement(String by) {
-        wait.until(ExpectedConditions.presenceOfElementLocated(mapper.getElementFromJSON(by))).click();
+        basePage.clickElement(by);
     }
 
     @Step("<by> alanına <text> yazılır")
     public void sendKeys(String by, String text) {
-        wait.until(ExpectedConditions.presenceOfElementLocated(mapper.getElementFromJSON(by))).sendKeys(text);
+        basePage.sendKeys(by, text);
     }
 
     @Step("<by> alanı silinir")
     public void deleteTextbox(String by) {
-        wait.until(ExpectedConditions.presenceOfElementLocated(mapper.getElementFromJSON(by))).clear();
+        basePage.clearTextbox(by);
     }
 
     @Step("<by> elementinin görülmesi beklenir")
     public void waitForTheElement(String by) {
-        Assert.assertTrue(by + " elemanı sayfada görülemedi!",
-                wait.until(ExpectedConditions.presenceOfElementLocated(mapper.getElementFromJSON(by))).isDisplayed());
+        basePage.waitUntilElementAppear(by);
     }
 
     @Step("<by> alanının üzerine mouse ile gelinir")
     public void hoverOnTheElement(String by) {
-        WebElement element = driver.findElement(mapper.getElementFromJSON(by));
-        element.click();
-        Actions actions = new Actions(driver);
-        actions.moveToElement(element).build().perform();
-        waitSeconds(3);
+        basePage.hoverOnElement(by);
     }
 
     @Step("Herhangi bir pop up varsa kapatılır")
     public void closeThePopUps() {
-        if (driver.switchTo().alert() != null) {
-            driver.switchTo().alert().dismiss();
-        }
+        basePage.acceptPopupIfExits();
     }
 
     @Step("Klavyeden TAB tuşuna basılır")

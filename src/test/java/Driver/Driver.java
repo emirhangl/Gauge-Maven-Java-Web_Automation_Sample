@@ -1,4 +1,4 @@
-package com.cagkebab;
+package Driver;
 
 import org.openqa.selenium.WebDriver;
 
@@ -6,7 +6,6 @@ public class Driver {
 
     private static Driver instance;
     public WebDriver webDriver;
-
 
     private Driver()
     {
