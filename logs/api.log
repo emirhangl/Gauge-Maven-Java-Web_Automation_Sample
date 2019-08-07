@@ -1181,3 +1181,6 @@
 15:34:12.896 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<ANASAYFA_HEPSIBURADA_LOGOSU> elementinin g\303\266r\303\274lmesi beklenir" parameters:"ANASAYFA_HEPSIBURADA_LOGOSU" > > 
 15:51:54.572 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
 15:51:54.574 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+13:59:08.621 Concept file added / modified: /Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample/specs/concepts/login.cpt
+14:35:50.758 Concept file removed: /Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample/specs/concepts/login.cpt
+14:35:50.762 Concept file added / modified: /Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample/specs/concepts/login.cpt

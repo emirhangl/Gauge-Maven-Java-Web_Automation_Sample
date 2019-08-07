@@ -7,14 +7,11 @@ public class Driver {
     private static Driver instance;
     public WebDriver webDriver;
 
-    private Driver()
-    {
+    private Driver() {
     }
 
-    public static Driver getInstance()
-    {
-        if (instance == null)
-        {
+    public static Driver getInstance() {
+        if (instance == null) {
             instance = new Driver();
         }
 

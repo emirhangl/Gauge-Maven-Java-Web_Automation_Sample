@@ -3382,3 +3382,531 @@ Total time taken: 36.158s
 15:35:24.241 
 Total time taken: 25.735s
 15:35:24.241 Updates are available. Run `gauge update -c` for more info.
+10:28:06.869 Plugin java is already installed.
+10:28:06.871 Plugin html-report is already installed.
+10:28:06.882 The following specifications satisfy filter criteria:
+10:28:06.882 specs/deneme.spec
+10:28:08.406 Checking updates...
+10:28:09.639 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+10:28:09.641 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+10:28:09.652 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+10:28:09.652 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+10:28:09.653 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+10:28:09.653 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+10:28:09.653 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+10:28:09.654 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+10:28:09.654 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+10:28:09.655 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+10:28:09.655 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+10:28:09.655 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+10:28:09.657 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+10:28:09.657 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+10:28:09.658 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+10:28:09.658 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+10:28:09.659 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+10:28:09.659 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+10:28:09.660 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+10:28:09.660 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+10:28:09.663 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+10:28:09.663 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+10:28:11.039 # Hepsiburada.com Ürünü Testi
+10:28:11.046 ## Login Senaryosu
+10:28:16.704 * Login Olunur
+
+10:28:16.704 * "https://www.hepsiburada.com" Sayfasına gidilir
+10:28:23.960 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+10:28:27.164 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+10:28:28.339 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+10:28:28.605 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+10:28:28.882 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+10:28:29.035 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+10:28:34.663 Plugin [Html Report] with pid [16007] has exited
+10:28:34.807 Closing connection [127.0.0.1:57886] cause: EOF
+10:28:34.879 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:28:34.879 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:28:34.879 
+Total time taken: 23.558s
+10:28:34.880 Updates are available. Run `gauge update -c` for more info.
+10:49:16.998 Plugin java is already installed.
+10:49:16.999 Plugin html-report is already installed.
+10:49:17.008 The following specifications satisfy filter criteria:
+10:49:17.008 specs/deneme.spec
+10:49:18.674 Checking updates...
+10:49:20.140 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+10:49:20.141 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+10:49:20.154 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+10:49:20.155 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+10:49:20.155 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+10:49:20.156 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+10:49:20.157 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+10:49:20.157 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+10:49:20.157 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+10:49:20.157 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+10:49:20.158 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+10:49:20.158 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+10:49:20.159 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+10:49:20.159 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+10:49:20.159 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+10:49:20.160 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+10:49:20.160 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+10:49:20.160 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+10:49:20.161 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+10:49:20.161 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+10:49:20.162 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+10:49:20.162 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+10:49:21.527 # Hepsiburada.com Ürünü Testi
+10:49:21.533 ## Login Senaryosu
+10:49:26.402 * Login Olunur
+
+10:49:26.423 * "https://www.hepsiburada.com" Sayfasına gidilir
+10:49:33.203 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+10:49:36.441 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+10:49:37.984 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+10:49:38.508 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+10:49:38.914 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+10:49:39.140 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+10:49:45.143 Plugin [Html Report] with pid [17919] has exited
+10:49:45.286 Closing connection [127.0.0.1:58135] cause: EOF
+10:49:45.359 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:49:45.359 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:49:45.359 
+Total time taken: 23.584s
+10:49:45.360 Updates are available. Run `gauge update -c` for more info.
+10:51:01.092 Plugin java is already installed.
+10:51:01.092 Plugin html-report is already installed.
+10:51:01.099 The following specifications satisfy filter criteria:
+10:51:01.099 specs/deneme.spec
+10:51:02.620 Checking updates...
+10:51:03.543 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+10:51:03.544 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+10:51:03.567 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+10:51:03.567 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+10:51:03.568 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+10:51:03.568 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+10:51:03.568 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+10:51:03.569 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+10:51:03.569 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+10:51:03.569 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+10:51:03.570 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+10:51:03.570 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+10:51:03.570 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+10:51:03.571 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+10:51:03.571 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+10:51:03.571 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+10:51:03.572 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+10:51:03.572 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+10:51:03.574 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+10:51:03.574 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+10:51:03.575 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+10:51:03.575 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+10:51:04.803 # Hepsiburada.com Ürünü Testi
+10:51:04.807 ## Login Senaryosu
+10:51:08.704 * Login Olunur
+
+10:51:08.704 * "https://www.hepsiburada.com" Sayfasına gidilir
+10:51:14.967 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+10:51:18.279 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+10:51:19.356 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+10:51:19.636 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+10:51:19.952 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+10:51:20.168 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+10:51:25.986 Plugin [Html Report] with pid [18111] has exited
+10:51:26.112 Closing connection [127.0.0.1:58231] cause: EOF
+10:51:26.195 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:51:26.195 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:51:26.195 
+Total time taken: 21.104s
+10:51:26.197 Updates are available. Run `gauge update -c` for more info.
+10:53:42.012 Plugin java is already installed.
+10:53:42.013 Plugin html-report is already installed.
+10:53:42.020 The following specifications satisfy filter criteria:
+10:53:42.020 specs/deneme.spec
+10:53:43.483 Checking updates...
+10:53:44.389 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+10:53:44.390 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+10:53:44.402 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+10:53:44.402 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+10:53:44.403 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+10:53:44.403 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+10:53:44.404 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+10:53:44.404 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+10:53:44.404 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+10:53:44.404 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+10:53:44.405 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+10:53:44.405 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+10:53:44.406 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+10:53:44.406 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+10:53:44.407 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+10:53:44.407 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+10:53:44.407 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+10:53:44.408 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+10:53:44.408 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+10:53:44.408 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+10:53:44.409 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+10:53:44.409 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+10:53:46.110 # Hepsiburada.com Ürünü Testi
+10:53:46.130 ## Login Senaryosu
+10:53:49.309 * Login Olunur
+
+10:53:49.309 * "https://www.hepsiburada.com" Sayfasına gidilir
+10:53:54.882 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+10:53:58.124 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+10:53:59.141 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+10:53:59.489 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+10:53:59.826 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+10:54:00.051 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+10:54:05.483 Plugin [Html Report] with pid [18414] has exited
+10:54:05.614 Closing connection [127.0.0.1:58348] cause: EOF
+10:54:05.691 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:54:05.691 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:54:05.691 
+Total time taken: 19.331s
+10:54:05.693 Updates are available. Run `gauge update -c` for more info.
+11:48:26.187 Plugin java is already installed.
+11:48:26.189 Plugin html-report is already installed.
+11:48:26.196 The following specifications satisfy filter criteria:
+11:48:26.196 specs/deneme.spec
+11:48:27.711 Checking updates...
+11:48:34.154 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+11:48:34.155 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+11:48:34.232 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+11:48:34.233 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+11:48:34.236 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+11:48:34.237 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+11:48:34.237 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+11:48:34.237 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+11:48:34.239 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+11:48:34.239 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+11:48:34.244 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+11:48:34.244 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+11:48:34.246 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+11:48:34.246 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+11:48:34.248 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+11:48:34.248 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+11:48:34.249 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+11:48:34.249 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+11:48:34.251 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+11:48:34.252 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+11:48:34.252 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+11:48:34.252 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+11:48:36.120 # Hepsiburada.com Ürünü Testi
+11:48:36.123 ## Login Senaryosu
+11:48:40.069 * Login Olunur
+
+11:48:40.069 * "https://www.hepsiburada.com" Sayfasına gidilir
+11:48:46.937 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+11:48:50.276 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+11:48:51.408 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+11:48:51.713 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+11:48:52.022 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+11:48:52.247 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+11:49:01.016 Plugin [Html Report] with pid [23210] has exited
+11:49:01.137 Closing connection [127.0.0.1:59022] cause: EOF
+11:49:01.227 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:49:01.227 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:49:01.227 
+Total time taken: 24.849s
+11:49:01.229 Updates are available. Run `gauge update -c` for more info.
+12:00:49.247 Plugin java is already installed.
+12:00:49.248 Plugin html-report is already installed.
+12:00:49.255 The following specifications satisfy filter criteria:
+12:00:49.255 specs/deneme.spec
+12:00:50.675 Checking updates...
+12:00:58.695 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+12:00:58.697 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+12:00:58.711 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+12:00:58.711 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+12:00:58.711 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+12:00:58.712 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+12:00:58.713 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+12:00:58.714 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+12:00:58.714 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+12:00:58.714 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+12:00:58.716 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+12:00:58.716 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+12:00:58.718 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+12:00:58.718 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+12:00:58.719 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+12:00:58.719 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+12:00:58.720 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+12:00:58.720 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+12:00:58.720 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+12:00:58.720 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+12:00:58.721 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+12:00:58.721 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+12:01:00.739 # Hepsiburada.com Ürünü Testi
+12:01:00.742 ## Login Senaryosu
+12:01:06.428 * Login Olunur
+
+12:01:06.430 * "https://www.hepsiburada.com" Sayfasına gidilir
+12:01:12.570 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+12:01:16.274 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+12:01:17.411 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+12:01:17.726 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+12:01:18.010 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+12:01:18.235 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+12:01:24.182 Plugin [Html Report] with pid [24352] has exited
+12:01:24.308 Closing connection [127.0.0.1:59272] cause: EOF
+12:01:24.391 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:01:24.392 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12:01:24.392 
+Total time taken: 23.42s
+12:01:24.393 Updates are available. Run `gauge update -c` for more info.
+12:03:23.810 Plugin java is already installed.
+12:03:23.810 Plugin html-report is already installed.
+12:03:23.817 The following specifications satisfy filter criteria:
+12:03:23.817 specs/deneme.spec
+12:03:25.184 Checking updates...
+12:03:31.722 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+12:03:31.724 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+12:03:31.738 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+12:03:31.738 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+12:03:31.739 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+12:03:31.739 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+12:03:31.739 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+12:03:31.739 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+12:03:31.740 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+12:03:31.740 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+12:03:31.741 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+12:03:31.741 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+12:03:31.741 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+12:03:31.742 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+12:03:31.742 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+12:03:31.742 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+12:03:31.744 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+12:03:31.744 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+12:03:31.745 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+12:03:31.745 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+12:03:31.745 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+12:03:31.745 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+12:03:32.960 # Hepsiburada.com Ürünü Testi
+12:03:32.964 ## Login Senaryosu
+12:03:36.576 * Login Olunur
+
+12:03:36.576 * "https://www.hepsiburada.com" Sayfasına gidilir
+12:03:43.524 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+12:03:51.811 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+12:03:55.844 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+12:03:56.178 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+12:03:56.479 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+12:03:56.657 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+12:04:03.081 Plugin [Html Report] with pid [24627] has exited
+12:04:03.222 Closing connection [127.0.0.1:59383] cause: EOF
+12:04:03.292 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:04:03.292 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12:04:03.292 
+Total time taken: 30.043s
+12:04:03.293 Updates are available. Run `gauge update -c` for more info.
+13:42:53.382 Plugin java is already installed.
+13:42:53.383 Plugin html-report is already installed.
+13:42:53.392 The following specifications satisfy filter criteria:
+13:42:53.392 specs/deneme.spec
+13:42:54.845 Checking updates...
+13:43:01.173 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+13:43:01.175 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+13:43:01.184 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+13:43:01.185 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+13:43:01.185 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+13:43:01.185 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+13:43:01.186 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+13:43:01.186 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+13:43:01.186 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+13:43:01.186 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+13:43:01.187 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+13:43:01.187 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+13:43:01.187 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+13:43:01.187 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+13:43:01.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+13:43:01.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+13:43:01.189 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+13:43:01.189 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+13:43:01.189 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+13:43:01.189 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+13:43:01.190 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+13:43:01.190 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+13:43:02.258 # Hepsiburada.com Ürünü Testi
+13:43:02.261 ## Login Senaryosu
+13:43:06.985 * Login Olunur
+
+13:43:06.987 * "https://www.hepsiburada.com" Sayfasına gidilir
+13:43:13.847 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+13:43:17.066 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+13:43:18.234 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+13:43:18.503 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+13:43:18.772 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+13:43:18.923 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+13:43:23.932 Plugin [Html Report] with pid [33122] has exited
+13:43:24.059 Closing connection [127.0.0.1:60250] cause: EOF
+13:43:24.141 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:43:24.141 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:43:24.141 
+Total time taken: 21.618s
+13:43:24.142 Updates are available. Run `gauge update -c` for more info.
+13:47:56.787 Plugin java is already installed.
+13:47:56.789 Plugin html-report is already installed.
+13:47:56.796 The following specifications satisfy filter criteria:
+13:47:56.796 specs/deneme.spec
+13:47:58.091 Checking updates...
+13:48:00.222 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+13:48:00.223 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+13:48:00.235 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+13:48:00.235 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+13:48:00.237 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+13:48:00.237 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+13:48:00.238 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+13:48:00.238 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+13:48:00.239 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+13:48:00.239 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+13:48:00.240 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+13:48:00.240 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+13:48:00.240 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+13:48:00.241 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+13:48:00.243 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+13:48:00.243 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+13:48:00.246 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+13:48:00.246 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+13:48:00.246 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+13:48:00.247 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+13:48:00.247 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+13:48:00.247 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+13:48:01.653 # Hepsiburada.com Ürünü Testi
+13:48:01.658 ## Login Senaryosu
+13:48:06.126 * Login Olunur
+
+13:48:06.127 * "https://www.hepsiburada.com" Sayfasına gidilir
+13:48:13.267 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+13:48:16.775 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+13:48:17.884 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+13:48:18.162 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+13:48:18.465 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+13:48:18.663 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+13:48:25.383 Plugin [Html Report] with pid [33629] has exited
+13:48:25.490 Closing connection [127.0.0.1:60434] cause: EOF
+13:48:25.593 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:48:25.593 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:48:25.593 
+Total time taken: 23.692s
+13:48:25.594 Updates are available. Run `gauge update -c` for more info.
+14:15:06.627 Plugin java is already installed.
+14:15:06.628 Plugin html-report is already installed.
+14:15:06.638 The following specifications satisfy filter criteria:
+14:15:06.638 specs/deneme.spec
+14:15:07.899 Checking updates...
+14:15:14.959 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+14:15:14.959 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+14:15:14.970 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+14:15:14.970 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+14:15:14.971 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+14:15:14.971 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+14:15:14.972 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+14:15:14.972 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+14:15:14.973 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+14:15:14.973 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+14:15:14.974 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+14:15:14.974 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+14:15:14.975 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+14:15:14.975 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+14:15:14.975 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+14:15:14.975 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+14:15:14.976 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+14:15:14.976 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+14:15:14.976 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+14:15:14.977 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+14:15:14.977 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+14:15:14.977 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+14:15:16.150 # Hepsiburada.com Ürünü Testi
+14:15:16.153 ## Login Senaryosu
+14:15:20.242 * Login Olunur
+
+14:15:20.243 * "https://www.hepsiburada.com" Sayfasına gidilir
+14:15:27.965 Plugin [Html Report] with pid [36218] has exited
+14:15:28.137 Closing connection [127.0.0.1:61101] cause: EOF
+14:15:28.172 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:15:28.172 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:15:28.173 
+Total time taken: 11.751s
+14:15:28.173 Updates are available. Run `gauge update -c` for more info.
+14:27:37.278 Plugin java is already installed.
+14:27:37.279 Plugin html-report is already installed.
+14:27:37.287 The following specifications satisfy filter criteria:
+14:27:37.287 specs/deneme.spec
+14:27:38.796 Checking updates...
+14:27:39.885 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+14:27:39.885 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+14:27:39.899 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+14:27:39.899 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+14:27:39.900 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+14:27:39.900 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+14:27:39.900 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+14:27:39.901 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+14:27:39.903 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+14:27:39.903 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+14:27:39.903 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+14:27:39.904 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+14:27:39.904 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+14:27:39.904 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+14:27:39.905 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+14:27:39.905 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+14:27:39.906 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+14:27:39.906 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+14:27:39.908 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+14:27:39.908 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+14:27:39.908 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+14:27:39.909 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+14:27:41.411 # Hepsiburada.com Ürünü Testi
+14:27:41.416 ## Login Senaryosu
+14:27:45.334 * Login Olunur
+
+14:27:45.335 * "https://www.hepsiburada.com" Sayfasına gidilir
+14:27:52.927 Plugin [Html Report] with pid [37345] has exited
+14:27:53.077 Closing connection [127.0.0.1:61332] cause: EOF
+14:27:53.140 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:27:53.141 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:27:53.141 
+Total time taken: 11.478s
+14:27:53.143 Updates are available. Run `gauge update -c` for more info.
+14:36:48.920 Plugin java is already installed.
+14:36:48.922 Plugin html-report is already installed.
+14:36:48.929 The following specifications satisfy filter criteria:
+14:36:48.929 specs/deneme.spec
+14:36:50.299 Checking updates...
+14:36:51.553 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+14:36:51.554 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+14:36:51.569 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+14:36:51.570 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+14:36:51.570 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+14:36:51.571 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+14:36:51.571 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+14:36:51.571 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+14:36:51.572 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+14:36:51.572 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+14:36:51.575 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+14:36:51.575 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+14:36:51.576 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+14:36:51.576 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+14:36:51.580 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+14:36:51.580 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+14:36:51.580 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+14:36:51.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+14:36:51.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+14:36:51.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+14:36:51.582 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+14:36:51.582 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+14:36:53.450 # Hepsiburada.com Ürünü Testi
+14:36:53.453 ## Login Senaryosu
+14:36:57.506 * Login Olunur
+
+14:36:57.513 * "https://www.hepsiburada.com" Sayfasına gidilir
+14:37:07.256 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+14:37:10.461 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+14:37:12.235 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+14:37:12.507 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+14:37:12.797 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+14:37:13.061 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+14:37:20.500 Plugin [Html Report] with pid [38252] has exited
+14:37:20.563 Closing connection [127.0.0.1:61524] cause: EOF
+14:37:20.605 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:37:20.605 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:37:20.605 
+Total time taken: 27.011s
+14:37:20.608 Updates are available. Run `gauge update -c` for more info.
