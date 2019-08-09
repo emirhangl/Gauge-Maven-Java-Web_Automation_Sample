@@ -3,13 +3,13 @@
 22:04:35.754 The following specifications satisfy filter criteria:
 22:04:35.754 specs/deneme.spec
 22:04:37.065 Checking updates...
-22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 Step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
-22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 Step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
-22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 Step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
-22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 Step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
-22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 Step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
-22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 Step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
-22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 Step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
+22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
+22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
+22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
+22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
+22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
+22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
+22:04:39.538 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
 22:04:39.791 Plugin [Html Report] with pid [10450] has exited
 22:04:39.896 Specifications:	0 executed	0 passed	0 failed	1 skipped
 22:04:39.896 Scenarios:	0 executed	0 passed	0 failed	1 skipped
@@ -22,13 +22,13 @@ Total time taken: 151ms
 22:07:46.164 The following specifications satisfy filter criteria:
 22:07:46.164 specs/deneme.spec
 22:07:47.615 Checking updates...
-22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 Step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
-22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 Step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
-22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 Step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
-22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 Step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
-22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 Step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
-22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 Step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
-22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 Step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
+22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
+22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
+22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
+22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
+22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
+22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
+22:07:49.859 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
 22:07:50.156 Plugin [Html Report] with pid [10478] has exited
 22:07:50.257 Specifications:	0 executed	0 passed	0 failed	1 skipped
 22:07:50.257 Scenarios:	0 executed	0 passed	0 failed	1 skipped
@@ -40,13 +40,13 @@ Total time taken: 192ms
 22:08:30.765 The following specifications satisfy filter criteria:
 22:08:30.765 specs/deneme.spec
 22:08:31.866 Checking updates...
-22:08:34.299 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 Step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
-22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 Step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
-22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 Step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
-22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 Step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
-22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 Step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
-22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 Step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
-22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 Step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
+22:08:34.299 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
+22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
+22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
+22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
+22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
+22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
+22:08:34.300 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
 22:08:34.487 Plugin [Html Report] with pid [10503] has exited
 22:08:34.590 Specifications:	0 executed	0 passed	0 failed	1 skipped
 22:08:34.590 Scenarios:	0 executed	0 passed	0 failed	1 skipped
@@ -60,13 +60,13 @@ Total time taken: 82ms
 22:11:33.953 The following specifications satisfy filter criteria:
 22:11:33.953 specs/deneme.spec
 22:11:36.835 Checking updates...
-22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 Step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
-22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 Step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
-22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 Step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
-22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 Step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
-22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 Step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
-22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 Step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
-22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 Step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
+22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
+22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
+22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
+22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
+22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
+22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
+22:11:37.670 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
 22:11:37.923 Plugin [Html Report] with pid [10532] has exited
 22:11:38.029 Specifications:	0 executed	0 passed	0 failed	1 skipped
 22:11:38.029 Scenarios:	0 executed	0 passed	0 failed	1 skipped
@@ -105,11 +105,11 @@ Total time taken: 148ms
 
 22:13:53.994 * "https://www.hepsiburada.com" Sayfasına gidilir
 22:14:14.872 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
-22:14:16.309 Failed Step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+22:14:16.309 Failed step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 22:14:16.309 Error Message: org.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
+driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10565, moz:profile: /var/folders/8f/76s1w_p5521..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.7.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
 Session ID: 5815c4f4-2134-b449-bb7d-951a7345f631
 *** Element info: {Using=id, value=myAccount}
@@ -129,7 +129,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
+step.StepImplementation.hoverOnTheElement(step.StepImplementation.java:57)
 22:14:17.402 Plugin [Html Report] with pid [10562] has exited
 22:14:17.924 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:14:17.924 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -141,13 +141,13 @@ Total time taken: 29.998s
 22:14:54.092 The following specifications satisfy filter criteria:
 22:14:54.092 specs/deneme.spec
 22:14:55.199 Checking updates...
-22:14:57.684 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 Step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
-22:14:57.684 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 Step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
-22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 Step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
-22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 Step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
-22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 Step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
-22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 Step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
-22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 Step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
+22:14:57.684 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
+22:14:57.684 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
+22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
+22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
+22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
+22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
+22:14:57.685 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
 22:14:57.899 Plugin [Html Report] with pid [10597] has exited
 22:14:58.066 Specifications:	0 executed	0 passed	0 failed	1 skipped
 22:14:58.066 Scenarios:	0 executed	0 passed	0 failed	1 skipped
@@ -325,14 +325,14 @@ Total time taken: 24.473s
 22:20:42.942 * "https://www.hepsiburada.com" Sayfasına gidilir
 22:20:53.362 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 22:20:56.574 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-22:20:58.065 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+22:20:58.065 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 22:20:58.066 Error Message: org.openqa.selenium.ElementNotVisibleException: element not interactable
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
+driver info: org.openqa.selenium.remote.RemoteWebDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52682}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true, webdriver.remote.sessionid: 385565e28c72728ddc42d7534e3...}
 Session ID: 385565e28c72728ddc42d7534e30654e
 22:20:58.066 Specification: specs/deneme.spec
@@ -350,7 +350,7 @@ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
 org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 22:20:58.530 Plugin [Html Report] with pid [10764] has exited
 22:20:59.051 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:20:59.051 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -390,15 +390,15 @@ Total time taken: 17.922s
 
 22:21:47.747 * "https://www.hepsiburada.com" Sayfasına gidilir
 22:21:57.061 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
-22:21:58.284 Failed Step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+22:21:58.284 Failed step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 22:21:58.285 Error Message: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
 from unknown error: web view not found
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
+driver info: org.openqa.selenium.remote.RemoteWebDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52798}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true, webdriver.remote.sessionid: 6f14e28305530f8a9b199cfc333...}
 Session ID: 6f14e28305530f8a9b199cfc333feafe
 *** Element info: {Using=id, value=myAccount}
@@ -419,7 +419,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
+step.StepImplementation.hoverOnTheElement(step.StepImplementation.java:57)
 22:21:58.590 Plugin [Html Report] with pid [10806] has exited
 22:21:59.112 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:21:59.112 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -460,13 +460,13 @@ Total time taken: 13.056s
 22:24:26.012 * "https://www.hepsiburada.com" Sayfasına gidilir
 22:24:36.492 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 22:24:39.683 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-22:24:52.464 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+22:24:52.464 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 22:24:52.464 Error Message: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: login (tried for 10 second(s) with 500 milliseconds interval)
 22:24:52.465 Specification: specs/deneme.spec
 22:24:52.465 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 22:24:52.744 Plugin [Html Report] with pid [10852] has exited
 22:24:52.948 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:24:52.948 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -507,15 +507,15 @@ Total time taken: 28.947s
 
 22:25:29.289 * "https://www.hepsiburada.com" Sayfasına gidilir
 22:25:34.046 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
-22:25:35.374 Failed Step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+22:25:35.374 Failed step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 22:25:35.374 Error Message: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
 from unknown error: web view not found
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
+driver info: org.openqa.selenium.remote.RemoteWebDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53062}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true, webdriver.remote.sessionid: 9841023e70d8688efd11bea2a38...}
 Session ID: 9841023e70d8688efd11bea2a38dba2d
 *** Element info: {Using=id, value=myAccount}
@@ -536,7 +536,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
+step.StepImplementation.hoverOnTheElement(step.StepImplementation.java:57)
 22:25:38.762 Plugin [Html Report] with pid [10895] has exited
 22:25:38.972 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:25:38.972 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -548,13 +548,13 @@ Total time taken: 11.503s
 22:28:04.953 The following specifications satisfy filter criteria:
 22:28:04.953 specs/deneme.spec
 22:28:06.125 Checking updates...
-22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 Step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
-22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 Step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
-22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 Step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
-22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 Step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
-22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 Step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
-22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 Step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
-22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 Step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
+22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:3 step implementation not found => '"https://www.hepsiburada.com" Sayfasına gidilir'
+22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:4 step implementation not found => '"HESABIM_BUTONU" alanının üzerine mouse ile gelinir'
+22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:5 step implementation not found => '"HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır'
+22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:6 step implementation not found => '"LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır'
+22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:7 step implementation not found => '"LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır'
+22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:8 step implementation not found => '"UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır'
+22:28:08.766 [ValidationError] /Users/sahabt/Documents/MavenDev/gaugebasics/specs/concepts/login.cpt:9 step implementation not found => '"ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir'
 22:28:08.945 Plugin [Html Report] with pid [11003] has exited
 22:28:09.154 Specifications:	0 executed	0 passed	0 failed	1 skipped
 22:28:09.154 Scenarios:	0 executed	0 passed	0 failed	1 skipped
@@ -595,14 +595,14 @@ Total time taken: 73ms
 22:29:26.235 * "https://www.hepsiburada.com" Sayfasına gidilir
 22:29:33.150 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 22:29:36.403 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-22:29:39.169 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+22:29:39.169 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 22:29:39.169 Error Message: org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
+driver info: org.openqa.selenium.remote.RemoteWebDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53214}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true, webdriver.remote.sessionid: 023cbf0b359405296c7c0c85fb2...}
 Session ID: 023cbf0b359405296c7c0c85fb2f922b
 22:29:39.169 Specification: specs/deneme.spec
@@ -620,18 +620,18 @@ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
 org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 22:29:39.171 ## Sepete Ürün Ekleme Senaryosu
 22:29:39.176 * Login Olunur
 22:29:39.177 * "https://www.hepsiburada.com" Sayfasına gidilir
-22:29:40.262 Failed Step: "https://www.hepsiburada.com" Sayfasına gidilir
+22:29:40.262 Failed step: "https://www.hepsiburada.com" Sayfasına gidilir
 22:29:40.262 Error Message: org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
+driver info: org.openqa.selenium.remote.RemoteWebDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53214}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true, webdriver.remote.sessionid: 023cbf0b359405296c7c0c85fb2...}
 Session ID: 023cbf0b359405296c7c0c85fb2f922b
 22:29:40.262 Specification: specs/deneme.spec
@@ -648,7 +648,7 @@ org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpRes
 org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
-Step.StepImplementation.navigateTo(Step.StepImplementation.java:22)
+step.StepImplementation.navigateTo(step.StepImplementation.java:22)
 22:29:40.602 Plugin [Html Report] with pid [11049] has exited
 22:29:41.124 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:29:41.124 Scenarios:	2 executed	0 passed	2 failed	0 skipped
@@ -832,13 +832,13 @@ Total time taken: 38.623s
 22:50:20.287 * "https://www.hepsiburada.com" Sayfasına gidilir
 22:50:22.870 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 22:50:26.375 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-22:50:37.848 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+22:50:37.848 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 22:50:37.848 Error Message: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: login (tried for 10 second(s) with 500 milliseconds interval)
 22:50:37.848 Specification: specs/deneme.spec
 22:50:37.849 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 22:50:38.077 Plugin [Html Report] with pid [11260] has exited
 22:50:38.600 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:50:38.600 Scenarios:	2 executed	1 passed	1 failed	0 skipped
@@ -968,15 +968,15 @@ Total time taken: 23.832s
 
 11:42:53.059 * "https://www.hepsiburada.com" Sayfasına gidilir
 11:43:11.300 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
-11:43:11.360 Failed Step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+11:43:11.360 Failed step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 11:43:11.360 Error Message: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
 from unknown error: web view not found
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
+driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578706 (5f725d1b4f0a4a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57413}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
 Session ID: 1ba008036a472eeeabfad843c2658af8
 *** Element info: {Using=id, value=myAccount}
@@ -998,19 +998,19 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
+step.StepImplementation.hoverOnTheElement(step.StepImplementation.java:57)
 11:43:11.365 ## Sepete Ürün Ekleme Senaryosu
 11:43:11.367 * Login Olunur
 11:43:11.367 * "https://www.hepsiburada.com" Sayfasına gidilir
-11:43:11.387 Failed Step: "https://www.hepsiburada.com" Sayfasına gidilir
+11:43:11.387 Failed step: "https://www.hepsiburada.com" Sayfasına gidilir
 11:43:11.387 Error Message: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
 from unknown error: web view not found
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
+driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578706 (5f725d1b4f0a4a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57413}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
 Session ID: 1ba008036a472eeeabfad843c2658af8
 11:43:11.387 Specification: specs/deneme.spec
@@ -1028,7 +1028,7 @@ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:
 org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
-Step.StepImplementation.navigateTo(Step.StepImplementation.java:22)
+step.StepImplementation.navigateTo(step.StepImplementation.java:22)
 11:43:11.970 Plugin [Html Report] with pid [12117] has exited
 11:43:12.072 Specifications:	1 executed	0 passed	1 failed	0 skipped
 11:43:12.072 Scenarios:	2 executed	0 passed	2 failed	0 skipped
@@ -1068,15 +1068,15 @@ Total time taken: 23.905s
 
 11:46:23.190 * "https://www.hepsiburada.com" Sayfasına gidilir
 11:47:00.127 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
-11:47:01.360 Failed Step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+11:47:01.360 Failed step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 11:47:01.360 Error Message: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
 from unknown error: web view not found
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
+driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578706 (5f725d1b4f0a4a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57532}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
 Session ID: bb52145929f63a716bfde2a42269cdc1
 *** Element info: {Using=id, value=myAccount}
@@ -1098,19 +1098,19 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:57)
+step.StepImplementation.hoverOnTheElement(step.StepImplementation.java:57)
 11:47:01.363 ## Sepete Ürün Ekleme Senaryosu
 11:47:01.367 * Login Olunur
 11:47:01.367 * "https://www.hepsiburada.com" Sayfasına gidilir
-11:47:01.873 Failed Step: "https://www.hepsiburada.com" Sayfasına gidilir
+11:47:01.873 Failed step: "https://www.hepsiburada.com" Sayfasına gidilir
 11:47:01.873 Error Message: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
 from unknown error: web view not found
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
+driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578706 (5f725d1b4f0a4a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57532}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
 Session ID: bb52145929f63a716bfde2a42269cdc1
 11:47:01.873 Specification: specs/deneme.spec
@@ -1128,7 +1128,7 @@ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:
 org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
-Step.StepImplementation.navigateTo(Step.StepImplementation.java:22)
+step.StepImplementation.navigateTo(step.StepImplementation.java:22)
 11:47:02.115 Plugin [Html Report] with pid [12176] has exited
 11:47:02.695 Specifications:	1 executed	0 passed	1 failed	0 skipped
 11:47:02.696 Scenarios:	2 executed	0 passed	2 failed	0 skipped
@@ -1180,13 +1180,13 @@ Total time taken: 43.773s
 13:55:53.675 * "https://www.hepsiburada.com" Sayfasına gidilir
 13:56:01.749 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 13:56:06.590 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-13:56:16.685 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+13:56:16.685 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 13:56:16.685 Error Message: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: login (tried for 10 second(s) with 500 milliseconds interval)
 13:56:16.685 Specification: specs/deneme.spec
 13:56:16.685 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 13:56:17.137 Plugin [Html Report] with pid [12376] has exited
 13:56:17.239 Specifications:	1 executed	0 passed	1 failed	0 skipped
 13:56:17.239 Scenarios:	2 executed	1 passed	1 failed	0 skipped
@@ -1229,11 +1229,11 @@ Total time taken: 1m12.453s
 14:09:38.627 * "https://www.hepsiburada.com" Sayfasına gidilir
 14:10:00.254 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 14:10:06.009 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-14:10:07.542 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+14:10:07.542 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 14:10:07.542 Error Message: org.openqa.selenium.ElementNotInteractableException: Element <a id="login" href="https://www.hepsiburada.com/ayagina-gelsin/giris?ReturnUrl=%!f(MISSING)"> could not be scrolled into view
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
+driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 12486, moz:profile: /var/folders/8f/76s1w_p5521..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.7.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
 Session ID: f44969b8-bc2a-884f-ab19-b4c64d739786
 14:10:07.543 Specification: specs/deneme.spec
@@ -1250,7 +1250,7 @@ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandEx
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
 org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 14:10:08.568 Plugin [Html Report] with pid [12482] has exited
 14:10:08.673 Specifications:	1 executed	0 passed	1 failed	0 skipped
 14:10:08.673 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -1415,25 +1415,25 @@ Total time taken: 28.736s
 20:05:04.396 * "https://www.hepsiburada.com" Sayfasına gidilir
 20:05:06.603 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 20:05:09.706 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-20:05:20.936 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+20:05:20.936 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 20:05:20.937 Error Message: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: login (tried for 10 second(s) with 500 milliseconds interval)
 20:05:20.937 Specification: specs/deneme2.spec
 20:05:20.937 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 20:05:20.937 ## Sepete Ürün Ekleme Senaryosuu
 20:05:20.938 * Login Olunur
 20:05:20.938 * "https://www.hepsiburada.com" Sayfasına gidilir
 20:05:24.644 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 20:05:33.194 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-20:05:43.848 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+20:05:43.848 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 20:05:43.848 Error Message: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: login (tried for 10 second(s) with 500 milliseconds interval)
 20:05:43.848 Specification: specs/deneme2.spec
 20:05:43.848 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 20:05:44.098 Plugin [Html Report] with pid [17087] has exited
 20:05:44.620 Specifications:	2 executed	1 passed	1 failed	0 skipped
 20:05:44.620 Scenarios:	4 executed	2 passed	2 failed	0 skipped
@@ -1498,14 +1498,14 @@ Total time taken: 1m33.611s
 20:08:36.529 * "https://www.hepsiburada.com" Sayfasına gidilir
 20:08:39.312 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 20:08:43.258 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-20:09:01.169 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+20:09:01.169 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 20:09:01.169 Error Message: org.openqa.selenium.ElementNotVisibleException: element not visible
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:ef:fdd3:a2f:9677%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
+driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578706 (5f725d1b4f0a4a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53409}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
 Session ID: 5739e2de0d5dcffe962aebdbca777da4
 20:09:01.169 Specification: specs/deneme2.spec
@@ -1524,19 +1524,19 @@ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandEx
 org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
 org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
 org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 20:09:01.170 ## Sepete Ürün Ekleme Senaryosuu
 20:09:01.171 * Login Olunur
 20:09:01.171 * "https://www.hepsiburada.com" Sayfasına gidilir
 20:09:08.433 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 20:09:17.699 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
-20:09:28.459 Failed Step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+20:09:28.459 Failed step: "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
 20:09:28.459 Error Message: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: login (tried for 10 second(s) with 500 milliseconds interval)
 20:09:28.459 Specification: specs/deneme2.spec
 20:09:28.459 Stacktrace: 
 org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:36)
+step.StepImplementation.clickElement(step.StepImplementation.java:36)
 20:09:28.725 Plugin [Html Report] with pid [17134] has exited
 20:09:29.246 Specifications:	2 executed	1 passed	1 failed	0 skipped
 20:09:29.246 Scenarios:	4 executed	2 passed	2 failed	0 skipped
@@ -1668,7 +1668,7 @@ Total time taken: 26.033s
 21:10:39.924 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
 21:10:40.246 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
 21:10:40.417 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
-21:10:41.704 Failed Step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+21:10:41.704 Failed step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
 21:10:41.704 Error Message: java.lang.NullPointerException
 21:10:41.704 Specification: specs/deneme.spec
 21:10:41.704 Stacktrace: 
@@ -1678,7 +1678,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
+step.StepImplementation.clickElement(step.StepImplementation.java:38)
 21:10:41.922 Plugin [Html Report] with pid [5831] has exited
 21:10:42.443 Specifications:	1 executed	0 passed	1 failed	0 skipped
 21:10:42.443 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -1721,7 +1721,7 @@ Total time taken: 16.752s
 21:17:34.917 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
 21:17:35.182 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
 21:17:35.357 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
-21:17:36.425 Failed Step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+21:17:36.425 Failed step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
 21:17:36.425 Error Message: java.lang.NullPointerException
 21:17:36.425 Specification: specs/deneme.spec
 21:17:36.425 Stacktrace: 
@@ -1731,7 +1731,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
+step.StepImplementation.clickElement(step.StepImplementation.java:38)
 21:17:36.656 Plugin [Html Report] with pid [5888] has exited
 21:17:37.176 Specifications:	1 executed	0 passed	1 failed	0 skipped
 21:17:37.176 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -1896,7 +1896,7 @@ Total time taken: 4m15.874s
 21:36:12.247 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
 21:36:12.588 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
 21:36:12.760 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
-21:36:13.931 Failed Step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+21:36:13.931 Failed step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
 21:36:13.931 Error Message: java.lang.NullPointerException
 21:36:13.931 Specification: specs/deneme.spec
 21:36:13.931 Stacktrace: 
@@ -1906,7 +1906,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
+step.StepImplementation.clickElement(step.StepImplementation.java:38)
 21:36:14.209 Plugin [Html Report] with pid [6066] has exited
 21:36:14.731 Specifications:	1 executed	0 passed	1 failed	0 skipped
 21:36:14.731 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -1949,7 +1949,7 @@ Total time taken: 43.918s
 21:38:32.449 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
 21:38:32.766 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
 21:38:32.953 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
-21:38:34.046 Failed Step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+21:38:34.046 Failed step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
 21:38:34.046 Error Message: java.lang.NullPointerException
 21:38:34.046 Specification: specs/deneme.spec
 21:38:34.046 Stacktrace: 
@@ -1959,7 +1959,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
+step.StepImplementation.clickElement(step.StepImplementation.java:38)
 21:38:34.278 Plugin [Html Report] with pid [6119] has exited
 21:38:34.801 Specifications:	1 executed	0 passed	1 failed	0 skipped
 21:38:34.801 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -2028,7 +2028,7 @@ Total time taken: 13.8s
 22:24:46.035 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
 22:24:46.374 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
 22:24:46.659 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
-22:24:47.772 Failed Step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+22:24:47.772 Failed step: "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
 22:24:47.772 Error Message: java.lang.NullPointerException
 22:24:47.772 Specification: specs/deneme.spec
 22:24:47.772 Stacktrace: 
@@ -2038,7 +2038,7 @@ org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:183)
 org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:180)
 org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
-Step.StepImplementation.clickElement(Step.StepImplementation.java:38)
+step.StepImplementation.clickElement(step.StepImplementation.java:38)
 22:24:48.038 Plugin [Html Report] with pid [6293] has exited
 22:24:48.559 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:24:48.559 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -2077,15 +2077,15 @@ Total time taken: 14.665s
 
 22:26:53.769 * "https://www.hepsiburada.com" Sayfasına gidilir
 22:27:00.123 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
-22:27:11.324 Failed Step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+22:27:11.324 Failed step: "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
 22:27:11.324 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"myaccount"}
   (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.14.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.14.0 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:8a:97b4:245a:7530%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
+driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578706 (5f725d1b4f0a4a..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57884}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
 Session ID: 70fa6a2b2d9c72c936b69c050ce06358
 *** Element info: {Using=id, value=myaccount}
@@ -2107,7 +2107,7 @@ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
 org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
 org.openqa.selenium.By$ById.findElement(By.java:188)
 org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
-Step.StepImplementation.hoverOnTheElement(Step.StepImplementation.java:59)
+step.StepImplementation.hoverOnTheElement(step.StepImplementation.java:59)
 22:27:11.604 Plugin [Html Report] with pid [6341] has exited
 22:27:12.127 Specifications:	1 executed	0 passed	1 failed	0 skipped
 22:27:12.127 Scenarios:	1 executed	0 passed	1 failed	0 skipped
@@ -2261,11 +2261,11 @@ Total time taken: 16.473s
 08:49:04.600 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
 08:49:55.561 Error Message: org.openqa.selenium.WebDriverException: unknown error: failed to change window state to maximized, current state is normal
   (Session info: chrome=70.0.3538.77)
-  (Driver info: chromedriver=70.0.3538.67 (9ab0cfab84ded083718d3a4ff830726efd38869f),platform=Mac OS X 10.14.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=70.0.3538.67 (9ab0cfab84ded083718d3a4ff830726efd38869f),platform=Mac OS X 10.14.0 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:1033:aca0:f0cc:68f7%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
+driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 70.0.3538.67 (9ab0cfab84ded..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51463}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
 Session ID: 997f507678d73d2aa2e3a48c828ee358
 08:49:55.562 Stacktrace: 
@@ -2316,11 +2316,11 @@ Total time taken: 49.607s
 08:50:50.313 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
 08:50:57.056 Error Message: org.openqa.selenium.WebDriverException: unknown error: failed to change window state to maximized, current state is normal
   (Session info: chrome=70.0.3538.77)
-  (Driver info: chromedriver=70.0.3538.67 (9ab0cfab84ded083718d3a4ff830726efd38869f),platform=Mac OS X 10.14.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+  (driver info: chromedriver=70.0.3538.67 (9ab0cfab84ded083718d3a4ff830726efd38869f),platform=Mac OS X 10.14.0 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:1033:aca0:f0cc:68f7%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
+driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 70.0.3538.67 (9ab0cfab84ded..., userDataDir: /var/folders/8f/76s1w_p5521...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51517}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
 Session ID: ac1f3839989a2f13e9c14e852328f5fc
 08:50:57.056 Stacktrace: 
@@ -2519,7 +2519,7 @@ Total time taken: 37.523s
 11:40:15.452 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
-Driver info: driver.version: ChromeDriver
+driver info: driver.version: ChromeDriver
 remote stacktrace: 0   chromedriver                        0x000000010787a129 chromedriver + 3649833
 1   chromedriver                        0x000000010780a133 chromedriver + 3191091
 2   chromedriver                        0x00000001075aacef chromedriver + 703727
@@ -2573,7 +2573,7 @@ DriverSetup.initializeDriver(DriverSetup.java:22)
 11:40:18.487 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
-Driver info: driver.version: ChromeDriver
+driver info: driver.version: ChromeDriver
 remote stacktrace: 0   chromedriver                        0x0000000107d50129 chromedriver + 3649833
 1   chromedriver                        0x0000000107ce0133 chromedriver + 3191091
 2   chromedriver                        0x0000000107a80cef chromedriver + 703727
@@ -2660,7 +2660,7 @@ Total time taken: 14.114s
 11:41:31.941 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
-Driver info: driver.version: ChromeDriver
+driver info: driver.version: ChromeDriver
 remote stacktrace: 0   chromedriver                        0x000000010ba20129 chromedriver + 3649833
 1   chromedriver                        0x000000010b9b0133 chromedriver + 3191091
 2   chromedriver                        0x000000010b750cef chromedriver + 703727
@@ -2714,7 +2714,7 @@ DriverSetup.initializeDriver(DriverSetup.java:22)
 11:41:35.660 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
-Driver info: driver.version: ChromeDriver
+driver info: driver.version: ChromeDriver
 remote stacktrace: 0   chromedriver                        0x0000000108c5f129 chromedriver + 3649833
 1   chromedriver                        0x0000000108bef133 chromedriver + 3191091
 2   chromedriver                        0x000000010898fcef chromedriver + 703727
@@ -2803,7 +2803,7 @@ Total time taken: 10.087s
 11:46:05.398 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
-Driver info: driver.version: ChromeDriver
+driver info: driver.version: ChromeDriver
 remote stacktrace: 0   chromedriver                        0x000000010ecf5129 chromedriver + 3649833
 1   chromedriver                        0x000000010ec85133 chromedriver + 3191091
 2   chromedriver                        0x000000010ea25cef chromedriver + 703727
@@ -2924,7 +2924,7 @@ Total time taken: 12.271s
 11:53:01.721 Error Message: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 76
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:10b6:9e54:dce3:b95c%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_171'
-Driver info: driver.version: ChromeDriver
+driver info: driver.version: ChromeDriver
 remote stacktrace: 0   chromedriver                        0x00000001006ed129 chromedriver + 3649833
 1   chromedriver                        0x000000010067d133 chromedriver + 3191091
 2   chromedriver                        0x000000010041dcef chromedriver + 703727
@@ -3100,7 +3100,7 @@ Total time taken: 5.43s
 14:37:51.770 * Login Olunur
 
 14:37:51.770 * "https://www.hepsiburada.com" Sayfasına gidilir
-14:37:53.108 Failed Step: "https://www.hepsiburada.com" Sayfasına gidilir
+14:37:53.108 Failed step: "https://www.hepsiburada.com" Sayfasına gidilir
 14:37:53.109 Error Message: java.lang.NullPointerException
 14:37:53.109 Specification: specs/deneme.spec
 14:37:53.109 Stacktrace: 
@@ -3108,7 +3108,7 @@ java.util.Objects.requireNonNull(Objects.java:203)
 org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:115)
 org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:102)
 org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:45)
-Step.StepImplementation.<init>(Step.StepImplementation.java:17)
+step.StepImplementation.<init>(step.StepImplementation.java:17)
 sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -3167,7 +3167,7 @@ Total time taken: 5.228s
 14:40:22.145 * Login Olunur
 
 14:40:22.156 * "https://www.hepsiburada.com" Sayfasına gidilir
-14:40:23.227 Failed Step: "https://www.hepsiburada.com" Sayfasına gidilir
+14:40:23.227 Failed step: "https://www.hepsiburada.com" Sayfasına gidilir
 14:40:23.228 Error Message: java.lang.NullPointerException
 14:40:23.228 Specification: specs/deneme.spec
 14:40:23.228 Stacktrace: 
@@ -3175,7 +3175,7 @@ java.util.Objects.requireNonNull(Objects.java:203)
 org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:115)
 org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:102)
 org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:45)
-Step.StepImplementation.<init>(Step.StepImplementation.java:17)
+step.StepImplementation.<init>(step.StepImplementation.java:17)
 sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -3910,3 +3910,200 @@ Total time taken: 11.478s
 14:37:20.605 
 Total time taken: 27.011s
 14:37:20.608 Updates are available. Run `gauge update -c` for more info.
+16:36:43.879 Plugin java is already installed.
+16:36:43.881 Plugin html-report is already installed.
+16:36:43.888 The following specifications satisfy filter criteria:
+16:36:43.888 specs/deneme.spec
+16:36:45.554 Checking updates...
+16:36:46.414 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+16:36:46.415 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+16:36:46.425 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+16:36:46.426 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+16:36:46.426 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+16:36:46.426 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+16:36:46.427 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+16:36:46.427 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+16:36:46.428 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+16:36:46.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+16:36:46.429 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+16:36:46.429 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+16:36:46.430 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+16:36:46.430 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+16:36:46.431 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+16:36:46.431 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+16:36:46.431 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+16:36:46.431 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+16:36:46.432 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+16:36:46.432 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+16:36:46.433 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+16:36:46.433 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+16:36:47.718 # Hepsiburada.com Ürünü Testi
+16:36:47.724 ## Login Senaryosu
+16:36:53.837 * Login Olunur
+
+16:36:53.838 * "https://www.hepsiburada.com" Sayfasına gidilir
+16:37:00.946 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+16:37:04.441 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+16:37:05.579 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+16:37:05.985 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+16:37:06.272 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+16:37:06.431 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+16:37:12.353 Plugin [Html Report] with pid [48622] has exited
+16:37:12.476 Closing connection [127.0.0.1:62577] cause: EOF
+16:37:12.565 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:37:12.565 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:37:12.565 
+Total time taken: 24.595s
+16:37:12.566 Updates are available. Run `gauge update -c` for more info.
+09:51:30.665 Plugin java is already installed.
+09:51:30.666 Plugin html-report is already installed.
+09:51:30.676 The following specifications satisfy filter criteria:
+09:51:30.676 specs/deneme.spec
+09:51:32.261 Checking updates...
+09:51:33.272 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+09:51:33.273 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+09:51:33.286 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+09:51:33.287 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+09:51:33.287 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+09:51:33.287 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+09:51:33.288 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+09:51:33.288 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+09:51:33.289 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+09:51:33.289 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+09:51:33.290 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+09:51:33.290 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+09:51:33.290 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+09:51:33.291 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+09:51:33.291 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+09:51:33.291 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+09:51:33.292 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+09:51:33.292 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+09:51:33.293 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+09:51:33.294 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+09:51:33.295 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+09:51:33.295 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+09:51:34.886 # Hepsiburada.com Ürünü Testi
+09:51:34.892 ## Login Senaryosu
+09:51:40.346 * Login Olunur
+
+09:51:40.347 * "https://www.hepsiburada.com" Sayfasına gidilir
+09:51:47.721 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+09:51:50.917 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+09:51:52.484 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+09:51:52.744 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+09:51:52.884 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+09:51:53.028 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+09:51:58.768 Plugin [Html Report] with pid [2783] has exited
+09:51:58.845 Closing connection [127.0.0.1:49779] cause: EOF
+09:51:58.876 Specifications:	1 executed	1 passed	0 failed	0 skipped
+09:51:58.876 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+09:51:58.876 
+Total time taken: 23.874s
+09:51:58.877 Updates are available. Run `gauge update -c` for more info.
+14:32:44.809 Plugin java is already installed.
+14:32:44.811 Plugin html-report is already installed.
+14:32:44.821 The following specifications satisfy filter criteria:
+14:32:44.821 specs/deneme.spec
+14:32:46.076 Checking updates...
+14:32:47.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+14:32:47.594 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+14:32:47.606 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+14:32:47.606 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+14:32:47.607 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+14:32:47.607 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+14:32:47.609 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+14:32:47.610 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+14:32:47.611 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+14:32:47.611 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+14:32:47.612 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+14:32:47.613 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+14:32:47.613 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+14:32:47.613 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+14:32:47.614 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+14:32:47.614 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+14:32:47.615 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+14:32:47.615 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+14:32:47.616 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+14:32:47.616 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+14:32:47.617 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+14:32:47.617 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+14:32:49.013 # Hepsiburada.com Ürünü Testi
+14:32:49.025 ## Login Senaryosu
+14:32:54.340 * Login Olunur
+
+14:32:54.341 * "https://www.hepsiburada.com" Sayfasına gidilir
+14:33:15.954 Failed Step: "https://www.hepsiburada.com" Sayfasına gidilir
+14:33:15.955 Error Message: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sahabts.local', ip: 'fe80:0:0:0:22:1515:cda8:bac4%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/8f/76s1w_p5521...}, goog:chromeOptions: {debuggerAddress: localhost:57043}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b7c77818a3733bbb5ebbce90bcd89057
+14:33:15.955 Specification: specs/deneme.spec
+14:33:15.955 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+pages.BasePage.navigateTo(BasePage.java:26)
+step.StepImplementation.navigateTo(StepImplementation.java:26)
+14:33:16.289 Plugin [Html Report] with pid [73182] has exited
+14:33:16.738 Closing connection [127.0.0.1:57030] cause: EOF
+14:33:16.807 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:33:16.807 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:33:16.807 
+Total time taken: 27.13s
+14:33:16.810 Updates are available. Run `gauge update -c` for more info.
+14:35:38.933 Plugin java is already installed.
+14:35:38.934 Plugin html-report is already installed.
+14:35:38.941 The following specifications satisfy filter criteria:
+14:35:38.941 specs/deneme.spec
+14:35:40.322 Checking updates...
+14:35:41.370 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+14:35:41.371 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+14:35:41.383 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+14:35:41.383 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+14:35:41.384 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<url> Sayfas\304\261na gidilir" > 
+14:35:41.385 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Sayfas\304\261na gidilir" parameterizedStepValue:"<url> Sayfas\304\261na gidilir" parameters:"url" > > 
+14:35:41.388 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar beklenir" > 
+14:35:41.388 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar beklenir" parameterizedStepValue:"<Saniye> Saniyesi kadar beklenir" parameters:"Saniye" > > 
+14:35:41.389 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" > 
+14:35:41.389 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameterizedStepValue:"<by> alan\304\261n\304\261n \303\274zerine mouse ile gelinir" parameters:"by" > > 
+14:35:41.390 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+14:35:41.391 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+14:35:41.391 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+14:35:41.391 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+14:35:41.392 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+14:35:41.392 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+14:35:41.393 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" > 
+14:35:41.393 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden rastgele bir elemana t\304\261klan\304\261r" parameterizedStepValue:"<byList> listesinden rastgele bir elemana t\304\261klan\304\261r" parameters:"byList" > > 
+14:35:41.394 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+14:35:41.394 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+14:35:41.405 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+14:35:41.406 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+14:35:42.679 # Hepsiburada.com Ürünü Testi
+14:35:42.689 ## Login Senaryosu
+14:35:47.540 * Login Olunur
+
+14:35:47.540 * "https://www.hepsiburada.com" Sayfasına gidilir
+14:35:56.851 * "HESABIM_BUTONU" alanının üzerine mouse ile gelinir
+14:36:00.658 * "HESABIM_BUTONU_GIRIS_YAP" butonuna tıklanır
+14:36:01.726 * "LOGIN_EKRANI_EPOSTA_TEXTBOX" alanına "emirhan558@gmail.com" yazılır
+14:36:02.064 * "LOGIN_EKRANI_SIFRE_TEXTBOX" alanına "emir123456" yazılır
+14:36:02.218 * "UYE_GIRISI_GIRIS_YAP_BUTONU" butonuna tıklanır
+14:36:02.374 * "ANASAYFA_HEPSIBURADA_LOGOSU" elementinin görülmesi beklenir
+14:36:08.467 Plugin [Html Report] with pid [73486] has exited
+14:36:08.607 Closing connection [127.0.0.1:57128] cause: EOF
+14:36:08.684 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:36:08.684 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:36:08.685 
+Total time taken: 25.712s
+14:36:08.686 Updates are available. Run `gauge update -c` for more info.

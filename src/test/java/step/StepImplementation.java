@@ -1,8 +1,8 @@
-package Step;
+package step;
 
-import Driver.Driver;
-import Mapping.Mapper;
-import Pages.BasePage;
+import driver.Driver;
+import mapping.Mapper;
+import pages.BasePage;
 import com.thoughtworks.gauge.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

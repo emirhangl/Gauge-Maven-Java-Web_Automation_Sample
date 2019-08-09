@@ -1,4 +1,4 @@
-package Driver;
+package driver;
 
 import com.thoughtworks.gauge.AfterScenario;
 import com.thoughtworks.gauge.BeforeScenario;

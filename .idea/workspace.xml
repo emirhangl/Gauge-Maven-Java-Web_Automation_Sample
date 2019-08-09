@@ -5,16 +5,62 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/specs/deneme.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/specs/deneme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Driver/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Driver/DriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Driver/DriverSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Mapping/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Mapping/Mapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Step/StepImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Step/StepImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Mapping/Mapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Mapping/Mapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapJSON/ObjectRepository.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ObjectRepository.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/html-report" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/images/Gauge-Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/images/close.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/js/lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/js/search_index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/specs/deneme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Driver/DriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/DriverSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Mapping/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mapping/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Step/StepImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step/StepImplementation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,80 +85,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.cpt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specs/concepts/login.cpt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StepImplementation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Step/StepImplementation.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/step/StepImplementation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#779#780#0" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#955#956#0" expanded="true" />
-                <element signature="e#1056#1057#0" expanded="true" />
-                <element signature="e#1097#1098#0" expanded="true" />
-                <element signature="e#1190#1191#0" expanded="true" />
-                <element signature="e#1233#1234#0" expanded="true" />
-                <element signature="e#1309#1310#0" expanded="true" />
-                <element signature="e#1350#1351#0" expanded="true" />
-                <element signature="e#1447#1448#0" expanded="true" />
-                <element signature="e#1498#1499#0" expanded="true" />
-                <element signature="e#1599#1600#0" expanded="true" />
-                <element signature="e#1622#1623#0" expanded="true" />
-                <element signature="e#1727#1728#0" expanded="true" />
-                <element signature="e#1750#1751#0" expanded="true" />
-                <element signature="e#2527#2528#0" expanded="true" />
-                <element signature="e#2600#2601#0" expanded="true" />
-                <element signature="e#2676#2677#0" expanded="true" />
-                <element signature="e#2751#2752#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BasePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Pages/BasePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="780">
+              <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
-                <element signature="e#830#831#0" expanded="true" />
-                <element signature="e#1260#1261#0" expanded="true" />
-                <element signature="e#1299#1300#0" expanded="true" />
-                <element signature="e#1351#1352#0" expanded="true" />
-                <element signature="e#1397#1398#0" expanded="true" />
-                <element signature="e#1440#1441#0" expanded="true" />
-                <element signature="e#1479#1480#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DriverSetup.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Driver/DriverSetup.java">
+      <file leaf-file-name="DriverSetup.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/driver/DriverSetup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+            <state relative-caret-position="420">
+              <caret line="28" column="70" lean-forward="true" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mapper.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Mapping/Mapper.java">
+      <file leaf-file-name="Mapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mapping/Mapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="390">
+              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,7 +163,6 @@
         <option value="$PROJECT_DIR$/specs/knowledge_graph.spec" />
         <option value="$PROJECT_DIR$/env/default/remoteChrome.properties" />
         <option value="$PROJECT_DIR$/env/default/java.properties" />
-        <option value="$PROJECT_DIR$/specs/deneme.spec" />
         <option value="$PROJECT_DIR$/logs/gauge.log" />
         <option value="$PROJECT_DIR$/logs/api.log" />
         <option value="$PROJECT_DIR$/env/default/default.properties" />
@@ -174,6 +186,8 @@
         <option value="$PROJECT_DIR$/src/test/java/Step/StepImplementation.java" />
         <option value="$PROJECT_DIR$/src/test/java/Driver/DriverSetup.java" />
         <option value="$PROJECT_DIR$/src/test/java/Mapping/Mapper.java" />
+        <option value="$PROJECT_DIR$/specs/deneme.spec" />
+        <option value="$PROJECT_DIR$/src/test/java/mapping/Mapper.java" />
       </list>
     </option>
   </component>
@@ -243,6 +257,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -261,12 +276,6 @@
               <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -282,7 +291,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Driver" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
@@ -290,7 +299,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Mapping" type="462c0819:PsiDirectoryNode" />
+              <item name="mapping" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
@@ -298,7 +307,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
@@ -306,13 +315,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Step" type="462c0819:PsiDirectoryNode" />
+              <item name="step" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -498,7 +506,8 @@
       <workItem from="1542281858019" duration="23000" />
       <workItem from="1542281911612" duration="39000" />
       <workItem from="1542283208050" duration="472000" />
-      <workItem from="1565080575689" duration="14890000" />
+      <workItem from="1565080575689" duration="16284000" />
+      <workItem from="1565246834292" duration="1118000" />
     </task>
     <task id="LOCAL-00001" summary="project update">
       <created>1565089593344</created>
@@ -514,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565092412943</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Project updated.">
+      <created>1565177958555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565177958555</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -550,7 +566,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70842000" />
+    <option name="totallyTimeSpent" value="73354000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -563,36 +579,35 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32983193" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32983193" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32983193" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.25735295" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.25735295" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.36344537" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30147058" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.23260073" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.23504274" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983193" />
       <window_info id="Structure" order="1" sideWeight="0.50165015" side_tool="true" weight="0.23260073" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
       <window_info id="Favorites" order="5" sideWeight="0.50165015" side_tool="true" weight="0.23260073" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32983193" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +645,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project update" />
     <MESSAGE value="Driver class added and Singleton Design pattern used to generate webDriver" />
-    <option name="LAST_COMMIT_MESSAGE" value="Driver class added and Singleton Design pattern used to generate webDriver" />
+    <MESSAGE value="Project updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project updated." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -803,7 +819,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/env/remotechrome/user.properties" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Mapping/Mapper.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/mapping/Mapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
@@ -814,13 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mapJSON/ObjectRepository.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -865,21 +874,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Driver/Driver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/driver/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
@@ -896,7 +893,7 @@
     <entry file="file://$PROJECT_DIR$/specs/concepts/login.cpt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -907,64 +904,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Step/StepImplementation.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/step/StepImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-            <element signature="e#1233#1234#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1350#1351#0" expanded="true" />
-            <element signature="e#1447#1448#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#1599#1600#0" expanded="true" />
-            <element signature="e#1622#1623#0" expanded="true" />
-            <element signature="e#1727#1728#0" expanded="true" />
-            <element signature="e#1750#1751#0" expanded="true" />
-            <element signature="e#2527#2528#0" expanded="true" />
-            <element signature="e#2600#2601#0" expanded="true" />
-            <element signature="e#2676#2677#0" expanded="true" />
-            <element signature="e#2751#2752#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/BasePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/mapping/Mapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="390">
+          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#1260#1261#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
-            <element signature="e#1397#1398#0" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
-            <element signature="e#1479#1480#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Driver/DriverSetup.java">
+    <entry file="file://$PROJECT_DIR$/resources/ObjectRepository.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Mapping/Mapper.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/driver/DriverSetup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="420">
+          <caret line="28" column="70" lean-forward="true" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

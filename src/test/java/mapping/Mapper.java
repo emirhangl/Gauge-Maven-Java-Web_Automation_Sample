@@ -1,4 +1,4 @@
-package Mapping;
+package mapping;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
@@ -21,7 +21,7 @@ public class Mapper {
         JsonObject jp = null;
         JsonObject foundElement = null;
         try {
-            reader = new FileReader("./mapJSON/ObjectRepository.json");
+            reader = new FileReader("./resources/ObjectRepository.json");
             jsonObject = gson.fromJson(reader, JsonElement.class);
             jsonElement = jsonObject.getAsJsonObject();
             jp = jsonElement.getAsJsonObject(elementFound);

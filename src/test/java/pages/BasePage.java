@@ -1,6 +1,6 @@
-package Pages;
+package pages;
 
-import Mapping.Mapper;
+import mapping.Mapper;
 import org.junit.Assert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
