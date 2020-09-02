@@ -12,19 +12,19 @@
   },
 
   "LOGIN_EKRANI_EPOSTA_TEXTBOX": {
-    "id": "email"
+    "id": "txtUserName"
   },
 
   "LOGIN_EKRANI_SIFRE_TEXTBOX": {
-    "id": "password"
+    "id": "txtPassword"
   },
 
   "UYE_GIRISI_GIRIS_YAP_BUTONU": {
-    "cssselector": "div.form-actions > button[class='btn full btn-login-submit']"
+    "id": "btnLogin"
   },
 
   "ANASAYFA_HEPSIBURADA_LOGOSU": {
-    "cssSelector": "div.header-global > a.logo-hepsiburada"
+    "cssSelector": ".hbLogo"
   },
 
   "ANASAYFA_ARAMA_TEXTBOX": {

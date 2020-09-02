@@ -1,136 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d147409b-309a-49d9-ab06-54f6824eaa73" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-36a61045-b898-4a0d-a274-5c70b374b22f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/7535-java.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/7633-java.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/Gauge-Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/gaugeLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-36a61045-b898-4a0d-a274-5c70b374b22f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/search_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/specs/deneme2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/executionStatus.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/failures.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapJSON/ObjectRepository.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ObjectRepository.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/html-report" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/Gauge-Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/lightbox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/search_index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/specs/deneme.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Driver/DriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/DriverSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Mapping/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mapping/Mapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Step/StepImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step/StepImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ObjectRepository.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ObjectRepository.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/deneme.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/deneme.spec" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Gauge-Maven-Java-Web_Automation_Sample" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="deneme.spec" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specs/deneme.spec">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StepImplementation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/step/StepImplementation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/BasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DriverSetup.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/driver/DriverSetup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="70" lean-forward="true" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mapping/Mapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -140,56 +101,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>chrome</find>
-      <find>getenv</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/GoogleTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cagkebab/DriverFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cagkebab/GoogleTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cagkebab/StepImplementation.java" />
-        <option value="$PROJECT_DIR$/mapJSON/input-element.json" />
-        <option value="$PROJECT_DIR$/mapping/mapper.java" />
-        <option value="$PROJECT_DIR$/mapping/StepImplementation.java" />
-        <option value="$PROJECT_DIR$/mapping/Mapper.java" />
-        <option value="$PROJECT_DIR$/specs/knowledge_graph.spec" />
-        <option value="$PROJECT_DIR$/env/default/remoteChrome.properties" />
-        <option value="$PROJECT_DIR$/env/default/java.properties" />
-        <option value="$PROJECT_DIR$/logs/gauge.log" />
-        <option value="$PROJECT_DIR$/logs/api.log" />
-        <option value="$PROJECT_DIR$/env/default/default.properties" />
-        <option value="$PROJECT_DIR$/env/remotechrome.properties" />
-        <option value="$PROJECT_DIR$/env/remote/remotechrome.properties" />
-        <option value="$PROJECT_DIR$/env/remote/user.properties" />
-        <option value="$PROJECT_DIR$/env/firefox/user.properties" />
-        <option value="$PROJECT_DIR$/specs/deneme2.spec" />
-        <option value="$PROJECT_DIR$/mapJSON/ObjectRepository.json" />
-        <option value="$PROJECT_DIR$/src/test/java/Mapping/Mapper2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/StepImplementation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cagkebab/Driver.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cagkebab/DriverSetup.java" />
-        <option value="$PROJECT_DIR$/gitignore" />
-        <option value="$PROJECT_DIR$/src/test/java/Driver/Driver.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
-        <option value="$PROJECT_DIR$/src/log4j.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/specs/concepts/login.cpt" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Step/StepImplementation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Driver/DriverSetup.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Mapping/Mapper.java" />
-        <option value="$PROJECT_DIR$/specs/deneme.spec" />
-        <option value="$PROJECT_DIR$/src/test/java/mapping/Mapper.java" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -198,142 +111,36 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gauge-basics" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gauge-basics" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gauge-basics" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gauge-basics" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gauge-basics" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gauge-basics" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="deploy" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="980" />
+  <component name="ProjectId" id="1gxX8yosqcA5r8FHcT5BlkASUN8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mapping" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gauge-Maven-Java-Web_Automation_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="step" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="chrome&#9;PSI&#9;JAVA://org.openqa.selenium.chrome.ChromeDriver&#10;plugins&#9;ACTION&#9;WelcomeScreen.Plugins" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -344,59 +151,28 @@
       <recent name="$PROJECT_DIR$/env/remote" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Gauge Execution.Sepete Ürün Ekleme Senaryosu">
+  <component name="RunManager" selected="Gauge Execution.Login Senaryosuu">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Google knowledge graph should return the name of query" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
@@ -422,6 +198,21 @@
       <envMap />
       <setting name="rowsRange" value="" />
     </configuration>
+    <configuration name="Login Senaryosu" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/deneme.spec:5" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="Gauge-Maven-Java-Web_Automation_Sample" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Login Senaryosu" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
       <setting name="specsToExecute" value="$PROJECT_DIR$/specs/deneme.spec:4" />
@@ -434,47 +225,29 @@
       <envMap />
       <setting name="rowsRange" value="" />
     </configuration>
-    <configuration name="Sepete Ürün Ekleme Senaryosu (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Login Senaryosuu" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/deneme.spec:12" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/deneme2.spec:5" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
       <setting name="programParameters" value="" />
       <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="gauge-basics" />
+      <setting name="moduleName" value="Gauge-Maven-Java-Web_Automation_Sample" />
       <envMap />
       <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Sepete Ürün Ekleme Senaryosu" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/deneme.spec:9" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="gaugebasics" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-    </configuration>
-    <list>
-      <item itemvalue="Gauge Execution.Google knowledge graph should return the name of query" />
-      <item itemvalue="Gauge Execution.Login Senaryosu" />
-      <item itemvalue="Gauge Execution.Sepete Ürün Ekleme Senaryosu" />
-      <item itemvalue="Gauge Execution.Login Senaryosu (1)" />
-      <item itemvalue="Gauge Execution.Sepete Ürün Ekleme Senaryosu (1)" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gauge Execution.Sepete Ürün Ekleme Senaryosu (1)" />
-        <item itemvalue="Gauge Execution.Login Senaryosu (1)" />
+        <item itemvalue="Gauge Execution.Login Senaryosuu" />
         <item itemvalue="Gauge Execution.Login Senaryosu" />
-        <item itemvalue="Gauge Execution.Sepete Ürün Ekleme Senaryosu" />
-        <item itemvalue="Gauge Execution.Google knowledge graph should return the name of query" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -533,38 +306,6 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Login_Senaryosu - 2018.10.16 at 10h 34m 41s.xml">
-      <configuration name="Login Senaryosu" configurationId="executeSpecs" />
-    </history-entry>
-    <history-entry file="Login_Senaryosu - 2018.10.16 at 10h 35m 59s.xml">
-      <configuration name="Login Senaryosu" configurationId="executeSpecs" />
-    </history-entry>
-    <history-entry file="Sepete_Ürün_Ekleme_Senaryosu - 2018.10.16 at 22h 25m 10s.xml">
-      <configuration name="Sepete Ürün Ekleme Senaryosu" configurationId="executeSpecs" />
-    </history-entry>
-    <history-entry file="Login_Senaryosu - 2018.10.25 at 21h 20m 11s.xml">
-      <configuration name="Login Senaryosu" configurationId="executeSpecs" />
-    </history-entry>
-    <history-entry file="Login_Senaryosu_(1) - 2018.10.25 at 21h 25m 17s.xml">
-      <configuration name="Login Senaryosu (1)" configurationId="executeSpecs" />
-    </history-entry>
-    <history-entry file="Login_Senaryosu_(1) - 2018.10.25 at 21h 29m 22s.xml">
-      <configuration name="Login Senaryosu (1)" configurationId="executeSpecs" />
-    </history-entry>
-    <history-entry file="Login_Senaryosu_(1) - 2018.10.25 at 21h 34m 08s.xml">
-      <configuration name="Login Senaryosu (1)" configurationId="executeSpecs" />
-    </history-entry>
-    <history-entry file="Login_Senaryosu_(1) - 2018.10.25 at 22h 24m 16s.xml">
-      <configuration name="Login Senaryosu (1)" configurationId="executeSpecs" />
-    </history-entry>
-    <history-entry file="Login_Senaryosu_(1) - 2018.11.15 at 15h 01m 04s.xml">
-      <configuration name="Login Senaryosu (1)" configurationId="executeSpecs" />
-    </history-entry>
-    <history-entry file="Sepete_Ürün_Ekleme_Senaryosu_(1) - 2019.08.06 at 11h 47m 44s.xml">
-      <configuration name="Sepete Ürün Ekleme Senaryosu (1)" configurationId="executeSpecs" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="73354000" />
   </component>
@@ -577,39 +318,6 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32983193" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32983193" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32967034" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.25735295" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32983193" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30147058" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.23504274" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32983193" />
-      <window_info id="Structure" order="1" sideWeight="0.50165015" side_tool="true" weight="0.23260073" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" sideWeight="0.50165015" side_tool="true" weight="0.23260073" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32983193" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -618,410 +326,64 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="project update" />
     <MESSAGE value="Driver class added and Singleton Design pattern used to generate webDriver" />
     <MESSAGE value="Project updated." />
     <option name="LAST_COMMIT_MESSAGE" value="Project updated." />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="7" />
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/www.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cagkebab/DriverFactory.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.3.4/gauge-java-0.3.4.jar!/com/thoughtworks/gauge/GaugeRuntime.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mapping/Java" />
-    <entry file="file://$PROJECT_DIR$/mapping/Mapper" />
-    <entry file="file://$PROJECT_DIR$/mapping/Mapper.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env/default/remoteChrome.properties" />
-    <entry file="jar://$USER_HOME$/Desktop/selenium_node/selenium-server-standalone-3.14.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/api.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env/default/java.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env/firefox/user.properties" />
-    <entry file="file://$PROJECT_DIR$/env/default/default.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="123" selection-start-line="8" selection-start-column="123" selection-end-line="8" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar!/gauge/messages/Spec.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="5846" selection-start-line="5846" selection-end-line="5846" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar!/com/thoughtworks/gauge/GaugeRuntime.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar!/com/thoughtworks/gauge/execution/MethodExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar!/com/thoughtworks/gauge/execution/StepExecutionStage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar!/com/thoughtworks/gauge/execution/AbstractExecutionStage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/selenium_node/selenium-server-standalone-3.14.0.jar!/com/google/common/base/Throwables.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar!/com/thoughtworks/gauge/connection/MessageDispatcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar!/com/thoughtworks/gauge/processor/ExecuteStepProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/selenium_node/selenium-server-standalone-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="275" selection-start-line="275" selection-end-line="275" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/selenium_node/selenium-server-standalone-3.14.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="556" selection-start-line="556" selection-end-line="556" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/selenium_node/selenium-server-standalone-3.14.0.jar!/org/openqa/selenium/support/ui/FluentWait.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar!/com/thoughtworks/gauge/execution/ExecutionPipeline.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar!/com/thoughtworks/gauge/execution/HookExecutionStage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="896" column="40" selection-start-line="896" selection-start-column="34" selection-end-line="896" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env/remotechrome/user.properties" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/mapping/Mapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/deneme2.spec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reports/html-report/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/gauge.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1694">
-          <caret line="122" column="57" selection-start-line="122" selection-start-column="57" selection-end-line="122" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="233" column="23" selection-start-line="233" selection-start-column="23" selection-end-line="233" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/WebElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="193" column="15" selection-start-line="193" selection-start-column="15" selection-end-line="193" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/invoke/MethodHandles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="564" column="24" selection-start-line="564" selection-start-column="24" selection-end-line="564" selection-end-column="24" />
-          <folding>
-            <element signature="e#29857#29858#0" expanded="true" />
-            <element signature="e#29899#29900#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml" />
-    <entry file="file://$PROJECT_DIR$/src/log4j.properties" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/driver/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/concepts/login.cpt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/deneme.spec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/step/StepImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mapping/Mapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/ObjectRepository.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/driver/DriverSetup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="70" lean-forward="true" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>gauge-basics</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.github.javaparser:javaparser-core:2.5.1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="563" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599058888662">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="563" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1599058888662" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1599058423547">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1599058855068">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1680.1050@0.0.1680.1050" timestamp="1599058855068" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599058423547" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1599058423546">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1599058855062">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center.inPresentationMode/0.0.1680.1050@0.0.1680.1050" timestamp="1599058855062" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599058423546" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1599058423546">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1599058854917">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left.inPresentationMode/0.0.1680.1050@0.0.1680.1050" timestamp="1599058854917" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599058423546" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1599058423547">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1599058855066">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right.inPresentationMode/0.0.1680.1050@0.0.1680.1050" timestamp="1599058855066" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599058423547" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1599058485307">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1599058485307" />
+    <state x="541" y="157" width="598" height="735" key="find.popup" timestamp="1599058829928">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="541" y="157" width="598" height="735" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1599058829928" />
   </component>
 </project>

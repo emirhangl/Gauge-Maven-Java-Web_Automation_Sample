@@ -1,9 +1,11 @@
 {
 	"Args": [
 		"run",
-		"--tags",
-		"loginol",
-		"--dir=/Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample"
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console"
 	],
-	"FailedItems": []
+	"FailedItems": [
+		"specs/deneme2.spec:5"
+	]
 }

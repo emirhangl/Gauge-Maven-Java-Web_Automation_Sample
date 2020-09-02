@@ -1,8 +1,8 @@
 [
-	"gauge",
+	"/usr/local/bin/gauge",
 	"run",
-	"--tags",
-	"loginol",
-	"--dir=/Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample",
-	"/Users/sahabt/Documents/GitHub/Gauge-Maven-Java-Web_Automation_Sample/specs"
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"/Users/emirhangul/Documents/Gauge-Maven-Java-Web_Automation_Sample/specs/deneme2.spec:5"
 ]

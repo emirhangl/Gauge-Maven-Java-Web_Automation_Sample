@@ -4107,3 +4107,170 @@ Total time taken: 27.13s
 14:36:08.685 
 Total time taken: 25.712s
 14:36:08.686 Updates are available. Run `gauge update -c` for more info.
+02-09-2020 17:44:01.783 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/emirhangul/Documents/Gauge-Maven-Java-Web_Automation_Sample/.gauge/screenshots
+02-09-2020 17:44:01.784 [Gauge] [INFO] Compatible version of plugin java not found. Installing plugin java...
+02-09-2020 17:44:01.784 [Gauge] [DEBUG] Gathering metadata for java
+02-09-2020 17:44:01.784 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=&o=darwin&a=amd64
+02-09-2020 17:44:06.090 [Gauge] [DEBUG] Downloading https://github.com/getgauge/gauge-java/releases/download/v0.7.9/gauge-java-0.7.9-darwin.x86_64.zip
+02-09-2020 17:44:54.824 [Gauge] [DEBUG] Installing plugin java 0.7.9
+02-09-2020 17:44:54.864 [Gauge] [INFO] Successfully installed plugin 'java' version 0.7.9
+02-09-2020 17:44:54.865 [Gauge] [INFO] Compatible version of plugin html-report not found. Installing plugin html-report...
+02-09-2020 17:44:54.865 [Gauge] [DEBUG] Gathering metadata for html-report
+02-09-2020 17:44:54.865 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=java&o=darwin&a=amd64
+02-09-2020 17:44:55.045 [Gauge] [DEBUG] Downloading https://github.com/getgauge/html-report/releases/download/v4.0.12/html-report-4.0.12-darwin.x86_64.zip
+02-09-2020 17:45:12.629 [Gauge] [DEBUG] Installing plugin html-report 4.0.12
+02-09-2020 17:45:12.656 [Gauge] [INFO] Successfully installed plugin 'html-report' version 4.0.12
+02-09-2020 17:45:12.656 [Gauge] [INFO] Installing required plugins.
+02-09-2020 17:45:12.656 [Gauge] [DEBUG] Installing plugin 'screenshot'
+02-09-2020 17:45:12.656 [Gauge] [DEBUG] Gathering metadata for screenshot
+02-09-2020 17:45:12.657 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java&o=darwin&a=amd64
+02-09-2020 17:45:12.827 [Gauge] [DEBUG] Downloading https://github.com/getgauge/gauge_screenshot/releases/download/v0.0.1/screenshot-0.0.1-darwin.x86_64.zip
+02-09-2020 17:45:12.986 [Gauge] [DEBUG] Checking updates...
+02-09-2020 17:45:12.988 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java&o=darwin&a=amd64
+02-09-2020 17:45:13.168 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java&o=darwin&a=amd64
+02-09-2020 17:45:15.279 [Gauge] [DEBUG] Installing plugin screenshot 0.0.1
+02-09-2020 17:45:15.282 [Gauge] [INFO] Successfully installed plugin 'screenshot' version 0.0.1
+02-09-2020 17:45:15.282 [Gauge] [DEBUG] Parsing started.
+02-09-2020 17:45:15.282 [Gauge] [DEBUG] Started concepts parsing.
+02-09-2020 17:45:15.284 [Gauge] [DEBUG] 1 concepts parsing completed.
+02-09-2020 17:45:15.284 [Gauge] [DEBUG] Started specifications parsing.
+02-09-2020 17:45:15.284 [Gauge] [DEBUG] 1 specifications parsing completed.
+02-09-2020 17:45:15.284 [Gauge] [DEBUG] Parsing completed.
+02-09-2020 17:45:15.753 [java] [DEBUG] ***** Printing Properties/Env Values *****
+02-09-2020 17:45:15.753 [java] [DEBUG] PATH: /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/emirhangul/.gauge/plugins/screenshot/0.0.1
+02-09-2020 17:45:15.753 [java] [DEBUG] JAVA_HOME: 
+02-09-2020 17:45:15.753 [java] [DEBUG] gauge_project_root: 
+02-09-2020 17:45:15.754 [java] [DEBUG] gauge_parallel_streams_count: 
+02-09-2020 17:45:15.754 [java] [DEBUG] gauge_reports_dir: reports
+02-09-2020 17:45:15.754 [java] [DEBUG] overwrite_reports: true
+02-09-2020 17:45:15.754 [java] [DEBUG] logs_directory: logs
+02-09-2020 17:45:15.754 [java] [DEBUG] enable_multithreading: 
+02-09-2020 17:45:15.754 [java] [DEBUG] gauge_specs_dir: specs
+02-09-2020 17:45:15.754 [java] [DEBUG] csv_delimiter: ,
+02-09-2020 17:45:15.754 [java] [DEBUG] gauge_java_home: 
+02-09-2020 17:45:15.754 [java] [DEBUG] gauge_custom_build_path: 
+02-09-2020 17:45:15.754 [java] [DEBUG] gauge_additional_libs: libs/*
+02-09-2020 17:45:15.754 [java] [DEBUG] gauge_jvm_args: 
+02-09-2020 17:45:15.754 [java] [DEBUG] gauge_custom_compile_dir: 
+02-09-2020 17:45:15.754 [java] [DEBUG] gauge_clear_state_level: scenario
+02-09-2020 17:45:15.754 [java] [DEBUG] ***** END *****
+02-09-2020 17:45:15.754 [java] [ERROR] exec: "mvn": executable file not found in $PATH
+02-09-2020 17:45:15.754 [java] [ERROR] Installed version of gauge-java (0.7.9) does not match with dependency gauge-java () specified in pom.xml file
+02-09-2020 17:45:15.754 [java] [DEBUG] classpath set to /Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/charsets.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/cldrdata.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/dnsns.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/jaccess.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/jfxrt.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/localedata.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/nashorn.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/sunec.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/zipfs.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/jce.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/jfr.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/jfxswt.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/jsse.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/management-agent.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/resources.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/rt.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/ant-javafx.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/dt.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/javafx-mx.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/jconsole.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/packager.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/sa-jdi.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/tools.jar:/Users/emirhangul/Documents/Gauge-Maven-Java-Web_Automation_Sample/target/test-classes:/Users/emirhangul/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/emirhangul/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/Users/emirhangul/.m2/repository/com/thoughtworks/gauge/gauge-java/0.6.8/gauge-java-0.6.8.jar:/Users/emirhangul/.m2/repository/org/assertj/assertj-core/3.10.0/assertj-core-3.10.0.jar:/Users/emirhangul/.m2/repository/org/reflections/reflections/0.9.11/reflections-0.9.11.jar:/Users/emirhangul/.m2/repository/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar:/Users/emirhangul/.m2/repository/com/github/javaparser/javaparser-core/2.5.1/javaparser-core-2.5.1.jar:/Users/emirhangul/.m2/repository/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/emirhangul/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/emirhangul/.m2/repository/com/google/protobuf/protobuf-java/3.3.1/protobuf-java-3.3.1.jar:/Users/emirhangul/.m2/repository/com/google/guava/guava/24.0-jre/guava-24.0-jre.jar:/Users/emirhangul/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/emirhangul/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/emirhangul/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/emirhangul/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/emirhangul/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/emirhangul/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/emirhangul/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-java/3.14.0/selenium-java-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.14.0/selenium-edge-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.14.0/selenium-firefox-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.14.0/selenium-ie-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.14.0/selenium-opera-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.14.0/selenium-safari-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar:/Users/emirhangul/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/emirhangul/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/emirhangul/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/emirhangul/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/emirhangul/.m2/repository/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar:/Users/emirhangul/.m2/repository/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar:/Users/emirhangul/.m2/repository/com/squareup/okhttp3/okhttp/3.10.0/okhttp-3.10.0.jar:/Users/emirhangul/.m2/repository/com/squareup/okio/okio/1.14.1/okio-1.14.1.jar:/Users/emirhangul/.m2/repository/io/github/bonigarcia/webdrivermanager/3.6.2/webdrivermanager-3.6.2.jar:/Users/emirhangul/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/emirhangul/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/emirhangul/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/emirhangul/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/emirhangul/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar
+02-09-2020 17:45:15.754 [java] [DEBUG] found java executable in java
+02-09-2020 17:45:15.754 [java] [DEBUG] running - java [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+02-09-2020 17:45:15.754 [java] [DEBUG] stdout/stderr is logged to logs/7535-java.out
+02-09-2020 17:45:45.292 [Gauge] [CRITICAL] Failed to start gauge API: Timed out connecting to java
+02-09-2020 17:54:53.833 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/emirhangul/Documents/Gauge-Maven-Java-Web_Automation_Sample/.gauge/screenshots
+02-09-2020 17:54:53.834 [Gauge] [DEBUG] Plugin java is already installed.
+02-09-2020 17:54:53.834 [Gauge] [DEBUG] Plugin html-report is already installed.
+02-09-2020 17:54:53.834 [Gauge] [DEBUG] Parsing started.
+02-09-2020 17:54:53.834 [Gauge] [DEBUG] Started concepts parsing.
+02-09-2020 17:54:53.836 [Gauge] [DEBUG] 1 concepts parsing completed.
+02-09-2020 17:54:53.836 [Gauge] [DEBUG] Started specifications parsing.
+02-09-2020 17:54:53.837 [Gauge] [DEBUG] 1 specifications parsing completed.
+02-09-2020 17:54:53.837 [Gauge] [DEBUG] Parsing completed.
+02-09-2020 17:54:53.842 [java] [DEBUG] ***** Printing Properties/Env Values *****
+02-09-2020 17:54:53.842 [java] [DEBUG] PATH: /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/emirhangul/.gauge/plugins/screenshot/0.0.1
+02-09-2020 17:54:53.842 [java] [DEBUG] JAVA_HOME: 
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_project_root: 
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_parallel_streams_count: 
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_reports_dir: reports
+02-09-2020 17:54:53.842 [java] [DEBUG] overwrite_reports: true
+02-09-2020 17:54:53.842 [java] [DEBUG] logs_directory: logs
+02-09-2020 17:54:53.842 [java] [DEBUG] enable_multithreading: 
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_specs_dir: specs
+02-09-2020 17:54:53.842 [java] [DEBUG] csv_delimiter: ,
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_java_home: 
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_custom_build_path: 
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_additional_libs: libs/*
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_jvm_args: 
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_custom_compile_dir: 
+02-09-2020 17:54:53.842 [java] [DEBUG] gauge_clear_state_level: scenario
+02-09-2020 17:54:53.842 [java] [DEBUG] ***** END *****
+02-09-2020 17:54:53.842 [java] [ERROR] exec: "mvn": executable file not found in $PATH
+02-09-2020 17:54:53.842 [java] [ERROR] Installed version of gauge-java (0.7.9) does not match with dependency gauge-java () specified in pom.xml file
+02-09-2020 17:54:53.842 [java] [DEBUG] classpath set to /Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/charsets.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/cldrdata.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/dnsns.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/jaccess.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/jfxrt.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/localedata.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/nashorn.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/sunec.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/ext/zipfs.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/jce.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/jfr.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/jfxswt.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/jsse.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/management-agent.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/resources.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/jre/lib/rt.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/ant-javafx.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/dt.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/javafx-mx.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/jconsole.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/packager.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/sa-jdi.jar:/Users/emirhangul/Library/Java/JavaVirtualMachines/corretto-1.8.0_265/Contents/Home/lib/tools.jar:/Users/emirhangul/Documents/Gauge-Maven-Java-Web_Automation_Sample/target/test-classes:/Users/emirhangul/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/emirhangul/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/Users/emirhangul/.m2/repository/com/thoughtworks/gauge/gauge-java/0.7.9/gauge-java-0.7.9.jar:/Users/emirhangul/.m2/repository/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.jar:/Users/emirhangul/.m2/repository/org/reflections/reflections/0.9.11/reflections-0.9.11.jar:/Users/emirhangul/.m2/repository/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar:/Users/emirhangul/.m2/repository/com/github/javaparser/javaparser-core/3.16.1/javaparser-core-3.16.1.jar:/Users/emirhangul/.m2/repository/commons-io/commons-io/2.7/commons-io-2.7.jar:/Users/emirhangul/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/emirhangul/.m2/repository/org/json/json/20200518/json-20200518.jar:/Users/emirhangul/.m2/repository/com/google/protobuf/protobuf-java/3.12.2/protobuf-java-3.12.2.jar:/Users/emirhangul/.m2/repository/com/google/guava/guava/29.0-jre/guava-29.0-jre.jar:/Users/emirhangul/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/emirhangul/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/emirhangul/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/emirhangul/.m2/repository/org/checkerframework/checker-qual/2.11.1/checker-qual-2.11.1.jar:/Users/emirhangul/.m2/repository/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar:/Users/emirhangul/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/emirhangul/.m2/repository/io/grpc/grpc-netty-shaded/1.30.2/grpc-netty-shaded-1.30.2.jar:/Users/emirhangul/.m2/repository/io/grpc/grpc-core/1.30.2/grpc-core-1.30.2.jar:/Users/emirhangul/.m2/repository/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4.jar:/Users/emirhangul/.m2/repository/io/perfmark/perfmark-api/0.19.0/perfmark-api-0.19.0.jar:/Users/emirhangul/.m2/repository/io/grpc/grpc-protobuf/1.30.2/grpc-protobuf-1.30.2.jar:/Users/emirhangul/.m2/repository/io/grpc/grpc-api/1.30.2/grpc-api-1.30.2.jar:/Users/emirhangul/.m2/repository/io/grpc/grpc-context/1.30.2/grpc-context-1.30.2.jar:/Users/emirhangul/.m2/repository/com/google/api/grpc/proto-google-common-protos/1.17.0/proto-google-common-protos-1.17.0.jar:/Users/emirhangul/.m2/repository/io/grpc/grpc-protobuf-lite/1.30.2/grpc-protobuf-lite-1.30.2.jar:/Users/emirhangul/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.18/animal-sniffer-annotations-1.18.jar:/Users/emirhangul/.m2/repository/io/grpc/grpc-stub/1.30.2/grpc-stub-1.30.2.jar:/Users/emirhangul/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/emirhangul/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/emirhangul/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-java/3.14.0/selenium-java-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.14.0/selenium-edge-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.14.0/selenium-firefox-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.14.0/selenium-ie-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.14.0/selenium-opera-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.14.0/selenium-safari-driver-3.14.0.jar:/Users/emirhangul/.m2/repository/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar:/Users/emirhangul/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/emirhangul/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/emirhangul/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/emirhangul/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/emirhangul/.m2/repository/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar:/Users/emirhangul/.m2/repository/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar:/Users/emirhangul/.m2/repository/com/squareup/okhttp3/okhttp/3.10.0/okhttp-3.10.0.jar:/Users/emirhangul/.m2/repository/com/squareup/okio/okio/1.14.1/okio-1.14.1.jar:/Users/emirhangul/.m2/repository/io/github/bonigarcia/webdrivermanager/3.6.2/webdrivermanager-3.6.2.jar:/Users/emirhangul/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/emirhangul/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/emirhangul/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/emirhangul/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/emirhangul/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar
+02-09-2020 17:54:53.842 [java] [DEBUG] found java executable in java
+02-09-2020 17:54:53.842 [java] [DEBUG] running - java [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+02-09-2020 17:54:53.842 [java] [DEBUG] stdout/stderr is logged to logs/7633-java.out
+02-09-2020 17:54:54.082 [java] [DEBUG] multithreading is set to false
+02-09-2020 17:54:54.678 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+02-09-2020 17:54:54.764 [Gauge] [DEBUG] Checking updates...
+02-09-2020 17:54:54.765 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+02-09-2020 17:54:54.898 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+02-09-2020 17:54:54.898 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+02-09-2020 17:54:54.898 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+02-09-2020 17:54:55.290 [java] [DEBUG] gauge-java took 1208milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+02-09-2020 17:54:55.293 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1208
+02-09-2020 17:54:55.296 [java] [DEBUG] starting gRPC server...
+02-09-2020 17:54:55.698 [java] [DEBUG] started gRPC server on port 57244
+02-09-2020 17:54:55.698 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57244
+02-09-2020 17:54:55.786 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+02-09-2020 17:54:55.825 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57244
+02-09-2020 17:54:55.825 [Gauge] [DEBUG] Validation started.
+02-09-2020 17:54:55.936 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+02-09-2020 17:54:57.977 [java] [DEBUG] Scanning packages for steps
+02-09-2020 17:54:57.985 [java] [DEBUG] Comparing 'step.StepImplementation.closeThePopUps' and 'step.StepImplementation.closeThePopUps'
+02-09-2020 17:54:57.985 [java] [DEBUG] Found Herhangi bir pop up varsa kapatılır in current project scope.
+02-09-2020 17:54:57.985 [java] [DEBUG] Comparing 'step.StepImplementation.pressENTER' and 'step.StepImplementation.pressENTER'
+02-09-2020 17:54:57.985 [java] [DEBUG] Found Klavyeden ENTER tuşuna basılır in current project scope.
+02-09-2020 17:54:57.986 [java] [DEBUG] Comparing 'step.StepImplementation.navigateTo' and 'step.StepImplementation.navigateTo'
+02-09-2020 17:54:57.986 [java] [DEBUG] Found {} Sayfasına gidilir in current project scope.
+02-09-2020 17:54:57.986 [java] [DEBUG] Comparing 'step.StepImplementation.waitSeconds' and 'step.StepImplementation.waitSeconds'
+02-09-2020 17:54:57.986 [java] [DEBUG] Found {} Saniyesi kadar beklenir in current project scope.
+02-09-2020 17:54:57.986 [java] [DEBUG] Comparing 'step.StepImplementation.hoverOnTheElement' and 'step.StepImplementation.hoverOnTheElement'
+02-09-2020 17:54:57.986 [java] [DEBUG] Found {} alanının üzerine mouse ile gelinir in current project scope.
+02-09-2020 17:54:57.986 [java] [DEBUG] Comparing 'step.StepImplementation.deleteTextbox' and 'step.StepImplementation.deleteTextbox'
+02-09-2020 17:54:57.986 [java] [DEBUG] Found {} alanı silinir in current project scope.
+02-09-2020 17:54:57.987 [java] [DEBUG] Comparing 'step.StepImplementation.clickElement' and 'step.StepImplementation.clickElement'
+02-09-2020 17:54:57.987 [java] [DEBUG] Found {} butonuna tıklanır in current project scope.
+02-09-2020 17:54:57.987 [java] [DEBUG] Comparing 'step.StepImplementation.sendKeys' and 'step.StepImplementation.sendKeys'
+02-09-2020 17:54:57.987 [java] [DEBUG] Found {} alanına {} yazılır in current project scope.
+02-09-2020 17:54:57.987 [java] [DEBUG] Comparing 'step.StepImplementation.clickRandomElementFromByList' and 'step.StepImplementation.clickRandomElementFromByList'
+02-09-2020 17:54:57.987 [java] [DEBUG] Found {} listesinden rastgele bir elemana tıklanır in current project scope.
+02-09-2020 17:54:57.987 [java] [DEBUG] Comparing 'step.StepImplementation.waitForTheElement' and 'step.StepImplementation.waitForTheElement'
+02-09-2020 17:54:57.987 [java] [DEBUG] Found {} elementinin görülmesi beklenir in current project scope.
+02-09-2020 17:54:57.987 [java] [DEBUG] Comparing 'step.StepImplementation.pressTAB' and 'step.StepImplementation.pressTAB'
+02-09-2020 17:54:57.987 [java] [DEBUG] Found Klavyeden TAB tuşuna basılır in current project scope.
+02-09-2020 17:54:57.987 [java] [DEBUG] Scanning packages for hooks
+02-09-2020 17:54:57.994 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+02-09-2020 17:54:57.994 [java] [DEBUG] 	{} listesinden rastgele bir elemana tıklanır : public void clickRandomElementFromByList(String byList)
+02-09-2020 17:54:57.994 [java] [DEBUG] 	{} butonuna tıklanır : public void clickElement(String by)
+02-09-2020 17:54:57.994 [java] [DEBUG] 	{} alanına {} yazılır : public void sendKeys(String by, String text)
+02-09-2020 17:54:57.994 [java] [DEBUG] 	{} elementinin görülmesi beklenir : public void waitForTheElement(String by)
+02-09-2020 17:54:57.994 [java] [DEBUG] 	{} Saniyesi kadar beklenir : public void waitSeconds(int seconds)
+02-09-2020 17:54:57.994 [java] [DEBUG] 	{} alanının üzerine mouse ile gelinir : public void hoverOnTheElement(String by)
+02-09-2020 17:54:57.994 [java] [DEBUG] 	{} alanı silinir : public void deleteTextbox(String by)
+02-09-2020 17:54:57.994 [java] [DEBUG] 	Herhangi bir pop up varsa kapatılır : public void closeThePopUps()
+02-09-2020 17:54:57.995 [java] [DEBUG] 	Klavyeden ENTER tuşuna basılır : public void pressENTER()
+02-09-2020 17:54:57.995 [java] [DEBUG] 	Klavyeden TAB tuşuna basılır : public void pressTAB()
+02-09-2020 17:54:57.995 [java] [DEBUG] 	{} Sayfasına gidilir : public void navigateTo(String url)
+02-09-2020 17:54:59.689 [Gauge] [DEBUG] Validation completed.
+02-09-2020 17:54:59.689 [Gauge] [DEBUG] Run started
+02-09-2020 17:54:59.690 [Gauge] [DEBUG] Starting Html Report plugin
+02-09-2020 17:55:00.022 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57249
+02-09-2020 17:55:00.023 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 57249
+02-09-2020 17:55:00.023 [Gauge] [DEBUG] Initialising suite data store.
+02-09-2020 17:55:13.698 [java] [ERROR] Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 43943
+02-09-2020 17:55:13.698 [java] [ERROR] Only local connections are allowed.
+02-09-2020 17:55:13.698 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+02-09-2020 17:55:13.701 [java] [ERROR] ChromeDriver was started successfully.
+02-09-2020 17:55:15.233 [java] [ERROR] Sep 02, 2020 5:55:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+02-09-2020 17:55:15.234 [java] [ERROR] INFO: Detected dialect: W3C
+02-09-2020 17:55:15.363 [java] [DEBUG] Executing '{} Sayfasına gidilir' using 'class step.StepImplementation.navigateTo
+02-09-2020 17:55:21.091 [java] [DEBUG] Executing '{} alanının üzerine mouse ile gelinir' using 'class step.StepImplementation.hoverOnTheElement
+02-09-2020 17:55:24.266 [java] [DEBUG] Executing '{} butonuna tıklanır' using 'class step.StepImplementation.clickElement
+02-09-2020 17:55:25.822 [java] [DEBUG] Executing '{} alanına {} yazılır' using 'class step.StepImplementation.sendKeys
+02-09-2020 17:55:58.247 [html-report] [DEBUG] Transformed SuiteResult to report structure
+02-09-2020 17:55:58.306 [html-report] [INFO] Successfully generated html-report to => /Users/emirhangul/Documents/Gauge-Maven-Java-Web_Automation_Sample/reports/html-report/index.html
+02-09-2020 17:55:58.306 [html-report] [DEBUG] Done generating HTML report using theme from /Users/emirhangul/.gauge/plugins/html-report/4.0.12/themes/default
+02-09-2020 17:55:58.306 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+02-09-2020 17:56:02.312 [Gauge] [WARNING] Killing runner with PID:7633 forcefully
+02-09-2020 17:56:02.313 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+02-09-2020 17:56:02.314 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+02-09-2020 17:56:02.314 [Gauge] [INFO] 
+Total time taken: 58.557s
+02-09-2020 17:56:02.314 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : signal: killed
+02-09-2020 17:56:02.315 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
