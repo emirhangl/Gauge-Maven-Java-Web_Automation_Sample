@@ -1,1 +1,1 @@
-var index = {"Tags":{"loginoll":["specs/deneme2.html"]},"Specs":{"Hepsiburada.com Ürünü Testii":["specs/deneme2.html"]}};
+var index = {"Tags":{"case1":["specs/Cases.html"],"case2":["specs/Cases.html"],"case3":["specs/Cases.html"]},"Specs":{"Enuygun.com case study":["specs/Cases.html"]}};

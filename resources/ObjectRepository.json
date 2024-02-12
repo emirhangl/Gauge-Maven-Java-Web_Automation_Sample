@@ -2,45 +2,17 @@
   "DENEME_JSON": {
     "id": "foo"
   },
-
-  "HESABIM_BUTONU": {
-    "id": "myAccount"
+  "ANASAYFA_GIDIS_DONUS_BUTON": {
+    "cssSelector": "label[data-testid='search-round-trip-label']"
   },
-
-  "HESABIM_BUTONU_GIRIS_YAP": {
-    "id": "login"
+  "YOLCU_SAYISI_TAMAM_BUTON": {
+    "cssSelector": "button[data-testid='enuygun-homepage-flight-doneBtn']"
   },
-
-  "LOGIN_EKRANI_EPOSTA_TEXTBOX": {
-    "id": "txtUserName"
+  "UCUZ_BILET_BUL_BUTON": {
+    "cssSelector": "button[data-testid='enuygun-homepage-flight-submitButton']"
   },
-
-  "LOGIN_EKRANI_SIFRE_TEXTBOX": {
-    "id": "txtPassword"
-  },
-
-  "UYE_GIRISI_GIRIS_YAP_BUTONU": {
-    "id": "btnLogin"
-  },
-
-  "ANASAYFA_HEPSIBURADA_LOGOSU": {
-    "cssSelector": ".hbLogo"
-  },
-
-  "ANASAYFA_ARAMA_TEXTBOX": {
-    "id": "productSearch"
-  },
-
-  "ANASAYFA_ARAMA_TEXTBOX_BUTONU": {
-    "id": "buttonProductSearch"
-  },
-
-  "ARAMA_SONUCU_URUNLER_LISTESI": {
-    "cssSelector": "ul > li > div > a"
-  },
-
-  "URUN_SAYFASI_SEPETE_EKLE_BUTONU": {
-    "id": "addToCart"
+  "LISTEDE_ILK_SEC_BUTON": {
+    "cssSelector": "#flight-0 > div.flight-item__wrapper > div.flight-summary > div > div.flight-summary-select > button"
   }
 
 }

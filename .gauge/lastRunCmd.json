@@ -1,8 +1,6 @@
 [
-	"/usr/local/bin/gauge",
+	"gauge",
 	"run",
-	"--machine-readable",
-	"--hide-suggestion",
-	"--simple-console",
-	"/Users/emirhangul/Documents/Gauge-Maven-Java-Web_Automation_Sample/specs/deneme2.spec:5"
+	"--dir=/Users/gule/Gauge-Maven-Java-Web_Automation_Sample",
+	"/Users/gule/Gauge-Maven-Java-Web_Automation_Sample/specs"
 ]

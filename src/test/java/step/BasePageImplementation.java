@@ -1,9 +1,9 @@
 package step;
 
+import com.thoughtworks.gauge.Step;
 import driver.Driver;
 import mapping.Mapper;
 import pages.BasePage;
-import com.thoughtworks.gauge.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -12,13 +12,14 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
+import java.time.Duration;
 import java.util.List;
 import java.util.Random;
 
-public class StepImplementation {
+public class BasePageImplementation {
     Mapper mapper = new Mapper();
     public WebDriver driver = Driver.getInstance().webDriver;
-    WebDriverWait wait = new WebDriverWait(driver, 10);
+    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
     BasePage basePage = new BasePage(driver);
 
     @Step("<url> Sayfasına gidilir")

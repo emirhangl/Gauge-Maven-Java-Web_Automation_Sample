@@ -1,0 +1,80 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+{"logLevel":"debug","message":"gauge-java took 466milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 466"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 60719"}
+{"logLevel":"info","message":"Listening on port:60719"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'step.HomePageImplementation.selectChildPassengerCount' and 'step.HomePageImplementation.selectChildPassengerCount'"}
+{"logLevel":"debug","message":"Found çocuk yolcu sayısı {} olarak seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.closeThePopUps' and 'step.BasePageImplementation.closeThePopUps'"}
+{"logLevel":"debug","message":"Found Herhangi bir pop up varsa kapatılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.SearchPageImplementation.checkThatTakeOffHourRangeIsCorrect' and 'step.SearchPageImplementation.checkThatTakeOffHourRangeIsCorrect'"}
+{"logLevel":"debug","message":"Found uçuşların kalkış saatlerinin {} ile {} arasında olduğu kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.HomePageImplementation.selectGoToDate' and 'step.HomePageImplementation.selectGoToDate'"}
+{"logLevel":"debug","message":"Found gidiş tarihi {} {} {} olarak seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.HomePageImplementation.selectFromDirection' and 'step.HomePageImplementation.selectFromDirection'"}
+{"logLevel":"debug","message":"Found dönüş yönü olarak {} seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.hoverOnTheElement' and 'step.BasePageImplementation.hoverOnTheElement'"}
+{"logLevel":"debug","message":"Found {} alanının üzerine mouse ile gelinir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.sendKeys' and 'step.BasePageImplementation.sendKeys'"}
+{"logLevel":"debug","message":"Found {} alanına {} yazılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.clickElement' and 'step.BasePageImplementation.clickElement'"}
+{"logLevel":"debug","message":"Found {} butonuna tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.navigateTo' and 'step.BasePageImplementation.navigateTo'"}
+{"logLevel":"debug","message":"Found {} Sayfasına gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.waitSeconds' and 'step.BasePageImplementation.waitSeconds'"}
+{"logLevel":"debug","message":"Found {} Saniyesi kadar beklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.SearchPageImplementation.selectTakeOffHourRange' and 'step.SearchPageImplementation.selectTakeOffHourRange'"}
+{"logLevel":"debug","message":"Found gidiş kalkış varış saatleri filtresinden kalkış saati {} ile {} arası seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.clickRandomElementFromByList' and 'step.BasePageImplementation.clickRandomElementFromByList'"}
+{"logLevel":"debug","message":"Found {} listesinden rastgele bir elemana tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.HomePageImplementation.selectFlightType' and 'step.HomePageImplementation.selectFlightType'"}
+{"logLevel":"debug","message":"Found uçak sınıfı {} olarak seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.HomePageImplementation.selectGoToDirection' and 'step.HomePageImplementation.selectGoToDirection'"}
+{"logLevel":"debug","message":"Found gidiş yönü olarak {} seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.HomePageImplementation.selectFromDate' and 'step.HomePageImplementation.selectFromDate'"}
+{"logLevel":"debug","message":"Found dönüş tarihi {} {} {} olarak seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.deleteTextbox' and 'step.BasePageImplementation.deleteTextbox'"}
+{"logLevel":"debug","message":"Found {} alanı silinir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.pressENTER' and 'step.BasePageImplementation.pressENTER'"}
+{"logLevel":"debug","message":"Found Klavyeden ENTER tuşuna basılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.HomePageImplementation.selectBabyPassengerCount' and 'step.HomePageImplementation.selectBabyPassengerCount'"}
+{"logLevel":"debug","message":"Found bebek yolcu sayısı {} olarak seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.pressTAB' and 'step.BasePageImplementation.pressTAB'"}
+{"logLevel":"debug","message":"Found Klavyeden TAB tuşuna basılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.waitForTheElement' and 'step.BasePageImplementation.waitForTheElement'"}
+{"logLevel":"debug","message":"Found {} elementinin görülmesi beklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'step.HomePageImplementation.selectAdultPassengerNumber' and 'step.HomePageImplementation.selectAdultPassengerNumber'"}
+{"logLevel":"debug","message":"Found yetişkin yolcu sayısı {} olarak seçilir in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} listesinden rastgele bir elemana tıklanır : public void clickRandomElementFromByList(String byList)"}
+{"logLevel":"debug","message":"\t{} butonuna tıklanır : public void clickElement(String by)"}
+{"logLevel":"debug","message":"\t{} elementinin görülmesi beklenir : public void waitForTheElement(String by)"}
+{"logLevel":"debug","message":"\tKlavyeden ENTER tuşuna basılır : public void pressENTER()"}
+{"logLevel":"debug","message":"\tKlavyeden TAB tuşuna basılır : public void pressTAB()"}
+{"logLevel":"debug","message":"\tgidiş tarihi {} {} {} olarak seçilir : public void selectGoToDate(String day, String month, String year)"}
+{"logLevel":"debug","message":"\tbebek yolcu sayısı {} olarak seçilir : public void selectBabyPassengerCount(int count)"}
+{"logLevel":"debug","message":"\tuçuşların kalkış saatlerinin {} ile {} arasında olduğu kontrol edilir : public void checkThatTakeOffHourRangeIsCorrect(String start, String end)"}
+{"logLevel":"debug","message":"\tdönüş yönü olarak {} seçilir : public void selectFromDirection(String str)"}
+{"logLevel":"debug","message":"\tdönüş tarihi {} {} {} olarak seçilir : public void selectFromDate(String day, String month, String year)"}
+{"logLevel":"debug","message":"\tuçak sınıfı {} olarak seçilir : public void selectFlightType(String str)"}
+{"logLevel":"debug","message":"\t{} Sayfasına gidilir : public void navigateTo(String url)"}
+{"logLevel":"debug","message":"\tyetişkin yolcu sayısı {} olarak seçilir : public void selectAdultPassengerNumber(int count)"}
+{"logLevel":"debug","message":"\tgidiş yönü olarak {} seçilir : public void selectGoToDirection(String str)"}
+{"logLevel":"debug","message":"\tçocuk yolcu sayısı {} olarak seçilir : public void selectChildPassengerCount(int count)"}
+{"logLevel":"debug","message":"\t{} alanına {} yazılır : public void sendKeys(String by, String text)"}
+{"logLevel":"debug","message":"\t{} Saniyesi kadar beklenir : public void waitSeconds(int seconds)"}
+{"logLevel":"debug","message":"\t{} alanının üzerine mouse ile gelinir : public void hoverOnTheElement(String by)"}
+{"logLevel":"debug","message":"\t{} alanı silinir : public void deleteTextbox(String by)"}
+{"logLevel":"debug","message":"\tHerhangi bir pop up varsa kapatılır : public void closeThePopUps()"}
+{"logLevel":"debug","message":"\tgidiş kalkış varış saatleri filtresinden kalkış saati {} ile {} arası seçilir : public void selectTakeOffHourRange(String start, String end)"}
+Feb 09, 2024 7:59:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 121, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 121
+{"logLevel":"debug","message":"Executing '{} Sayfasına gidilir' using 'class step.BasePageImplementation.navigateTo"}
+{"logLevel":"debug","message":"Executing '{} butonuna tıklanır' using 'class step.BasePageImplementation.clickElement"}

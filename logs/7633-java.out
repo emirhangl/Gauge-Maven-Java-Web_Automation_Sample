@@ -9,27 +9,27 @@ SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further detail
 {"logLevel":"debug","message":"started gRPC server on port 57244"}
 {"logLevel":"info","message":"Listening on port:57244"}
 {"logLevel":"debug","message":"Scanning packages for steps"}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.closeThePopUps' and 'step.StepImplementation.closeThePopUps'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.closeThePopUps' and 'step.BasePageImplementation.closeThePopUps'"}
 {"logLevel":"debug","message":"Found Herhangi bir pop up varsa kapatılır in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.pressENTER' and 'step.StepImplementation.pressENTER'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.pressENTER' and 'step.BasePageImplementation.pressENTER'"}
 {"logLevel":"debug","message":"Found Klavyeden ENTER tuşuna basılır in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.navigateTo' and 'step.StepImplementation.navigateTo'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.navigateTo' and 'step.BasePageImplementation.navigateTo'"}
 {"logLevel":"debug","message":"Found {} Sayfasına gidilir in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.waitSeconds' and 'step.StepImplementation.waitSeconds'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.waitSeconds' and 'step.BasePageImplementation.waitSeconds'"}
 {"logLevel":"debug","message":"Found {} Saniyesi kadar beklenir in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.hoverOnTheElement' and 'step.StepImplementation.hoverOnTheElement'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.hoverOnTheElement' and 'step.BasePageImplementation.hoverOnTheElement'"}
 {"logLevel":"debug","message":"Found {} alanının üzerine mouse ile gelinir in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.deleteTextbox' and 'step.StepImplementation.deleteTextbox'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.deleteTextbox' and 'step.BasePageImplementation.deleteTextbox'"}
 {"logLevel":"debug","message":"Found {} alanı silinir in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.clickElement' and 'step.StepImplementation.clickElement'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.clickElement' and 'step.BasePageImplementation.clickElement'"}
 {"logLevel":"debug","message":"Found {} butonuna tıklanır in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.sendKeys' and 'step.StepImplementation.sendKeys'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.sendKeys' and 'step.BasePageImplementation.sendKeys'"}
 {"logLevel":"debug","message":"Found {} alanına {} yazılır in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.clickRandomElementFromByList' and 'step.StepImplementation.clickRandomElementFromByList'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.clickRandomElementFromByList' and 'step.BasePageImplementation.clickRandomElementFromByList'"}
 {"logLevel":"debug","message":"Found {} listesinden rastgele bir elemana tıklanır in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.waitForTheElement' and 'step.StepImplementation.waitForTheElement'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.waitForTheElement' and 'step.BasePageImplementation.waitForTheElement'"}
 {"logLevel":"debug","message":"Found {} elementinin görülmesi beklenir in current project scope."}
-{"logLevel":"debug","message":"Comparing 'step.StepImplementation.pressTAB' and 'step.StepImplementation.pressTAB'"}
+{"logLevel":"debug","message":"Comparing 'step.BasePageImplementation.pressTAB' and 'step.BasePageImplementation.pressTAB'"}
 {"logLevel":"debug","message":"Found Klavyeden TAB tuşuna basılır in current project scope."}
 {"logLevel":"debug","message":"Scanning packages for hooks"}
 {"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
@@ -50,7 +50,7 @@ Please see https://chromedriver.chromium.org/security-considerations for suggest
 ChromeDriver was started successfully.
 Sep 02, 2020 5:55:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-{"logLevel":"debug","message":"Executing '{} Sayfasına gidilir' using 'class step.StepImplementation.navigateTo"}
-{"logLevel":"debug","message":"Executing '{} alanının üzerine mouse ile gelinir' using 'class step.StepImplementation.hoverOnTheElement"}
-{"logLevel":"debug","message":"Executing '{} butonuna tıklanır' using 'class step.StepImplementation.clickElement"}
-{"logLevel":"debug","message":"Executing '{} alanına {} yazılır' using 'class step.StepImplementation.sendKeys"}
+{"logLevel":"debug","message":"Executing '{} Sayfasına gidilir' using 'class step.BasePageImplementation.navigateTo"}
+{"logLevel":"debug","message":"Executing '{} alanının üzerine mouse ile gelinir' using 'class step.BasePageImplementation.hoverOnTheElement"}
+{"logLevel":"debug","message":"Executing '{} butonuna tıklanır' using 'class step.BasePageImplementation.clickElement"}
+{"logLevel":"debug","message":"Executing '{} alanına {} yazılır' using 'class step.BasePageImplementation.sendKeys"}

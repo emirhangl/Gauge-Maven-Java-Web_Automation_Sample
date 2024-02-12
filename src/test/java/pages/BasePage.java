@@ -2,6 +2,8 @@ package pages;
 
 import mapping.Mapper;
 import org.junit.Assert;
+import org.junit.Test;
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -9,17 +11,18 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.time.Duration;
+import java.util.List;
+
 
 public class BasePage {
     Mapper mapper = new Mapper();
     protected WebDriver driver;
     protected WebDriverWait wait;
-    protected JavascriptExecutor javaScriptExecutor;
 
     public BasePage(WebDriver webDriver) {
         this.driver = webDriver;
-        this.wait = new WebDriverWait(this.driver, 30);
-        this.javaScriptExecutor = (JavascriptExecutor) driver;
+        this.wait = new WebDriverWait(this.driver, Duration.ofSeconds(30));
     }
 
     public void navigateTo(String url) {
@@ -39,7 +42,26 @@ public class BasePage {
         return element;
     }
 
+    public WebElement findElement(By by) {
+        WebElement element = wait.until(ExpectedConditions.presenceOfElementLocated(by));
+        return element;
+    }
+
+    public List<WebElement> findElements(String by) {
+        List<WebElement> elements = (List<WebElement>) wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(mapper.getElementFromJSON(by)));
+        return elements;
+    }
+
+    public List<WebElement> findElements(By by) {
+        List<WebElement> elements = (List<WebElement>) wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(by));
+        return elements;
+    }
+
     public void clickElement(String by) {
+        findElement(by).click();
+    }
+
+    public void clickElement(By by) {
         findElement(by).click();
     }
 
@@ -47,7 +69,15 @@ public class BasePage {
         findElement(by).sendKeys(text);
     }
 
+    public void sendKeys(By by, String text) {
+        findElement(by).sendKeys(text);
+    }
+
     public void clearTextbox(String by) {
+        findElement(by).clear();
+    }
+
+    public void clearTextbox(By by) {
         findElement(by).clear();
     }
 
@@ -69,6 +99,5 @@ public class BasePage {
             driver.switchTo().alert().accept();
         }
     }
-
 
 }

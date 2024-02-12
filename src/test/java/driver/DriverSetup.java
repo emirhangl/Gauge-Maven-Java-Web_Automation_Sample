@@ -18,10 +18,10 @@ public class DriverSetup {
     @BeforeScenario
     public void initializeDriver() throws MalformedURLException {
         Driver.getInstance().webDriver = getDriver();
-        Driver.getInstance().webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS)
+        Driver.getInstance().webDriver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS)
                 .setScriptTimeout(10, TimeUnit.SECONDS)
                 .pageLoadTimeout(10, TimeUnit.SECONDS);
-        Driver.getInstance().webDriver.manage().window().fullscreen();
+        Driver.getInstance().webDriver.manage().window().maximize();
 
     }
 
@@ -40,10 +40,10 @@ public class DriverSetup {
                 WebDriverManager.firefoxdriver().setup();
                 return new FirefoxDriver();
             case "REMOTECHROME":
-                DesiredCapabilities capability = DesiredCapabilities.chrome();
+               /* DesiredCapabilities capability = DesiredCapabilities.chrome();
                 capability.setBrowserName("chrome");
                 capability.setPlatform(org.openqa.selenium.Platform.LINUX);
-                return new RemoteWebDriver(new URL("http://10.0.0.4:4447/wd/hub"), capability);
+                return new RemoteWebDriver(new URL("http://10.0.0.4:4447/wd/hub"), capability); */
             default:
                 WebDriverManager.chromedriver().setup();
                 return new ChromeDriver();
